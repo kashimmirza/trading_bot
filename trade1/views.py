@@ -210,7 +210,10 @@ def run_bot():
     if obj.run_trading == True:
         # CAll Trading funstion here(live-trading.py)
 
-        result = function.delay()
+        run_scanner.apply_async()
+        # function.apply_async()
+        # as many as function you want to run asy
+        # just call like this way
 
         pass
     if obj.run_scanner == True:
