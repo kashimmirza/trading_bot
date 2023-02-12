@@ -1,0 +1,25 @@
+<!-- templates/trading/create_trading_account.html -->
+
+{% extends 'base.html' %}
+
+{% block content %}
+    <h2>Create Trading Account</h2>
+    <form method="post">
+        {% csrf_token %}
+        {{ form.as_p }}
+        <button type="submit">Save</button>
+    </form>
+{% endblock %}
+
+<!-- templates/trading/trading_account_list.html -->
+
+{% extends 'base.html' %}
+
+{% block content %}
+    <h2>Trading Accounts</h2>
+    <ul>
+        {% for trading_account in trading_accounts %}
+            <li>{{ trading_account.account_id }}</li>
+        {% endfor %}
+    </ul>
+{% endblock %}

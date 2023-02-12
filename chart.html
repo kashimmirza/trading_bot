@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <style>
+        .error {
+            color: red;
+        }
+    </style>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@4.17.0"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@6"></script>
+</head>
+
+<body>
+    <div id="vis"></div>
+    <script>
+        (function(vegaEmbed) {
+            var spec = {
+                "config": {
+                    "view": {
+                        "continuousWidth": 400,
+                        "continuousHeight": 300
+                    }
+                },
+                "layer": [{
+                    "mark": {
+                        "type": "line",
+                        "color": "green",
+                        "opacity": 0.5
+                    },
+                    "encoding": {
+                        "x": {
+                            "field": "date",
+                            "type": "temporal"
+                        },
+                        "y": {
+                            "axis": {
+                                "format": "$.2f",
+                                "title": "Price"
+                            },
+                            "field": "position",
+                            "scale": {
+                                "clamp": true,
+                                "domain": [25.610000610351562, 134.8300018310547]
+                            },
+                            "type": "quantitative"
+                        }
+                    },
+                    "selection": {
+                        "selector001": {
+                            "type": "interval",
+                            "bind": "scales",
+                            "encodings": ["x"]
+                        },
+                        "selector005": {
+                            "type": "interval",
+                            "bind": "scales",
+                            "encodings": ["x", "y"]
+                        }
+                    }
+                }, {
+                    "layer": [{
+                        "mark": {
+                            "type": "point",
+                            "filled": true
+                        },
+                        "encoding": {
+                            "color": {
+                                "field": "action",
+                                "type": "nominal"
+                            },
+                            "x": {
+                                "axis": {
+                                    "title": "Date"
+                                },
+                                "field": "date",
+                                "type": "temporal"
+                            },
+                            "y": {
+                                "axis": {
+                                    "format": "$.2f",
+                                    "title": "Price"
+                                },
+                                "field": "position",
+                                "scale": {
+                                    "clamp": true,
+                                    "domain": [25.610000610351562, 134.8300018310547]
+                                },
+                                "type": "quantitative"
+                            }
+                        },
+                        "selection": {
+                            "selector002": {
+                                "type": "interval",
+                                "bind": "scales",
+                                "encodings": ["x"]
+                            }
+                        },
+                        "transform": [{
+                            "filter": "(datum.action !== 'HOLD')"
+                        }]
+                    }, {
+                        "mark": {
+                            "type": "text",
+                            "dy": -8,
+                            "size": 9
+                        },
+                        "encoding": {
+                            "color": {
+                                "field": "action",
+                                "type": "nominal"
+                            },
+                            "text": {
+                                "field": "action",
+                                "type": "nominal"
+                            },
+                            "x": {
+                                "axis": {
+                                    "title": "Date"
+                                },
+                                "field": "date",
+                                "type": "temporal"
+                            },
+                            "y": {
+                                "axis": {
+                                    "format": "$.2f",
+                                    "title": "Price"
+                                },
+                                "field": "position",
+                                "scale": {
+                                    "clamp": true,
+                                    "domain": [25.610000610351562, 134.8300018310547]
+                                },
+                                "type": "quantitative"
+                            }
+                        },
+                        "selection": {
+                            "selector003": {
+                                "type": "interval",
+                                "bind": "scales",
+                                "encodings": ["x"]
+                            }
+                        },
+                        "transform": [{
+                            "filter": "(datum.action !== 'HOLD')"
+                        }]
+                    }, {
+                        "mark": {
+                            "type": "text",
+                            "dy": 10,
+                            "size": 8
+                        },
+                        "encoding": {
+                            "color": {
+                                "field": "action",
+                                "type": "nominal"
+                            },
+                            "text": {
+                                "field": "date",
+                                "type": "temporal"
+                            },
+                            "x": {
+                                "axis": {
+                                    "title": "Date"
+                                },
+                                "field": "date",
+                                "type": "temporal"
+                            },
+                            "y": {
+                                "axis": {
+                                    "format": "$.2f",
+                                    "title": "Price"
+                                },
+                                "field": "position",
+                                "scale": {
+                                    "clamp": true,
+                                    "domain": [25.610000610351562, 134.8300018310547]
+                                },
+                                "type": "quantitative"
+                            }
+                        },
+                        "selection": {
+                            "selector004": {
+                                "type": "interval",
+                                "bind": "scales",
+                                "encodings": ["x"]
+                            }
+                        },
+                        "transform": [{
+                            "filter": "(datum.action !== 'HOLD')"
+                        }]
+                    }]
+                }],
+                "data": {
+                    "name": "data-b1c45ce4c36f4017332f2a2768d0fe96"
+                },
+                "height": 1000,
+                "title": "test_data.csv",
+                "width": 6000,
+                "$schema": "https://vega.github.io/schema/vega-lite/v4.17.0.json",
+                "datasets": {
+                    "data-b1c45ce4c36f4017332f2a2768d0fe96": [{
+                        "date": "2022-12-19T00:00:00-05:00",
+                        "actual": 78.29000091552734,
+                        "position": 78.29000091552734,
+                        "action": "HOLD"
+                    }, {
+                        "date": "2022-12-20T00:00:00-05:00",
+                        "actual": 83.30999755859375,
+                        "position": 78.29000091552734,
+                        "action": "BUY"
+                    }, {
+                        "date": "2022-12-21T00:00:00-05:00",
+                        "actual": 83.87000274658203,
+                        "position": 83.30999755859375,
+                        "action": "BUY"
+                    }, {
+                        "date": "2022-12-22T00:00:00-05:00",
+                        "actual": 82.0,
+                        "position": 83.87000274658203,
+                        "action": "SELL"
+                    }, {
+                        "date": "2022-12-23T00:00:00-05:00",
+                        "actual": 82.19000244140625,
+                        "position": 82.0,
+                        "action": "SELL"
+                    }, {
+                        "date": "2022-12-27T00:00:00-05:00",
+                        "actual": 82.88999938964844,
+                        "position": 82.19000244140625,
+                        "action": "HOLD"
+                    }, {
+                        "date": "2022-12-28T00:00:00-05:00",
+                        "actual": 80.5999984741211,
+                        "position": 82.88999938964844,
+                        "action": "HOLD"
+                    }, {
+                        "date": "2022-12-29T00:00:00-05:00",
+                        "actual": 81.91000366210938,
+                        "position": 80.5999984741211,
+                        "action": "BUY"
+                    }, {
+                        "date": "2022-12-30T00:00:00-05:00",
+                        "actual": 82.0999984741211,
+                        "position": 81.91000366210938,
+                        "action": "BUY"
+                    }, {
+                        "date": "2023-01-03T00:00:00-05:00",
+                        "actual": 83.86000061035156,
+                        "position": 82.0999984741211,
+                        "action": "SELL"
+                    }, {
+                        "date": "2023-01-04T00:00:00-05:00",
+                        "actual": 82.25,
+                        "position": 83.86000061035156,
+                        "action": "BUY"
+                    }, {
+                        "date": "2023-01-05T00:00:00-05:00",
+                        "actual": 80.25,
+                        "position": 82.25,
+                        "action": "SELL"
+                    }, {
+                        "date": "2023-01-06T00:00:00-05:00",
+                        "actual": 84.38999938964844,
+                        "position": 80.25,
+                        "action": "BUY"
+                    }, {
+                        "date": "2023-01-09T00:00:00-05:00",
+                        "actual": 84.7699966430664,
+                        "position": 84.38999938964844,
+                        "action": "BUY"
+                    }, {
+                        "date": "2023-01-10T00:00:00-05:00",
+                        "actual": 78.37000274658203,
+                        "position": 84.7699966430664,
+                        "action": "SELL"
+                    }, {
+                        "date": "2023-01-11T00:00:00-05:00",
+                        "actual": 75.61000061035156,
+                        "position": 78.37000274658203,
+                        "action": "BUY"
+                    }, {
+                        "date": "2023-01-12T00:00:00-05:00",
+                        "actual": 80.44999694824219,
+                        "position": 75.61000061035156,
+                        "action": "BUY"
+                    }, {
+                        "date": "2023-01-13T00:00:00-05:00",
+                        "actual": 80.58000183105469,
+                        "position": 80.44999694824219,
+                        "action": "SELL"
+                    }, {
+                        "date": "2023-01-17T00:00:00-05:00",
+                        "actual": 84.83000183105469,
+                        "position": 80.58000183105469,
+                        "action": "BUY"
+                    }, {
+                        "date": "2023-01-18T00:00:00-05:00",
+                        "actual": 79.33000183105469,
+                        "position": 84.83000183105469,
+                        "action": "BUY"
+                    }]
+                }
+            };
+            var embedOpt = {
+                "mode": "vega-lite"
+            };
+
+            function showError(el, error) {
+                el.innerHTML = ('<div class="error" style="color:red;">' +
+                    '<p>JavaScript Error: ' + error.message + '</p>' +
+                    "<p>This usually means there's a typo in your chart specification. " +
+                    "See the javascript console for the full traceback.</p>" +
+                    '</div>');
+                throw error;
+            }
+            const el = document.getElementById('vis');
+            vegaEmbed("#vis", spec, embedOpt)
+                .catch(error => showError(el, error));
+        })(vegaEmbed);
+    </script>
+</body>
+
+</html>

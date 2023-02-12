@@ -1,0 +1,132 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+p{
+    color: #ffffff;
+}
+.p1{
+    font-size: 20px;
+    font-weight: bolder;
+}
+.p2{
+    font-size: 14px;
+}
+.myP{
+    font-size: 15px;
+    color: rgb(100, 99, 99);
+}
+i{
+    margin-left: 10px;
+    font-size: 18px;
+}
+#myId1, #myId2, #myId3, #myId4{
+    background: #000000;
+    border-radius: 3px;
+    height: 50px;
+}
+.bgg{
+    background-color: gray;
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
+}
+.bor{
+    border-bottom: 1px solid #ffffff;
+}
+
+.switch{
+    position: relative;
+    display: inline-block;
+    width: 40px;
+    height: 20px;
+    margin: 0 10px;
+}
+
+.slider{
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: gray;
+    transition: .4s;
+    border-radius: 34px;
+}
+.switch input{
+    display: none;
+}
+.slider:before{
+    position: absolute;
+    content: "";
+    height: 20px;
+    width: 20px;
+    background-color: aliceblue;
+    transition: 0.4s;
+    border-radius: 50px;
+}
+
+input:checked + .slider{
+    background-color: red;
+}
+
+input:checked + .slider:before{
+    transform: translateX(20px);
+}
+
+.tooltip-text {
+  visibility: hidden;
+  position: absolute;
+  z-index: 2;
+  width: 250px;
+  text-align: left;
+  color: white;
+  margin-left: 0px;
+  font-size: 12px;
+  background: #000000;
+  padding: 10px 15px 10px 15px;
+}
+.lS1{
+    margin-left: 25px;
+}
+.lS{
+    margin-left: 40px;
+}
+.lS2{
+    margin-left: 20px;
+}
+.tooltip-text::before {
+  content: "";
+  position: absolute;
+  transform: rotate(45deg);
+  background: #000000;
+  padding: 5px;
+  margin-top: 10px;
+  z-index: 1;
+}
+
+.hover-text:hover .tooltip-text {
+  visibility: visible;
+}
+
+#top {
+  top: -120px;
+  left: -50%;
+}
+
+#top::before {
+  top: 80%;
+  left: 45%;
+}
+.hover-text {
+    position: relative;
+    display: inline-block;
+}
+#top2 {
+    top: -105px;
+    left: -50%;
+}
+#top2::before {
+    top: 80%;
+    left: 45%;
+  }

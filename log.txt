@@ -1,0 +1,1724 @@
+02/10/2023 06:31:45	 Limit Buy TMDX With 1 Shares and amount $50.19 at limit price $64.35
+02/08/2023 10:33:40	 Limit Buy SMCI With 1 Shares and amount $50.01 at limit price $81.98
+02/08/2023 10:27:42	 Limit Buy SMCI With 1 Shares and amount $50.01 at limit price $81.98
+02/08/2023 10:21:44	 Limit Buy SMCI With 1 Shares and amount $50.01 at limit price $81.98
+02/08/2023 10:15:56	 Limit Buy SMCI With 1 Shares and amount $50.01 at limit price $81.98
+02/08/2023 10:09:57	 Limit Buy SMCI With 1 Shares and amount $50.01 at limit price $81.98
+02/08/2023 10:04:12	 Limit Buy SMCI With 1 Shares and amount $50.01 at limit price $81.98
+02/08/2023 09:58:46	 Limit Buy ESE With 1 Shares and amount $49.51 at limit price $101.05
+02/08/2023 09:58:32	 Limit Buy CAH With 1 Shares and amount $50.31 at limit price $78.61
+02/08/2023 09:58:17	 Limit Buy AGYS With 1 Shares and amount $50.37 at limit price $83.95
+02/08/2023 09:58:07	 Limit Buy SMCI With 1 Shares and amount $50.01 at limit price $81.98
+Buy Order Cannot Place for Stock ESE Low buying Power 
+Buy Order Cannot Place for Stock CAH Low buying Power 
+Buy Order Cannot Place for Stock AGYS Low buying Power 
+Buy Order Cannot Place for Stock SMCI Low buying Power 
+Buy Order Cannot Place for Stock ESE Low buying Power 
+Buy Order Cannot Place for Stock CAH Low buying Power 
+Buy Order Cannot Place for Stock AGYS Low buying Power 
+Buy Order Cannot Place for Stock SMCI Low buying Power 
+Buy Order Cannot Place for Stock ESE Low buying Power 
+Buy Order Cannot Place for Stock CAH Low buying Power 
+Buy Order Cannot Place for Stock AGYS Low buying Power 
+Buy Order Cannot Place for Stock SMCI Low buying Power 
+Buy Order Cannot Place for Stock ESE Low buying Power 
+Buy Order Cannot Place for Stock CAH Low buying Power 
+Buy Order Cannot Place for Stock AGYS Low buying Power 
+Buy Order Cannot Place for Stock SMCI Low buying Power 
+Buy Order Cannot Place for Stock ESE Low buying Power 
+Buy Order Cannot Place for Stock CAH Low buying Power 
+Buy Order Cannot Place for Stock AGYS Low buying Power 
+Buy Order Cannot Place for Stock SMCI Low buying Power 
+Buy Order Cannot Place for Stock ESE Low buying Power 
+Buy Order Cannot Place for Stock CAH Low buying Power 
+Buy Order Cannot Place for Stock AGYS Low buying Power 
+Buy Order Cannot Place for Stock SMCI Low buying Power 
+Buy Order Cannot Place for Stock ESE Low buying Power 
+Buy Order Cannot Place for Stock CAH Low buying Power 
+Buy Order Cannot Place for Stock AGYS Low buying Power 
+Buy Order Cannot Place for Stock SMCI Low buying Power 
+Buy Order Cannot Place for Stock ESE Low buying Power 
+Buy Order Cannot Place for Stock CAH Low buying Power 
+Buy Order Cannot Place for Stock AGYS Low buying Power 
+Buy Order Cannot Place for Stock SMCI Low buying Power 
+Buy Order Cannot Place for Stock ESE Low buying Power 
+Buy Order Cannot Place for Stock CAH Low buying Power 
+Buy Order Cannot Place for Stock AGYS Low buying Power 
+Buy Order Cannot Place for Stock SMCI Low buying Power 
+Buy Order Cannot Place for Stock ESE Low buying Power 
+Buy Order Cannot Place for Stock CAH Low buying Power 
+Buy Order Cannot Place for Stock AGYS Low buying Power 
+Buy Order Cannot Place for Stock SMCI Low buying Power 
+Buy Order Cannot Place for Stock ESE Low buying Power 
+Buy Order Cannot Place for Stock CAH Low buying Power 
+Buy Order Cannot Place for Stock AGYS Low buying Power 
+Buy Order Cannot Place for Stock SMCI Low buying Power 
+Buy Order Cannot Place for Stock ESE Low buying Power 
+Buy Order Cannot Place for Stock CAH Low buying Power 
+Buy Order Cannot Place for Stock AGYS Low buying Power 
+Buy Order Cannot Place for Stock SMCI Low buying Power 
+Buy Order Cannot Place for Stock ESE Low buying Power 
+Buy Order Cannot Place for Stock CAH Low buying Power 
+Buy Order Cannot Place for Stock AGYS Low buying Power 
+Buy Order Cannot Place for Stock SMCI Low buying Power 
+Buy Order Cannot Place for Stock ESE Low buying Power 
+Buy Order Cannot Place for Stock CAH Low buying Power 
+Buy Order Cannot Place for Stock AGYS Low buying Power 
+Buy Order Cannot Place for Stock SMCI Low buying Power 
+Buy Order Cannot Place for Stock ESE Low buying Power 
+Buy Order Cannot Place for Stock CAH Low buying Power 
+Buy Order Cannot Place for Stock AGYS Low buying Power 
+Buy Order Cannot Place for Stock SMCI Low buying Power 
+Buy Order Cannot Place for Stock ESE Low buying Power 
+Buy Order Cannot Place for Stock CAH Low buying Power 
+Buy Order Cannot Place for Stock AGYS Low buying Power 
+Buy Order Cannot Place for Stock SMCI Low buying Power 
+Buy Order Cannot Place for Stock ESE Low buying Power 
+Buy Order Cannot Place for Stock CAH Low buying Power 
+Buy Order Cannot Place for Stock AGYS Low buying Power 
+Buy Order Cannot Place for Stock SMCI Low buying Power 
+Buy Order Cannot Place for Stock ESE Low buying Power 
+Buy Order Cannot Place for Stock CAH Low buying Power 
+Buy Order Cannot Place for Stock AGYS Low buying Power 
+Buy Order Cannot Place for Stock SMCI Low buying Power 
+Buy Order Cannot Place for Stock ESE Low buying Power 
+Buy Order Cannot Place for Stock CAH Low buying Power 
+Buy Order Cannot Place for Stock AGYS Low buying Power 
+Buy Order Cannot Place for Stock SMCI Low buying Power 
+Buy Order Cannot Place for Stock ESE Low buying Power 
+Buy Order Cannot Place for Stock CAH Low buying Power 
+Buy Order Cannot Place for Stock AGYS Low buying Power 
+Buy Order Cannot Place for Stock SMCI Low buying Power 
+Buy Order Cannot Place for Stock ESE Low buying Power 
+Buy Order Cannot Place for Stock CAH Low buying Power 
+Buy Order Cannot Place for Stock AGYS Low buying Power 
+Buy Order Cannot Place for Stock SMCI Low buying Power 
+Buy Order Cannot Place for Stock ESE Low buying Power 
+Buy Order Cannot Place for Stock CAH Low buying Power 
+Buy Order Cannot Place for Stock AGYS Low buying Power 
+Buy Order Cannot Place for Stock SMCI Low buying Power 
+Buy Order Cannot Place for Stock ESE Low buying Power 
+Buy Order Cannot Place for Stock CAH Low buying Power 
+Buy Order Cannot Place for Stock AGYS Low buying Power 
+Buy Order Cannot Place for Stock SMCI Low buying Power 
+Buy Order Cannot Place for Stock ESE Low buying Power 
+Buy Order Cannot Place for Stock CAH Low buying Power 
+Buy Order Cannot Place for Stock AGYS Low buying Power 
+Buy Order Cannot Place for Stock SMCI Low buying Power 
+Buy Order Cannot Place for Stock ESE Low buying Power 
+Buy Order Cannot Place for Stock CAH Low buying Power 
+Buy Order Cannot Place for Stock AGYS Low buying Power 
+Buy Order Cannot Place for Stock SMCI Low buying Power 
+Buy Order Cannot Place for Stock ESE Low buying Power 
+Buy Order Cannot Place for Stock CAH Low buying Power 
+Buy Order Cannot Place for Stock AGYS Low buying Power 
+Buy Order Cannot Place for Stock SMCI Low buying Power 
+Buy Order Cannot Place for Stock ESE Low buying Power 
+Buy Order Cannot Place for Stock CAH Low buying Power 
+Buy Order Cannot Place for Stock AGYS Low buying Power 
+Buy Order Cannot Place for Stock SMCI Low buying Power 
+Buy Order Cannot Place for Stock ESE Low buying Power 
+Buy Order Cannot Place for Stock CAH Low buying Power 
+Buy Order Cannot Place for Stock AGYS Low buying Power 
+Buy Order Cannot Place for Stock SMCI Low buying Power 
+Buy Order Cannot Place for Stock ESE Low buying Power 
+Buy Order Cannot Place for Stock CAH Low buying Power 
+Buy Order Cannot Place for Stock AGYS Low buying Power 
+Buy Order Cannot Place for Stock SMCI Low buying Power 
+Buy Order Cannot Place for Stock ESE Low buying Power 
+Buy Order Cannot Place for Stock CAH Low buying Power 
+Buy Order Cannot Place for Stock AGYS Low buying Power 
+Buy Order Cannot Place for Stock SMCI Low buying Power 
+Buy Order Cannot Place for Stock ESE Low buying Power 
+Buy Order Cannot Place for Stock CAH Low buying Power 
+Buy Order Cannot Place for Stock AGYS Low buying Power 
+Buy Order Cannot Place for Stock SMCI Low buying Power 
+Buy Order Cannot Place for Stock ESE Low buying Power 
+Buy Order Cannot Place for Stock CAH Low buying Power 
+Buy Order Cannot Place for Stock AGYS Low buying Power 
+Buy Order Cannot Place for Stock SMCI Low buying Power 
+Buy Order Cannot Place for Stock ESE Low buying Power 
+Buy Order Cannot Place for Stock CAH Low buying Power 
+Buy Order Cannot Place for Stock AGYS Low buying Power 
+Buy Order Cannot Place for Stock SMCI Low buying Power 
+Buy Order Cannot Place for Stock ESE Low buying Power 
+Buy Order Cannot Place for Stock CAH Low buying Power 
+Buy Order Cannot Place for Stock AGYS Low buying Power 
+Buy Order Cannot Place for Stock SMCI Low buying Power 
+Buy Order Cannot Place for Stock ESE Low buying Power 
+Buy Order Cannot Place for Stock CAH Low buying Power 
+Buy Order Cannot Place for Stock AGYS Low buying Power 
+Buy Order Cannot Place for Stock SMCI Low buying Power 
+
+The Symbol : ELF is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : ELF is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : ELF is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : ELF is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : ELF is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : ELF is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : ELF is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : ELF is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : ELF is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : ELF is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : ELF is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : ELF is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : ELF is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : ELF is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : ELF is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : ELF is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : ELF is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : ELF is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : ELF is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : ELF is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : ELF is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : ELF is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : ELF is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : ELF is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : ELF is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : ELF is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : ELF is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : ELF is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : ELF is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : ELF is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : ELF is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : ELF is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : ELF is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : ELF is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : ELF is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : ELF is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : ELF is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : ELF is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : ELF is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : ELF is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : ELF is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : ELF is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : ELF is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : ELF is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : ELF is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : ELF is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : ELF is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : ELF is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : ELF is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : ELF is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : ELF is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : ELF is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : ELF is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : ELF is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : ELF is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : ELF is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : ELF is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : ELF is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : ELF is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : ELF is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : ELF is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : ELF is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : ELF is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : ELF is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+02/07/2023 06:34:05	 Limit Buy FRGE With 23 Shares and amount $50.0 at limit price $2.1
+
+The Symbol : ELF is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+02/07/2023 06:32:49	 Limit Buy FRGE With 23 Shares and amount $50.0 at limit price $2.1
+
+The Symbol : ELF is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+02/07/2023 06:31:39	 Limit Buy FRGE With 23 Shares and amount $50.0 at limit price $2.1
+
+The Symbol : ELF is not in Position
+
+The Symbol : CAH is not in Position
+02/07/2023 06:31:08	 Market SELL AGYS With 1 Shares at price $83.05 Day ProfitLossPercentage -1.29.
+
+The Symbol : SMCI is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : CAH is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : CAH is not in Position
+02/06/2023 06:33:39	 Limit Buy AGYS With 1 Shares and amount $49.79 at limit price $82.99
+02/06/2023 06:33:31	 Market SELL SMCI With 1 Shares at price $84.34 Day ProfitLossPercentage -0.43.
+02/03/2023 12:55:16	 Limit Buy CAH With 1 Shares and amount $50.34 at limit price $76.28
+
+The Symbol : AGYS is not in Position
+02/03/2023 12:49:27	 Limit Buy CAH With 1 Shares and amount $50.34 at limit price $76.28
+
+The Symbol : AGYS is not in Position
+02/03/2023 12:43:41	 Limit Buy CAH With 1 Shares and amount $50.34 at limit price $76.28
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+02/03/2023 06:32:47	 Market SELL AGYS With 1 Shares at price $82.55 Day ProfitLossPercentage -0.85.
+
+The Symbol : ASC is not in Position
+
+The Symbol : ASC is not in Position
+02/02/2023 07:12:26	 Limit Buy AGYS With 1 Shares and amount $49.71 at limit price $82.85
+
+The Symbol : ASC is not in Position
+02/02/2023 07:06:44	 Limit Buy AGYS With 1 Shares and amount $49.71 at limit price $82.85
+
+The Symbol : ASC is not in Position
+02/02/2023 07:00:50	 Limit Buy AGYS With 1 Shares and amount $49.71 at limit price $82.85
+
+The Symbol : ASC is not in Position
+02/02/2023 06:54:48	 Limit Buy AGYS With 1 Shares and amount $49.71 at limit price $82.85
+
+The Symbol : ASC is not in Position
+02/02/2023 06:49:04	 Limit Buy AGYS With 1 Shares and amount $49.71 at limit price $82.85
+
+The Symbol : ASC is not in Position
+02/02/2023 06:43:11	 Limit Buy AGYS With 1 Shares and amount $49.71 at limit price $82.85
+
+The Symbol : ASC is not in Position
+02/02/2023 06:39:43	 Limit Buy AGYS With 1 Shares and amount $49.71 at limit price $82.85
+
+The Symbol : ASC is not in Position
+02/02/2023 06:37:29	 Limit Buy AGYS With 1 Shares and amount $49.71 at limit price $82.85
+
+The Symbol : ASC is not in Position
+02/02/2023 06:35:56	 Limit Buy AGYS With 1 Shares and amount $49.71 at limit price $82.85
+
+The Symbol : ASC is not in Position
+02/02/2023 06:34:52	 Limit Buy AGYS With 1 Shares and amount $49.71 at limit price $82.85
+
+The Symbol : ASC is not in Position
+02/02/2023 06:33:51	 Limit Buy AGYS With 1 Shares and amount $49.71 at limit price $82.85
+02/02/2023 06:33:37	 Market SELL ASC With 1 Shares at price $15.05 Day ProfitLossPercentage -0.73.
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : AGYS is not in Position
+02/01/2023 07:52:07	 Limit Buy SMCI With 1 Shares and amount $49.91 at limit price $72.33
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : SMCI is not in Position
+
+The Symbol : AGYS is not in Position
+01/31/2023 06:33:18	 Market SELL SMCI With 1 Shares at price $72.13 Day ProfitLossPercentage 0.44.
+
+The Symbol : TMDX is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : TMDX is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : TMDX is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : TMDX is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : TMDX is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : TMDX is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : TMDX is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : TMDX is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : TMDX is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : TMDX is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : TMDX is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : TMDX is not in Position
+
+The Symbol : AGYS is not in Position
+
+The Symbol : TMDX is not in Position
+
+The Symbol : AGYS is not in Position
+01/30/2023 11:08:51	 Limit Buy SMCI With 1 Shares and amount $49.78 at limit price $74.3
+
+The Symbol : TMDX is not in Position
+
+The Symbol : AGYS is not in Position
+01/30/2023 11:03:08	 Limit Buy SMCI With 1 Shares and amount $49.78 at limit price $74.3
+
+The Symbol : TMDX is not in Position
+
+The Symbol : AGYS is not in Position
+01/30/2023 10:59:33	 Limit Buy SMCI With 1 Shares and amount $49.78 at limit price $74.3
+
+The Symbol : TMDX is not in Position
+
+The Symbol : AGYS is not in Position
+01/30/2023 10:57:32	 Limit Buy SMCI With 1 Shares and amount $49.78 at limit price $74.3
+
+The Symbol : TMDX is not in Position
+
+The Symbol : AGYS is not in Position
+01/30/2023 10:55:54	 Limit Buy SMCI With 1 Shares and amount $49.78 at limit price $74.3
+
+The Symbol : TMDX is not in Position
+
+The Symbol : AGYS is not in Position
+01/30/2023 10:54:50	 Limit Buy SMCI With 1 Shares and amount $49.78 at limit price $74.3
+
+The Symbol : TMDX is not in Position
+
+The Symbol : AGYS is not in Position
+01/30/2023 10:53:30	 Limit Buy SMCI With 1 Shares and amount $49.78 at limit price $74.3
+
+The Symbol : TMDX is not in Position
+
+The Symbol : AGYS is not in Position
+01/30/2023 10:51:54	 Limit Buy SMCI With 1 Shares and amount $49.78 at limit price $74.3
+Buy Order Cannot Place for Stock SMCI Low buying Power 
+
+The Symbol : AGYS is not in Position
+Buy Order Cannot Place for Stock AGYS Error name 'acc_id' is not defined
+
+The Symbol : AGYS is not in Position
+01/11/2023 06:33:37	 Market Buy AGYS With 1 Shares and amount $50.3 at price $77.38
+01/11/2023 05:44:11	 Market Buy AGYS With 1 Shares and amount $50.3 at price $77.38
+01/10/2023 13:53:47	 Market Buy AGYS With 1 Shares and amount $50.15 at price $75.98
+
+The Symbol : AGI is not in Position
+
+The Symbol : PWSC is not in Position
+
+The Symbol : PDS is not in Position
+01/10/2023 13:52:42	 Market Buy PBYI With 10 Shares and amount $50.02 at price $4.61
+
+The Symbol : PBF is not in Position
+01/10/2023 13:52:29	 Market Buy NVCN With 2 Shares and amount $49.93 at price $17.1
+01/10/2023 13:52:23	 Market Buy NINE With 3 Shares and amount $50.05 at price $13.49
+
+The Symbol : MOD is not in Position
+01/10/2023 13:51:53	 Market Buy INSW With 1 Shares and amount $49.92 at price $33.73
+01/10/2023 13:51:39	 Market Buy IMCR With 1 Shares and amount $49.89 at price $51.43
+
+The Symbol : HGBL is not in Position
+
+The Symbol : GERN is not in Position
+
+The Symbol : FENC is not in Position
+
+The Symbol : CRT is not in Position
+
+The Symbol : CEIX is not in Position
+
+The Symbol : CEG is not in Position
+
+The Symbol : CECO is not in Position
+01/10/2023 13:49:31	 Market Buy AVTE With 2 Shares and amount $50.05 at price $24.9
+01/10/2023 13:49:22	 Market Buy ATXS With 3 Shares and amount $50.01 at price $15.11
+
+The Symbol : ASUR is not in Position
+01/10/2023 13:48:36	 Market Buy AGYS With 1 Shares and amount $50.15 at price $75.98
+
+The Symbol : AGI is not in Position

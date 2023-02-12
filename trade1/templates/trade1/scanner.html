@@ -1,0 +1,137 @@
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../static/homestyle.css">
+    <!-- bootstrap css link -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css">
+
+    <!-- bootstrap js link -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js">
+
+    <!-- bootstrap icons link -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
+
+</head>
+{% extends 'base.html' %}
+{% block content %}
+
+    {% if messages %}
+        <br>
+        {% for message in messages %}
+        <div class="alert alert-{{ message.tags }} alert-dismissible fade show" role="alert">
+        <strong>{{ message }}</strong>
+        <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+        <span aria-hidden="true">&times;</span>
+        </button>
+        </div>
+        {% endfor %}
+    {% endif %}
+
+    <div class="bg-light p-5 rounded mb-2">
+        <h3>Scanner Configuration</h3>
+    </div> 
+     
+    <form method = "post" action = "/scanner">
+        {% csrf_token %}
+        <div class="bg-clr bg-dark">
+        <section>
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-md-12 col-sm-12">
+                        <p class="p1 mt-4">
+                            Scanner Adjustment
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section>
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-md-12 col-sm-12">
+                        <p class="myP mb-4">
+                            Configure The Symbols and Models Name to get the result of symbol and model. <i class="bi bi-question-circle-fill"></i>
+                        </p>
+                    </div>
+                </div>
+            </div>  
+        </section>
+        <hr style="color: black;"> 
+        <section>
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-md-3 col-sm-6 col-12">
+                        <div class="row mx-0" id="myId1">
+                            <div class="col-md-6 col-sm-6 col-6">
+                                <p class="p2 mt-3 hover-text">
+                                    Enabled
+                                    <span class="tooltip-text lS1" id="top">
+                                        Set This to Off to Stop Scanner.
+                                    </span>
+                                </p> 
+                            </div>
+                            <div class="col-md-6 col-sm-6 col-6">
+                                <p class="p2 mt-3 ms-4">
+                                    <label class="switch">
+                                        <input type="checkbox" value = true id = "start_stop" , name = "start_stop">
+                                        <span class="slider"></span>
+                                    </label>
+                                </p> 
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-6 col-12">
+                        <div class="row mx-0" id="myId1">
+                            <div class="col-md-6 col-sm-6 col-6">
+                                <p class="p2 mt-3 hover-text">
+                                    Strategies
+                                    {{ form.as_p }}                                    
+                                    <span class="tooltip-text lS1" id="top">
+                                        Get Those Stocks which price must be this amount or less.
+                                    </span>
+                                </p> 
+                            </div>
+                            <input class="col-md-6 col-sm-6 col-6" id = "strategies" name = "strategies"  placeholder = "21" type="text">
+                       </div>
+                    </div>
+
+
+
+                    <div class="col-md-3 col-sm-6">
+                        <div class="row me-0" id="myId2">
+                            <div class="col-md-6 col-sm-6 col-6">
+                                {{ form.as_p }}
+                            </div>
+                        </div>
+                    </div>
+
+                    
+                    <div class="col-md-3 col-sm-6">
+                        <div class="row me-0" id="myId2">
+                            <div class="col-md-6 col-sm-6 col-6">
+                                <p class="p2 mt-3 hover-text">
+                                    symbols
+                                    <span class="tooltip-text lS1" id="top">
+                                        Get Those Stocks which are making pattren Up and Down from Minimum last Days.                                         
+                                    </span>
+                                </p> 
+                            </div>
+                            <input class="col-md-6 col-sm-6 col-6" id = "symbols" name = "symbols"  placeholder = "AAPL,TSLA" type="text">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <hr style="color: black;"> 
+        <div class="d-grid gap-2 col-2 mx-auto">
+            <button class="w-10 btn btn-primary" type="submit">Submit</button>
+        </div>
+        <br>
+        <hr style="color: black;"> 
+    </form>
+
+    </div>
+
+{% endblock %}

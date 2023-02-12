@@ -1,0 +1,2685 @@
+index,datetime,symbol,signal,strategy
+0,2023-01-10 09:18:16.258989-05:00,PCG,HOLD,double-dqn
+1,2023-01-10 09:19:51.562328-05:00,ADMA,HOLD,double-dqn
+2,2023-01-10 09:21:23.058060-05:00,AGI,HOLD,double-dqn
+3,2023-01-10 09:22:54.973437-05:00,AGYS,HOLD,double-dqn
+4,2023-01-10 09:24:25.592297-05:00,ALDX,HOLD,double-dqn
+5,2023-01-10 09:25:53.548223-05:00,AM,HOLD,double-dqn
+6,2023-01-10 09:27:22.584439-05:00,AMLX,HOLD,double-dqn
+7,2023-01-10 09:28:52.432007-05:00,AMPY,HOLD,double-dqn
+8,2023-01-10 09:31:41.482151-05:00,ARDX,HOLD,double-dqn
+9,2023-01-10 09:35:21.306089-05:00,ARL,HOLD,double-dqn
+10,2023-01-10 09:39:04.507422-05:00,ASC,HOLD,double-dqn
+11,2023-01-10 09:42:47.069318-05:00,ASRT,HOLD,double-dqn
+12,2023-01-10 09:46:31.475531-05:00,ASUR,HOLD,double-dqn
+13,2023-01-10 09:50:21.943806-05:00,ATI,HOLD,double-dqn
+14,2023-01-10 09:54:24.398192-05:00,ATXS,HOLD,double-dqn
+15,2023-01-10 09:58:54.899248-05:00,AVEO,HOLD,double-dqn
+16,2023-01-10 10:02:55.357984-05:00,AVTE,HOLD,double-dqn
+17,2023-01-10 10:06:55.038878-05:00,BELFB,HOLD,double-dqn
+18,2023-01-10 10:11:01.363562-05:00,CAAP,HOLD,double-dqn
+19,2023-01-10 10:15:15.263683-05:00,CAAS,HOLD,double-dqn
+20,2023-01-10 10:19:15.744302-05:00,CECO,HOLD,double-dqn
+21,2023-01-10 10:23:05.691648-05:00,CEG,HOLD,double-dqn
+22,2023-01-10 10:27:16.214340-05:00,CEIX,HOLD,double-dqn
+23,2023-01-10 10:31:18.259202-05:00,CEPU,HOLD,double-dqn
+24,2023-01-10 10:35:15.523387-05:00,CMPX,HOLD,double-dqn
+25,2023-01-10 10:39:13.386490-05:00,CNCE,HOLD,double-dqn
+26,2023-01-10 10:43:18.122886-05:00,COLL,HOLD,double-dqn
+27,2023-01-10 10:47:12.878018-05:00,CPI,HOLD,double-dqn
+28,2023-01-10 11:38:08.623154-05:00,CPRX,HOLD,double-dqn
+29,2023-01-10 12:23:43.983624-05:00,CRT,HOLD,double-dqn
+30,2023-01-10 13:43:23.483002-05:00,CVRX,HOLD,double-dqn
+31,2023-01-10 14:38:39.164518-05:00,DCPH,HOLD,double-dqn
+32,2023-01-10 16:48:23.466455-05:00,PCG,HOLD,double-dqn
+33,2023-01-10 16:48:27.237641-05:00,ADMA,HOLD,double-dqn
+34,2023-01-10 16:48:31.408597-05:00,AGI,SELL,double-dqn
+35,2023-01-10 16:48:35.903832-05:00,AGYS,BUY,double-dqn
+36,2023-01-10 16:48:40.445995-05:00,ALDX,HOLD,double-dqn
+37,2023-01-10 16:48:44.493199-05:00,AM,HOLD,double-dqn
+38,2023-01-10 16:48:48.475479-05:00,AMLX,HOLD,double-dqn
+39,2023-01-10 16:48:52.507206-05:00,AMPY,HOLD,double-dqn
+40,2023-01-10 16:48:56.297594-05:00,ARDX,HOLD,double-dqn
+41,2023-01-10 16:49:00.667285-05:00,ARL,HOLD,double-dqn
+42,2023-01-10 16:49:05.062168-05:00,ASC,HOLD,double-dqn
+43,2023-01-10 16:49:09.135730-05:00,ASRT,HOLD,double-dqn
+44,2023-01-10 16:49:13.110892-05:00,ASUR,SELL,double-dqn
+45,2023-01-10 16:49:17.372839-05:00,ATI,HOLD,double-dqn
+46,2023-01-10 16:49:21.472065-05:00,ATXS,BUY,double-dqn
+47,2023-01-10 16:49:26.258518-05:00,AVEO,HOLD,double-dqn
+48,2023-01-10 16:49:30.716354-05:00,AVTE,BUY,double-dqn
+49,2023-01-10 16:49:35.787183-05:00,BELFB,HOLD,double-dqn
+50,2023-01-10 16:49:40.351909-05:00,CAAP,HOLD,double-dqn
+51,2023-01-10 16:49:44.184285-05:00,CAAS,HOLD,double-dqn
+52,2023-01-10 16:49:48.207510-05:00,CECO,SELL,double-dqn
+53,2023-01-10 16:49:52.873336-05:00,CEG,SELL,double-dqn
+54,2023-01-10 16:49:57.405086-05:00,CEIX,SELL,double-dqn
+55,2023-01-10 16:50:03.307481-05:00,CEPU,HOLD,double-dqn
+56,2023-01-10 16:50:08.665783-05:00,CMPX,HOLD,double-dqn
+57,2023-01-10 16:50:13.025464-05:00,CNCE,HOLD,double-dqn
+58,2023-01-10 16:50:19.167861-05:00,COLL,HOLD,double-dqn
+59,2023-01-10 16:50:24.708102-05:00,CPI,HOLD,double-dqn
+60,2023-01-10 16:50:29.873831-05:00,CPRX,HOLD,double-dqn
+61,2023-01-10 16:50:35.192634-05:00,CRT,SELL,double-dqn
+62,2023-01-10 16:50:40.147143-05:00,CVRX,HOLD,double-dqn
+63,2023-01-10 16:50:44.150803-05:00,DCPH,HOLD,double-dqn
+64,2023-01-10 16:50:48.044264-05:00,EDAP,HOLD,double-dqn
+65,2023-01-10 16:50:52.048940-05:00,EDN,HOLD,double-dqn
+66,2023-01-10 16:50:56.346205-05:00,EDU,HOLD,double-dqn
+67,2023-01-10 16:51:00.728019-05:00,ELF,HOLD,double-dqn
+68,2023-01-10 16:51:05.056137-05:00,FENC,SELL,double-dqn
+69,2023-01-10 16:51:09.598307-05:00,FTI,HOLD,double-dqn
+70,2023-01-10 16:51:13.894602-05:00,GERN,SELL,double-dqn
+71,2023-01-10 16:51:18.311622-05:00,GNE,HOLD,double-dqn
+72,2023-01-10 16:51:22.383589-05:00,HDSN,HOLD,double-dqn
+73,2023-01-10 16:51:26.259177-05:00,HGBL,SELL,double-dqn
+74,2023-01-10 16:51:30.450204-05:00,HNRG,HOLD,double-dqn
+75,2023-01-10 16:51:34.482327-05:00,IBEX,HOLD,double-dqn
+76,2023-01-10 16:51:38.828009-05:00,IMCR,BUY,double-dqn
+77,2023-01-10 16:51:43.993067-05:00,IMRA,HOLD,double-dqn
+78,2023-01-10 16:51:48.674012-05:00,IMVT,HOLD,double-dqn
+79,2023-01-10 16:51:52.802085-05:00,INSW,BUY,double-dqn
+80,2023-01-10 16:51:57.399387-05:00,KDNY,HOLD,double-dqn
+81,2023-01-10 16:52:01.860564-05:00,LYTS,HOLD,double-dqn
+82,2023-01-10 16:52:06.068809-05:00,MLTX,HOLD,double-dqn
+83,2023-01-10 16:52:10.453071-05:00,MOD,SELL,double-dqn
+84,2023-01-10 16:52:15.066235-05:00,MVO,HOLD,double-dqn
+85,2023-01-10 16:52:18.953124-05:00,MYOV,HOLD,double-dqn
+86,2023-01-10 16:52:23.077610-05:00,NINE,BUY,double-dqn
+87,2023-01-10 16:52:27.877352-05:00,NVCN,BUY,double-dqn
+88,2023-01-10 16:52:33.260173-05:00,PAM,HOLD,double-dqn
+89,2023-01-10 16:52:37.324796-05:00,PBF,SELL,double-dqn
+90,2023-01-10 16:52:41.768318-05:00,PBYI,BUY,double-dqn
+91,2023-01-10 16:52:46.732490-05:00,PDS,SELL,double-dqn
+92,2023-01-10 16:52:50.885577-05:00,PFMT,HOLD,double-dqn
+93,2023-01-10 16:52:54.757413-05:00,PMTS,HOLD,double-dqn
+94,2023-01-10 16:52:58.597899-05:00,PWSC,SELL,double-dqn
+95,2023-01-10 16:53:33.031320-05:00,PCG,HOLD,double-dqn
+96,2023-01-10 16:53:37.273078-05:00,ADMA,HOLD,double-dqn
+97,2023-01-10 16:53:42.091451-05:00,AGI,SELL,double-dqn
+98,2023-01-10 16:53:46.928724-05:00,AGYS,BUY,double-dqn
+99,2023-01-10 16:53:50.953247-05:00,ALDX,HOLD,double-dqn
+100,2023-01-10 16:53:54.820758-05:00,AM,HOLD,double-dqn
+101,2023-01-10 16:53:58.667675-05:00,AMLX,HOLD,double-dqn
+102,2023-01-10 16:54:02.404045-05:00,AMPY,HOLD,double-dqn
+103,2023-01-10 16:54:06.229212-05:00,ARDX,HOLD,double-dqn
+104,2023-01-10 16:54:10.167747-05:00,ARL,HOLD,double-dqn
+105,2023-01-11 08:44:10.579103-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+106,2023-01-11 09:33:36.287414-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+107,2023-01-12 15:25:38.267909-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+108,2023-01-13 17:50:19.503038-05:00,AGYS,HOLD,model_t-dqn_GOOG_10
+109,2023-01-13 17:51:34.187227-05:00,AGYS,HOLD,model_t-dqn_GOOG_10
+110,2023-01-13 17:52:23.283704-05:00,AGYS,HOLD,model_t-dqn_GOOG_10
+111,2023-01-13 17:53:18.373616-05:00,AGYS,HOLD,model_t-dqn_GOOG_10
+112,2023-01-13 23:03:39.935889-05:00,AGYS,SELL,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+113,2023-01-13 23:03:43.839011-05:00,AGYS,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+114,2023-01-13 23:03:47.838145-05:00,AGYS,BUY,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+115,2023-01-13 23:05:36.361669-05:00,AGYS,SELL,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+116,2023-01-13 23:05:40.452125-05:00,AGYS,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+117,2023-01-13 23:05:44.671230-05:00,AGYS,BUY,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+118,2023-01-13 23:07:44.376044-05:00,AGYS,SELL,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+119,2023-01-13 23:07:48.229473-05:00,AGYS,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+120,2023-01-13 23:07:52.205064-05:00,AGYS,BUY,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+121,2023-01-13 23:09:36.202246-05:00,AGYS,SELL,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+122,2023-01-13 23:10:42.611856-05:00,AGYS,SELL,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+123,2023-01-13 23:10:46.675437-05:00,AGYS,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+124,2023-01-13 23:10:51.158527-05:00,AGYS,BUY,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+125,2023-01-13 23:11:43.290678-05:00,AGYS,SELL,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+126,2023-01-13 23:11:47.205515-05:00,AGYS,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+127,2023-01-13 23:11:51.291171-05:00,AGYS,BUY,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+128,2023-01-13 23:13:00.897925-05:00,AGYS,SELL,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+129,2023-01-13 23:13:06.483071-05:00,AGYS,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+130,2023-01-13 23:13:11.464001-05:00,AGYS,BUY,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+131,2023-01-13 23:13:16.094682-05:00,PCG,SELL,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+132,2023-01-13 23:13:20.777372-05:00,PCG,BUY,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+133,2023-01-13 23:13:24.884377-05:00,PCG,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+134,2023-01-13 23:13:29.414447-05:00,TSLA,BUY,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+135,2023-01-13 23:13:33.626561-05:00,TSLA,SELL,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+136,2023-01-13 23:13:37.668583-05:00,TSLA,SELL,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+137,2023-01-14 07:17:24.223904-05:00,AGYS,SELL,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+138,2023-01-14 07:17:28.676312-05:00,AGYS,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+139,2023-01-14 07:17:33.176904-05:00,AGYS,BUY,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+140,2023-01-14 07:17:37.480237-05:00,PCG,SELL,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+141,2023-01-14 07:17:41.781369-05:00,PCG,BUY,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+142,2023-01-14 07:17:45.905915-05:00,PCG,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+143,2023-01-14 07:17:50.151382-05:00,TSLA,BUY,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+144,2023-01-14 07:17:54.068412-05:00,TSLA,SELL,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+145,2023-01-14 07:17:57.861136-05:00,TSLA,SELL,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+146,2023-01-14 07:18:03.050910-05:00,ADMA,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+147,2023-01-14 07:18:08.932785-05:00,ADMA,BUY,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+148,2023-01-14 07:18:13.815790-05:00,ADMA,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+149,2023-01-14 07:18:17.866480-05:00,AGI,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+150,2023-01-14 07:18:22.224388-05:00,AGI,BUY,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+151,2023-01-14 07:18:26.936329-05:00,AGI,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+152,2023-01-14 07:18:30.953734-05:00,AGYS,SELL,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+153,2023-01-14 07:18:35.371107-05:00,AGYS,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+154,2023-01-14 07:18:39.545322-05:00,AGYS,BUY,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+155,2023-01-14 07:18:43.368380-05:00,ALDX,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+156,2023-01-14 07:18:47.225976-05:00,ALDX,BUY,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+157,2023-01-14 07:18:51.480195-05:00,ALDX,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+158,2023-01-14 07:18:55.384208-05:00,AM,SELL,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+159,2023-01-14 07:18:59.672132-05:00,AM,BUY,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+160,2023-01-14 07:19:04.614082-05:00,AM,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+161,2023-01-14 07:19:09.126535-05:00,AMLX,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+162,2023-01-14 07:19:13.269409-05:00,AMLX,BUY,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+163,2023-01-14 07:19:17.121172-05:00,AMLX,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+164,2023-01-14 07:19:21.179343-05:00,AMPY,SELL,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+165,2023-01-14 07:19:25.173733-05:00,AMPY,BUY,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+166,2023-01-14 07:19:29.170923-05:00,AMPY,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+167,2023-01-14 07:19:33.261575-05:00,ARDX,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+168,2023-01-14 07:19:36.993231-05:00,ARDX,BUY,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+169,2023-01-14 07:19:40.753874-05:00,ARDX,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+170,2023-01-14 07:19:44.585743-05:00,ARL,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+171,2023-01-14 07:19:48.399017-05:00,ARL,BUY,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+172,2023-01-14 07:19:52.223035-05:00,ARL,BUY,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+173,2023-01-14 07:19:55.881634-05:00,ASC,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+174,2023-01-14 07:19:59.914497-05:00,ASC,BUY,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+175,2023-01-14 07:20:05.629043-05:00,ASC,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+176,2023-01-14 07:20:10.079772-05:00,ASRT,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+177,2023-01-14 07:20:14.261533-05:00,ASRT,BUY,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+178,2023-01-14 07:20:17.958122-05:00,ASRT,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+179,2023-01-14 07:20:21.771346-05:00,ASUR,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+180,2023-01-14 07:20:25.729256-05:00,ASUR,BUY,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+181,2023-01-14 07:20:29.693742-05:00,ASUR,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+182,2023-01-14 07:20:33.678300-05:00,ATI,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+183,2023-01-14 07:20:37.586632-05:00,ATI,SELL,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+184,2023-01-14 07:20:41.566007-05:00,ATI,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+185,2023-01-14 07:20:45.588911-05:00,ATXS,SELL,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+186,2023-01-14 07:20:49.525017-05:00,ATXS,BUY,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+187,2023-01-14 07:20:53.313908-05:00,ATXS,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+188,2023-01-14 07:20:57.582635-05:00,AVEO,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+189,2023-01-14 07:21:02.133205-05:00,AVEO,BUY,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+190,2023-01-14 07:21:06.438617-05:00,AVEO,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+191,2023-01-14 07:21:10.388723-05:00,AVTE,BUY,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+192,2023-01-14 07:21:14.285779-05:00,AVTE,BUY,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+193,2023-01-14 07:21:18.266947-05:00,AVTE,BUY,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+194,2023-01-14 07:21:22.278363-05:00,BELFB,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+195,2023-01-14 07:21:26.276794-05:00,BELFB,SELL,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+196,2023-01-14 07:21:31.464808-05:00,BELFB,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+197,2023-01-14 07:21:35.360193-05:00,CAAP,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+198,2023-01-14 07:21:39.698252-05:00,CAAP,BUY,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+199,2023-01-14 07:21:44.086256-05:00,CAAP,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+200,2023-01-14 07:21:47.828526-05:00,CAAS,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+201,2023-01-14 07:21:51.701732-05:00,CAAS,BUY,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+202,2023-01-14 07:21:55.486065-05:00,CAAS,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+203,2023-01-14 07:21:59.654610-05:00,CECO,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+204,2023-01-14 07:22:04.202860-05:00,CECO,BUY,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+205,2023-01-14 07:22:08.027048-05:00,CECO,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+206,2023-01-14 07:22:11.832268-05:00,CEG,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+207,2023-01-14 07:22:15.709375-05:00,CEG,BUY,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+208,2023-01-14 07:22:19.498556-05:00,CEG,SELL,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+209,2023-01-14 07:22:23.387128-05:00,CEIX,SELL,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+210,2023-01-14 07:22:27.353981-05:00,CEIX,BUY,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+211,2023-01-14 07:22:31.148679-05:00,CEIX,SELL,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+212,2023-01-14 07:22:35.169597-05:00,CEPU,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+213,2023-01-14 07:22:39.137522-05:00,CEPU,BUY,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+214,2023-01-14 07:22:43.076310-05:00,CEPU,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+215,2023-01-14 07:22:46.918160-05:00,CMPX,BUY,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+216,2023-01-14 07:22:50.621366-05:00,CMPX,BUY,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+217,2023-01-14 07:22:54.998645-05:00,CMPX,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+218,2023-01-14 07:22:58.980305-05:00,CNCE,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+219,2023-01-14 07:23:03.560408-05:00,CNCE,BUY,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+220,2023-01-14 07:23:07.526501-05:00,CNCE,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+221,2023-01-14 07:23:11.391964-05:00,COLL,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+222,2023-01-14 07:23:15.990149-05:00,COLL,BUY,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+223,2023-01-14 07:23:19.913268-05:00,COLL,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+224,2023-01-14 07:23:24.305694-05:00,CPI,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+225,2023-01-14 07:23:28.292799-05:00,CPI,BUY,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+226,2023-01-14 07:23:33.063963-05:00,CPI,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+227,2023-01-14 07:23:37.183266-05:00,CPRX,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+228,2023-01-14 07:23:41.185017-05:00,CPRX,BUY,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+229,2023-01-14 07:23:45.186431-05:00,CPRX,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+230,2023-01-14 07:23:49.316513-05:00,CRT,SELL,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+231,2023-01-14 07:23:53.423873-05:00,CRT,BUY,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+232,2023-01-14 07:23:57.923028-05:00,CRT,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+233,2023-01-14 07:24:02.066572-05:00,CVRX,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+234,2023-01-14 07:24:06.539574-05:00,CVRX,BUY,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+235,2023-01-14 07:24:10.544566-05:00,CVRX,SELL,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+236,2023-01-14 07:24:14.444557-05:00,DCPH,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+237,2023-01-14 07:24:18.491519-05:00,DCPH,BUY,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+238,2023-01-14 07:24:22.368629-05:00,DCPH,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+239,2023-01-14 07:24:26.606102-05:00,EDAP,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+240,2023-01-14 07:24:30.959320-05:00,EDAP,BUY,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+241,2023-01-14 07:24:35.165102-05:00,EDAP,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+242,2023-01-14 07:24:39.268373-05:00,EDN,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+243,2023-01-14 07:24:43.363204-05:00,EDN,SELL,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+244,2023-01-14 07:24:47.356475-05:00,EDN,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+245,2023-01-14 07:24:51.297789-05:00,EDU,SELL,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+246,2023-01-14 07:24:56.399707-05:00,EDU,SELL,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+247,2023-01-14 07:25:00.513294-05:00,EDU,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+248,2023-01-14 07:25:04.746943-05:00,ELF,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+249,2023-01-14 07:25:08.946116-05:00,ELF,BUY,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+250,2023-01-14 07:25:13.320923-05:00,ELF,SELL,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+251,2023-01-14 07:25:17.802062-05:00,FENC,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+252,2023-01-14 07:25:21.775560-05:00,FENC,BUY,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+253,2023-01-14 07:25:25.849820-05:00,FENC,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+254,2023-01-14 07:25:29.973756-05:00,FTI,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+255,2023-01-14 07:25:33.892946-05:00,FTI,BUY,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+256,2023-01-14 07:25:37.722703-05:00,FTI,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+257,2023-01-14 07:25:41.572596-05:00,GERN,SELL,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+258,2023-01-14 07:25:45.525087-05:00,GERN,BUY,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+259,2023-01-14 07:25:49.343740-05:00,GERN,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+260,2023-01-14 07:25:53.399639-05:00,GNE,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+261,2023-01-14 07:25:57.649180-05:00,GNE,BUY,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+262,2023-01-14 07:26:01.757409-05:00,GNE,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+263,2023-01-14 07:26:06.942658-05:00,HDSN,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+264,2023-01-14 07:26:10.953936-05:00,HDSN,BUY,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+265,2023-01-14 07:26:15.003190-05:00,HDSN,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+266,2023-01-14 07:26:18.840082-05:00,HGBL,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+267,2023-01-14 07:26:22.814728-05:00,HGBL,BUY,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+268,2023-01-14 07:26:26.958911-05:00,HGBL,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+269,2023-01-14 07:26:31.318699-05:00,HNRG,SELL,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+270,2023-01-14 07:26:35.599468-05:00,HNRG,BUY,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+271,2023-01-14 07:26:39.389215-05:00,HNRG,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+272,2023-01-14 07:26:43.542100-05:00,IBEX,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+273,2023-01-14 07:26:47.497154-05:00,IBEX,BUY,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+274,2023-01-14 07:26:51.329446-05:00,IBEX,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+275,2023-01-14 07:26:55.669267-05:00,IMCR,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+276,2023-01-14 07:26:59.684654-05:00,IMCR,SELL,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+277,2023-01-14 07:27:03.808077-05:00,IMCR,SELL,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+278,2023-01-14 07:27:10.074019-05:00,IMRA,SELL,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+279,2023-01-14 07:27:14.054345-05:00,IMRA,BUY,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+280,2023-01-14 07:27:18.767536-05:00,IMRA,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+281,2023-01-14 07:27:22.756584-05:00,IMVT,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+282,2023-01-14 07:27:26.944551-05:00,IMVT,BUY,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+283,2023-01-14 07:27:31.316411-05:00,IMVT,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+284,2023-01-14 07:27:35.960092-05:00,INSW,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+285,2023-01-14 07:27:40.046843-05:00,INSW,BUY,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+286,2023-01-14 07:27:44.024602-05:00,INSW,SELL,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+287,2023-01-14 07:27:47.967314-05:00,KDNY,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+288,2023-01-14 07:27:51.717431-05:00,KDNY,BUY,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+289,2023-01-14 07:27:56.371860-05:00,KDNY,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+290,2023-01-14 07:28:01.019969-05:00,LYTS,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+291,2023-01-14 07:28:05.665797-05:00,LYTS,BUY,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+292,2023-01-14 07:28:09.983330-05:00,LYTS,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+293,2023-01-14 07:28:14.010132-05:00,MLTX,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+294,2023-01-14 07:28:18.160164-05:00,MLTX,BUY,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+295,2023-01-14 07:28:21.936444-05:00,MLTX,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+296,2023-01-14 07:28:26.287001-05:00,MOD,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+297,2023-01-14 07:28:30.639469-05:00,MOD,SELL,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+298,2023-01-14 07:28:34.778108-05:00,MOD,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+299,2023-01-14 07:28:40.015323-05:00,MVO,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+300,2023-01-14 07:28:47.661171-05:00,MVO,BUY,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+301,2023-01-14 07:28:52.569585-05:00,MVO,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+302,2023-01-14 07:28:56.429122-05:00,MYOV,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+303,2023-01-14 07:29:00.744554-05:00,MYOV,BUY,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+304,2023-01-14 07:29:05.167398-05:00,MYOV,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+305,2023-01-14 07:29:09.228266-05:00,NINE,SELL,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+306,2023-01-14 07:29:13.242242-05:00,NINE,BUY,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+307,2023-01-14 07:29:17.002691-05:00,NINE,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+308,2023-01-14 07:29:20.854105-05:00,NVCN,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+309,2023-01-14 07:29:24.655048-05:00,NVCN,BUY,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+310,2023-01-14 07:29:28.829030-05:00,NVCN,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+311,2023-01-14 07:29:32.997141-05:00,PAM,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+312,2023-01-14 07:29:37.286652-05:00,PAM,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+313,2023-01-14 07:29:41.443615-05:00,PAM,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+314,2023-01-14 07:29:45.954075-05:00,PBF,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+315,2023-01-14 07:29:49.981976-05:00,PBF,BUY,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+316,2023-01-14 07:29:54.083424-05:00,PBF,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+317,2023-01-14 07:29:58.446251-05:00,PBYI,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+318,2023-01-14 07:30:04.984134-05:00,PBYI,BUY,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+319,2023-01-14 07:30:09.642762-05:00,PBYI,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+320,2023-01-14 07:30:14.179535-05:00,PDS,SELL,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+321,2023-01-14 07:30:18.233005-05:00,PDS,SELL,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+322,2023-01-14 07:30:22.214628-05:00,PDS,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+323,2023-01-14 07:30:26.692518-05:00,PFMT,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+324,2023-01-14 07:30:30.768188-05:00,PFMT,BUY,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+325,2023-01-14 07:30:35.457490-05:00,PFMT,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+326,2023-01-14 07:30:39.505772-05:00,PMTS,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+327,2023-01-14 07:30:43.633887-05:00,PMTS,BUY,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+328,2023-01-14 07:30:48.018596-05:00,PMTS,SELL,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+329,2023-01-14 07:30:51.863063-05:00,PWSC,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+330,2023-01-14 07:30:55.782431-05:00,PWSC,BUY,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+331,2023-01-14 07:30:59.633503-05:00,PWSC,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+332,2023-01-14 07:31:04.484794-05:00,PXS,SELL,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+333,2023-01-14 07:31:08.652089-05:00,PXS,BUY,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+334,2023-01-14 07:31:12.673728-05:00,PXS,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+335,2023-01-14 07:31:16.642890-05:00,RYTM,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+336,2023-01-14 07:31:20.710777-05:00,RYTM,BUY,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+337,2023-01-14 07:31:24.839136-05:00,RYTM,BUY,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+338,2023-01-14 07:31:29.506571-05:00,SBR,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+339,2023-01-14 07:31:34.076461-05:00,SBR,SELL,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+340,2023-01-14 07:31:38.939167-05:00,SBR,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+341,2023-01-14 07:31:43.516271-05:00,SGFY,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+342,2023-01-14 07:31:47.641117-05:00,SGFY,BUY,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+343,2023-01-14 07:31:51.821032-05:00,SGFY,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+344,2023-01-14 07:31:55.869747-05:00,SGML,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+345,2023-01-14 07:32:00.413695-05:00,SGML,BUY,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+346,2023-01-14 07:32:05.299505-05:00,SGML,SELL,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+347,2023-01-14 07:32:09.741917-05:00,SLB,SELL,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+348,2023-01-14 07:32:14.162228-05:00,SLB,SELL,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+349,2023-01-14 07:32:18.209991-05:00,SLB,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+350,2023-01-14 07:32:22.270472-05:00,SMCI,BUY,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+351,2023-01-14 07:32:26.030395-05:00,SMCI,SELL,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+352,2023-01-14 07:32:29.878021-05:00,SMCI,SELL,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+353,2023-01-14 07:32:34.116451-05:00,SMHI,SELL,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+354,2023-01-14 07:32:38.662669-05:00,SMHI,BUY,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+355,2023-01-14 07:32:43.411388-05:00,SMHI,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+356,2023-01-14 07:32:47.627762-05:00,STLD,SELL,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+357,2023-01-14 07:32:51.644182-05:00,STLD,SELL,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+358,2023-01-14 07:32:56.064153-05:00,STLD,SELL,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+359,2023-01-14 07:33:00.412339-05:00,STNG,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+360,2023-01-14 07:33:06.742356-05:00,STNG,BUY,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+361,2023-01-14 07:33:11.306228-05:00,STNG,SELL,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+362,2023-01-14 07:33:15.906061-05:00,SURG,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+363,2023-01-14 07:33:20.378117-05:00,SURG,BUY,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+364,2023-01-14 07:33:24.463732-05:00,SURG,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+365,2023-01-14 07:33:29.126898-05:00,SWIR,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+366,2023-01-14 07:33:33.753318-05:00,SWIR,SELL,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+367,2023-01-14 07:33:38.347612-05:00,SWIR,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+368,2023-01-14 07:33:42.812679-05:00,TAL,SELL,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+369,2023-01-14 07:33:47.118974-05:00,TAL,SELL,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+370,2023-01-14 07:33:50.919106-05:00,TAL,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+371,2023-01-14 07:33:54.800887-05:00,TCOM,SELL,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+372,2023-01-14 07:33:58.708643-05:00,TCOM,BUY,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+373,2023-01-14 07:34:02.770868-05:00,TCOM,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+374,2023-01-14 07:34:07.020618-05:00,TDW,BUY,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+375,2023-01-14 07:34:11.480436-05:00,TDW,SELL,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+376,2023-01-14 07:34:15.612980-05:00,TDW,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+377,2023-01-14 07:34:19.533762-05:00,TEDU,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+378,2023-01-14 07:34:23.507834-05:00,TEDU,BUY,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+379,2023-01-14 07:34:27.614196-05:00,TEDU,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+380,2023-01-14 07:34:31.974027-05:00,TGS,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+381,2023-01-14 07:34:36.417145-05:00,TGS,BUY,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+382,2023-01-14 07:34:40.581145-05:00,TGS,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+383,2023-01-14 07:34:44.648814-05:00,TH,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+384,2023-01-14 07:34:48.581601-05:00,TH,SELL,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+385,2023-01-14 07:34:52.396394-05:00,TH,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+386,2023-01-14 07:34:56.395959-05:00,TKC,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+387,2023-01-14 07:35:00.463864-05:00,TKC,BUY,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+388,2023-01-14 07:35:04.953289-05:00,TKC,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+389,2023-01-14 07:35:09.227052-05:00,TMDX,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+390,2023-01-14 07:35:13.706658-05:00,TMDX,SELL,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+391,2023-01-14 07:35:17.746962-05:00,TMDX,SELL,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+392,2023-01-14 07:35:21.957408-05:00,TNK,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+393,2023-01-14 07:35:26.172954-05:00,TNK,BUY,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+394,2023-01-14 07:35:30.497586-05:00,TNK,SELL,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+395,2023-01-14 07:35:34.559624-05:00,TNP,SELL,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+396,2023-01-14 07:35:38.700013-05:00,TNP,BUY,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+397,2023-01-14 07:35:43.258128-05:00,TNP,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+398,2023-01-14 07:35:47.391637-05:00,TRMD,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+399,2023-01-14 07:35:51.484065-05:00,TRMD,BUY,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+400,2023-01-14 07:35:55.473809-05:00,TRMD,SELL,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+401,2023-01-14 07:35:59.515336-05:00,TUSK,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+402,2023-01-14 07:36:04.149524-05:00,TUSK,BUY,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+403,2023-01-14 07:36:09.526617-05:00,TUSK,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+404,2023-01-14 07:36:13.923334-05:00,UFPT,SELL,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+405,2023-01-14 07:36:18.243049-05:00,UFPT,BUY,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+406,2023-01-14 07:36:22.587214-05:00,UFPT,SELL,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+407,2023-01-14 07:36:26.701091-05:00,ULH,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+408,2023-01-14 07:36:30.860702-05:00,ULH,SELL,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+409,2023-01-14 07:36:34.950774-05:00,ULH,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+410,2023-01-14 07:36:39.243942-05:00,VECT,BUY,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+411,2023-01-14 07:36:44.077682-05:00,VECT,BUY,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+412,2023-01-14 07:36:48.277822-05:00,VECT,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+413,2023-01-14 07:36:52.199188-05:00,VIPS,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+414,2023-01-14 07:36:56.328620-05:00,VIPS,BUY,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+415,2023-01-14 07:37:00.554165-05:00,VIPS,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+416,2023-01-14 07:37:05.350646-05:00,VIST,SELL,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+417,2023-01-14 07:37:09.678256-05:00,VIST,BUY,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+418,2023-01-14 07:37:14.076571-05:00,VIST,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+419,2023-01-14 07:37:18.482141-05:00,VOC,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+420,2023-01-14 07:37:22.655716-05:00,VOC,SELL,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+421,2023-01-14 07:37:27.176304-05:00,VOC,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+422,2023-01-14 07:37:31.494391-05:00,VRNA,BUY,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+423,2023-01-14 07:37:35.823633-05:00,VRNA,BUY,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+424,2023-01-14 07:37:39.889085-05:00,VRNA,SELL,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+425,2023-01-14 07:37:44.049571-05:00,VTRU,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+426,2023-01-14 07:37:48.783210-05:00,VTRU,BUY,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+427,2023-01-14 07:37:52.751122-05:00,VTRU,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+428,2023-01-14 07:37:57.225232-05:00,VVNT,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+429,2023-01-14 07:38:01.576697-05:00,VVNT,BUY,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+430,2023-01-14 07:38:06.380815-05:00,VVNT,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+431,2023-01-14 07:38:10.738905-05:00,WDH,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+432,2023-01-14 07:38:15.031124-05:00,WDH,BUY,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+433,2023-01-14 07:38:19.763350-05:00,WDH,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+434,2023-01-14 07:38:24.309837-05:00,WFRD,SELL,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+435,2023-01-14 07:38:28.728343-05:00,WFRD,SELL,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+436,2023-01-14 07:38:33.594335-05:00,WFRD,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+437,2023-01-14 07:38:37.707189-05:00,WLFC,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+438,2023-01-14 07:38:41.998089-05:00,WLFC,SELL,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+439,2023-01-14 07:38:46.118226-05:00,WLFC,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+440,2023-01-14 07:38:50.752571-05:00,YPF,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+441,2023-01-14 07:38:55.416112-05:00,YPF,BUY,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+442,2023-01-14 07:38:59.932969-05:00,YPF,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+443,2023-01-14 07:39:06.294831-05:00,ZYXI,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+444,2023-01-14 07:39:10.798746-05:00,ZYXI,BUY,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+445,2023-01-14 07:39:15.409607-05:00,ZYXI,HOLD,"['model_dqn_GOOG_50', 'model_t-dqn_GOOG_10', 'model_double-dqn_GOOG_50']"
+446,2023-01-18 13:18:46.413428-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+447,2023-01-30 13:51:35.210958-05:00,ASC,BUY,model_t-dqn_GOOG_10
+448,2023-01-30 13:51:54.401518-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+449,2023-01-30 13:52:08.624922-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+450,2023-01-30 13:52:22.381049-05:00,TMDX,SELL,model_t-dqn_GOOG_10
+451,2023-01-30 13:53:13.477628-05:00,ASC,BUY,model_t-dqn_GOOG_10
+452,2023-01-30 13:53:30.175539-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+453,2023-01-30 13:53:43.233796-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+454,2023-01-30 13:53:54.605198-05:00,TMDX,SELL,model_t-dqn_GOOG_10
+455,2023-01-30 13:54:39.988965-05:00,ASC,BUY,model_t-dqn_GOOG_10
+456,2023-01-30 13:54:49.873427-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+457,2023-01-30 13:54:55.736444-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+458,2023-01-30 13:55:01.074338-05:00,TMDX,SELL,model_t-dqn_GOOG_10
+459,2023-01-30 13:55:46.419121-05:00,ASC,BUY,model_t-dqn_GOOG_10
+460,2023-01-30 13:55:53.897289-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+461,2023-01-30 13:56:03.901663-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+462,2023-01-30 13:56:12.589812-05:00,TMDX,SELL,model_t-dqn_GOOG_10
+463,2023-01-30 13:57:21.512972-05:00,ASC,BUY,model_t-dqn_GOOG_10
+464,2023-01-30 13:57:32.275434-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+465,2023-01-30 13:57:38.107462-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+466,2023-01-30 13:57:44.349353-05:00,TMDX,SELL,model_t-dqn_GOOG_10
+467,2023-01-30 13:59:27.328884-05:00,ASC,BUY,model_t-dqn_GOOG_10
+468,2023-01-30 13:59:33.119473-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+469,2023-01-30 13:59:39.256913-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+470,2023-01-30 13:59:44.373953-05:00,TMDX,SELL,model_t-dqn_GOOG_10
+471,2023-01-30 14:02:57.772568-05:00,ASC,BUY,model_t-dqn_GOOG_10
+472,2023-01-30 14:03:08.037002-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+473,2023-01-30 14:03:15.178495-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+474,2023-01-30 14:03:20.641618-05:00,TMDX,SELL,model_t-dqn_GOOG_10
+475,2023-01-30 14:08:45.764666-05:00,ASC,BUY,model_t-dqn_GOOG_10
+476,2023-01-30 14:08:51.285723-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+477,2023-01-30 14:08:57.391812-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+478,2023-01-30 14:09:08.787833-05:00,TMDX,SELL,model_t-dqn_GOOG_10
+479,2023-01-30 14:11:16.751856-05:00,ASC,BUY,model_t-dqn_GOOG_10
+480,2023-01-30 14:11:23.573052-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+481,2023-01-30 14:11:30.777529-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+482,2023-01-30 14:11:37.692175-05:00,TMDX,SELL,model_t-dqn_GOOG_10
+483,2023-01-30 14:11:59.737216-05:00,ASC,BUY,model_t-dqn_GOOG_10
+484,2023-01-30 14:12:10.206861-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+485,2023-01-30 14:12:18.676046-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+486,2023-01-30 14:12:32.048296-05:00,TMDX,SELL,model_t-dqn_GOOG_10
+487,2023-01-30 14:13:10.807469-05:00,ASC,BUY,model_t-dqn_GOOG_10
+488,2023-01-30 14:13:17.700390-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+489,2023-01-30 14:13:28.826872-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+490,2023-01-30 14:13:38.755337-05:00,TMDX,SELL,model_t-dqn_GOOG_10
+491,2023-01-30 14:14:27.972993-05:00,ASC,BUY,model_t-dqn_GOOG_10
+492,2023-01-30 14:14:34.690309-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+493,2023-01-30 14:14:43.802387-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+494,2023-01-30 14:14:50.988045-05:00,TMDX,SELL,model_t-dqn_GOOG_10
+495,2023-01-30 14:16:00.539104-05:00,ASC,BUY,model_t-dqn_GOOG_10
+496,2023-01-30 14:16:10.160852-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+497,2023-01-30 14:16:16.121563-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+498,2023-01-30 14:16:22.863220-05:00,TMDX,SELL,model_t-dqn_GOOG_10
+499,2023-01-30 14:18:24.960621-05:00,ASC,BUY,model_t-dqn_GOOG_10
+500,2023-01-30 14:18:34.960127-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+501,2023-01-30 14:18:47.534099-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+502,2023-01-30 14:19:02.012867-05:00,TMDX,SELL,model_t-dqn_GOOG_10
+503,2023-01-30 14:22:16.106966-05:00,ASC,BUY,model_t-dqn_GOOG_10
+504,2023-01-30 14:22:23.806638-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+505,2023-01-30 14:22:32.339348-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+506,2023-01-30 14:22:39.238765-05:00,TMDX,SELL,model_t-dqn_GOOG_10
+507,2023-01-30 14:28:20.984720-05:00,ASC,BUY,model_t-dqn_GOOG_10
+508,2023-01-30 14:28:30.469519-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+509,2023-01-30 14:28:43.257476-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+510,2023-01-30 14:28:54.696318-05:00,TMDX,SELL,model_t-dqn_GOOG_10
+511,2023-01-30 14:34:21.277249-05:00,ASC,BUY,model_t-dqn_GOOG_10
+512,2023-01-30 14:34:28.255570-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+513,2023-01-30 14:34:38.342701-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+514,2023-01-30 14:34:46.024558-05:00,TMDX,SELL,model_t-dqn_GOOG_10
+515,2023-01-30 14:40:20.928286-05:00,ASC,BUY,model_t-dqn_GOOG_10
+516,2023-01-30 14:45:40.626198-05:00,ASC,BUY,model_t-dqn_GOOG_10
+517,2023-01-30 14:51:12.872904-05:00,ASC,BUY,model_t-dqn_GOOG_10
+518,2023-01-30 14:56:43.986292-05:00,ASC,BUY,model_t-dqn_GOOG_10
+519,2023-01-30 15:02:16.764068-05:00,ASC,BUY,model_t-dqn_GOOG_10
+520,2023-01-30 15:07:42.122098-05:00,ASC,BUY,model_t-dqn_GOOG_10
+521,2023-01-30 15:13:14.878623-05:00,ASC,BUY,model_t-dqn_GOOG_10
+522,2023-01-30 15:18:52.401621-05:00,ASC,BUY,model_t-dqn_GOOG_10
+523,2023-01-30 15:24:23.913480-05:00,ASC,BUY,model_t-dqn_GOOG_10
+524,2023-01-30 15:29:59.397084-05:00,ASC,BUY,model_t-dqn_GOOG_10
+525,2023-01-30 15:35:29.067417-05:00,ASC,BUY,model_t-dqn_GOOG_10
+526,2023-01-30 15:40:59.882722-05:00,ASC,BUY,model_t-dqn_GOOG_10
+527,2023-01-30 15:46:26.064588-05:00,ASC,BUY,model_t-dqn_GOOG_10
+528,2023-01-30 15:46:41.684767-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+529,2023-01-30 15:46:52.508737-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+530,2023-01-30 15:46:59.536981-05:00,TMDX,SELL,model_t-dqn_GOOG_10
+531,2023-01-30 15:52:28.682022-05:00,ASC,BUY,model_t-dqn_GOOG_10
+532,2023-01-30 15:52:34.905386-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+533,2023-01-30 15:52:42.493082-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+534,2023-01-30 15:52:50.047392-05:00,TMDX,SELL,model_t-dqn_GOOG_10
+535,2023-01-30 15:58:36.924887-05:00,ASC,BUY,model_t-dqn_GOOG_10
+536,2023-01-30 15:58:46.284429-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+537,2023-01-30 15:58:54.975353-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+538,2023-01-30 15:59:01.613011-05:00,TMDX,SELL,model_t-dqn_GOOG_10
+539,2023-01-31 09:33:11.431458-05:00,ASC,BUY,model_t-dqn_GOOG_10
+540,2023-01-31 09:33:17.700098-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+541,2023-01-31 09:33:33.297709-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+542,2023-01-31 09:33:42.277356-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+543,2023-01-31 09:34:16.392772-05:00,ASC,BUY,model_t-dqn_GOOG_10
+544,2023-01-31 09:34:22.771920-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+545,2023-01-31 09:34:31.267525-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+546,2023-01-31 09:34:36.769589-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+547,2023-01-31 09:35:24.483275-05:00,ASC,BUY,model_t-dqn_GOOG_10
+548,2023-01-31 09:35:29.879774-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+549,2023-01-31 09:35:36.064516-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+550,2023-01-31 09:35:45.830180-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+551,2023-01-31 09:36:46.288087-05:00,ASC,BUY,model_t-dqn_GOOG_10
+552,2023-01-31 09:36:53.991441-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+553,2023-01-31 09:37:03.594008-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+554,2023-01-31 09:37:12.076792-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+555,2023-01-31 09:39:02.944797-05:00,ASC,BUY,model_t-dqn_GOOG_10
+556,2023-01-31 09:39:10.090822-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+557,2023-01-31 09:39:19.172801-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+558,2023-01-31 09:39:30.991783-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+559,2023-01-31 09:42:33.875808-05:00,ASC,BUY,model_t-dqn_GOOG_10
+560,2023-01-31 09:42:40.407881-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+561,2023-01-31 09:42:47.407014-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+562,2023-01-31 09:42:53.001781-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+563,2023-01-31 09:48:23.149304-05:00,ASC,BUY,model_t-dqn_GOOG_10
+564,2023-01-31 09:48:29.647719-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+565,2023-01-31 09:48:36.958951-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+566,2023-01-31 09:48:57.059855-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+567,2023-01-31 09:54:21.572443-05:00,ASC,BUY,model_t-dqn_GOOG_10
+568,2023-01-31 09:54:28.149108-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+569,2023-01-31 09:54:34.983931-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+570,2023-01-31 09:54:40.893332-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+571,2023-01-31 10:00:09.987765-05:00,ASC,BUY,model_t-dqn_GOOG_10
+572,2023-01-31 10:00:17.142830-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+573,2023-01-31 10:00:23.397286-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+574,2023-01-31 10:00:32.092229-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+575,2023-01-31 10:05:59.731883-05:00,ASC,BUY,model_t-dqn_GOOG_10
+576,2023-01-31 10:06:08.661367-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+577,2023-01-31 10:06:15.289905-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+578,2023-01-31 10:06:21.426025-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+579,2023-01-31 10:11:39.965920-05:00,ASC,BUY,model_t-dqn_GOOG_10
+580,2023-01-31 10:11:48.699337-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+581,2023-01-31 10:12:00.967298-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+582,2023-01-31 10:12:10.127612-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+583,2023-01-31 10:17:36.565220-05:00,ASC,BUY,model_t-dqn_GOOG_10
+584,2023-01-31 10:17:45.718931-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+585,2023-01-31 10:17:55.369053-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+586,2023-01-31 10:18:05.608564-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+587,2023-01-31 10:23:25.284602-05:00,ASC,BUY,model_t-dqn_GOOG_10
+588,2023-01-31 10:23:32.046456-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+589,2023-01-31 10:23:39.158624-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+590,2023-01-31 10:23:49.484948-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+591,2023-01-31 10:29:23.393996-05:00,ASC,BUY,model_t-dqn_GOOG_10
+592,2023-01-31 10:29:30.589977-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+593,2023-01-31 10:29:37.137260-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+594,2023-01-31 10:29:43.175127-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+595,2023-01-31 10:35:11.698932-05:00,ASC,BUY,model_t-dqn_GOOG_10
+596,2023-01-31 10:35:17.584900-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+597,2023-01-31 10:35:23.899784-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+598,2023-01-31 10:35:31.165294-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+599,2023-01-31 10:40:51.727718-05:00,ASC,BUY,model_t-dqn_GOOG_10
+600,2023-01-31 10:41:00.566299-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+601,2023-01-31 10:41:08.066071-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+602,2023-01-31 10:41:15.132355-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+603,2023-01-31 10:46:52.000126-05:00,ASC,BUY,model_t-dqn_GOOG_10
+604,2023-01-31 10:46:58.428362-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+605,2023-01-31 10:47:06.316808-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+606,2023-01-31 10:47:14.810898-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+607,2023-01-31 10:52:45.978307-05:00,ASC,BUY,model_t-dqn_GOOG_10
+608,2023-01-31 10:52:58.578324-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+609,2023-01-31 10:53:11.070408-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+610,2023-01-31 10:53:17.527474-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+611,2023-01-31 10:58:48.636834-05:00,ASC,BUY,model_t-dqn_GOOG_10
+612,2023-01-31 10:59:00.006355-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+613,2023-01-31 10:59:11.687062-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+614,2023-01-31 10:59:19.532491-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+615,2023-01-31 11:04:47.269283-05:00,ASC,BUY,model_t-dqn_GOOG_10
+616,2023-01-31 11:04:53.052821-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+617,2023-01-31 11:05:02.700833-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+618,2023-01-31 11:05:16.344390-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+619,2023-01-31 11:10:39.259676-05:00,ASC,BUY,model_t-dqn_GOOG_10
+620,2023-01-31 11:10:45.754025-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+621,2023-01-31 11:10:51.672403-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+622,2023-01-31 11:11:01.067609-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+623,2023-01-31 11:16:53.497440-05:00,ASC,BUY,model_t-dqn_GOOG_10
+624,2023-01-31 11:17:14.126961-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+625,2023-01-31 11:17:23.039384-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+626,2023-01-31 11:17:30.869233-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+627,2023-01-31 11:22:55.511059-05:00,ASC,BUY,model_t-dqn_GOOG_10
+628,2023-01-31 11:23:03.631202-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+629,2023-01-31 11:23:10.876525-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+630,2023-01-31 11:23:16.242362-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+631,2023-01-31 11:28:40.643683-05:00,ASC,BUY,model_t-dqn_GOOG_10
+632,2023-01-31 11:28:46.259165-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+633,2023-01-31 11:28:54.692327-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+634,2023-01-31 11:29:07.812769-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+635,2023-01-31 11:34:34.577238-05:00,ASC,BUY,model_t-dqn_GOOG_10
+636,2023-01-31 11:34:50.303532-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+637,2023-01-31 11:34:57.584428-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+638,2023-01-31 11:35:06.929046-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+639,2023-01-31 11:40:28.242413-05:00,ASC,BUY,model_t-dqn_GOOG_10
+640,2023-01-31 11:40:34.215782-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+641,2023-01-31 11:40:40.796734-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+642,2023-01-31 11:40:51.058441-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+643,2023-01-31 11:46:45.872829-05:00,ASC,BUY,model_t-dqn_GOOG_10
+644,2023-01-31 11:46:57.941824-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+645,2023-01-31 11:47:14.961114-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+646,2023-01-31 11:47:22.965049-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+647,2023-01-31 11:52:45.484369-05:00,ASC,BUY,model_t-dqn_GOOG_10
+648,2023-01-31 11:52:51.255616-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+649,2023-01-31 11:52:57.566563-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+650,2023-01-31 11:53:08.486010-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+651,2023-01-31 11:58:41.161840-05:00,ASC,BUY,model_t-dqn_GOOG_10
+652,2023-01-31 11:58:48.490061-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+653,2023-01-31 11:58:55.489674-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+654,2023-01-31 11:59:05.573723-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+655,2023-01-31 12:04:39.678444-05:00,ASC,BUY,model_t-dqn_GOOG_10
+656,2023-01-31 12:04:47.596754-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+657,2023-01-31 12:04:57.881391-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+658,2023-01-31 12:05:10.741957-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+659,2023-01-31 12:10:37.818938-05:00,ASC,BUY,model_t-dqn_GOOG_10
+660,2023-01-31 12:10:43.601607-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+661,2023-01-31 12:10:50.401815-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+662,2023-01-31 12:10:56.455516-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+663,2023-01-31 12:16:44.101994-05:00,ASC,BUY,model_t-dqn_GOOG_10
+664,2023-01-31 12:16:55.212756-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+665,2023-01-31 12:17:04.961017-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+666,2023-01-31 12:17:17.657643-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+667,2023-01-31 12:22:44.657532-05:00,ASC,BUY,model_t-dqn_GOOG_10
+668,2023-01-31 12:22:50.167819-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+669,2023-01-31 12:22:59.812760-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+670,2023-01-31 12:23:09.184750-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+671,2023-01-31 12:28:32.204511-05:00,ASC,BUY,model_t-dqn_GOOG_10
+672,2023-01-31 12:28:38.499763-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+673,2023-01-31 12:28:48.485205-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+674,2023-01-31 12:28:58.185657-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+675,2023-01-31 12:34:28.610969-05:00,ASC,BUY,model_t-dqn_GOOG_10
+676,2023-01-31 12:34:34.515172-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+677,2023-01-31 12:34:40.881520-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+678,2023-01-31 12:34:46.523172-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+679,2023-01-31 12:40:19.048731-05:00,ASC,BUY,model_t-dqn_GOOG_10
+680,2023-01-31 12:40:25.436886-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+681,2023-01-31 12:40:31.674592-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+682,2023-01-31 12:40:37.159770-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+683,2023-01-31 12:46:17.167445-05:00,ASC,BUY,model_t-dqn_GOOG_10
+684,2023-01-31 12:46:28.730055-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+685,2023-01-31 12:46:42.176604-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+686,2023-01-31 12:46:56.901436-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+687,2023-01-31 12:52:25.228622-05:00,ASC,BUY,model_t-dqn_GOOG_10
+688,2023-01-31 12:52:30.762244-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+689,2023-01-31 12:52:36.428000-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+690,2023-01-31 12:52:41.584999-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+691,2023-01-31 12:58:19.514383-05:00,ASC,BUY,model_t-dqn_GOOG_10
+692,2023-01-31 12:58:28.051885-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+693,2023-01-31 12:58:38.850174-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+694,2023-01-31 12:58:45.383480-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+695,2023-01-31 13:04:10.711593-05:00,ASC,BUY,model_t-dqn_GOOG_10
+696,2023-01-31 13:04:18.811157-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+697,2023-01-31 13:04:30.692750-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+698,2023-01-31 13:04:36.583626-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+699,2023-01-31 13:10:07.083020-05:00,ASC,BUY,model_t-dqn_GOOG_10
+700,2023-01-31 13:10:18.517315-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+701,2023-01-31 13:10:25.837007-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+702,2023-01-31 13:10:31.523501-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+703,2023-01-31 13:16:12.264739-05:00,ASC,BUY,model_t-dqn_GOOG_10
+704,2023-01-31 13:16:25.752174-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+705,2023-01-31 13:16:35.899578-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+706,2023-01-31 13:16:45.964792-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+707,2023-01-31 13:22:20.558192-05:00,ASC,BUY,model_t-dqn_GOOG_10
+708,2023-01-31 13:22:26.290250-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+709,2023-01-31 13:22:34.134087-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+710,2023-01-31 13:22:40.588006-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+711,2023-01-31 13:28:14.633159-05:00,ASC,BUY,model_t-dqn_GOOG_10
+712,2023-01-31 13:28:29.933175-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+713,2023-01-31 13:28:38.128734-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+714,2023-01-31 13:28:45.331701-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+715,2023-01-31 13:34:06.891959-05:00,ASC,BUY,model_t-dqn_GOOG_10
+716,2023-01-31 13:34:12.307025-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+717,2023-01-31 13:34:20.156195-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+718,2023-01-31 13:34:26.012188-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+719,2023-01-31 13:39:50.695634-05:00,ASC,BUY,model_t-dqn_GOOG_10
+720,2023-01-31 13:39:57.062925-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+721,2023-01-31 13:40:04.176075-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+722,2023-01-31 13:40:12.430006-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+723,2023-01-31 13:45:50.696886-05:00,ASC,BUY,model_t-dqn_GOOG_10
+724,2023-01-31 13:46:02.221268-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+725,2023-01-31 13:46:14.800527-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+726,2023-01-31 13:46:30.394503-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+727,2023-01-31 13:52:09.695835-05:00,ASC,BUY,model_t-dqn_GOOG_10
+728,2023-01-31 13:52:15.430441-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+729,2023-01-31 13:52:28.954158-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+730,2023-01-31 13:52:36.888965-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+731,2023-01-31 13:58:11.488824-05:00,ASC,BUY,model_t-dqn_GOOG_10
+732,2023-01-31 13:58:26.923414-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+733,2023-01-31 13:58:38.139016-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+734,2023-01-31 13:58:47.368431-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+735,2023-01-31 14:04:18.875453-05:00,ASC,BUY,model_t-dqn_GOOG_10
+736,2023-01-31 14:04:27.152627-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+737,2023-01-31 14:04:33.996235-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+738,2023-01-31 14:04:39.784547-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+739,2023-01-31 14:10:14.211835-05:00,ASC,BUY,model_t-dqn_GOOG_10
+740,2023-01-31 14:10:21.165091-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+741,2023-01-31 14:10:28.898656-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+742,2023-01-31 14:10:34.078130-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+743,2023-01-31 14:16:21.298202-05:00,ASC,BUY,model_t-dqn_GOOG_10
+744,2023-01-31 14:16:36.264357-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+745,2023-01-31 14:16:51.094628-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+746,2023-01-31 14:17:00.691758-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+747,2023-01-31 14:22:34.030655-05:00,ASC,BUY,model_t-dqn_GOOG_10
+748,2023-01-31 14:22:42.673614-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+749,2023-01-31 14:22:52.081458-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+750,2023-01-31 14:22:57.948591-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+751,2023-01-31 14:28:35.266749-05:00,ASC,BUY,model_t-dqn_GOOG_10
+752,2023-01-31 14:28:41.328074-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+753,2023-01-31 14:28:49.260850-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+754,2023-01-31 14:28:58.881492-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+755,2023-01-31 14:34:21.954042-05:00,ASC,BUY,model_t-dqn_GOOG_10
+756,2023-01-31 14:34:29.571957-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+757,2023-01-31 14:34:35.624590-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+758,2023-01-31 14:34:41.220808-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+759,2023-01-31 14:40:00.383240-05:00,ASC,BUY,model_t-dqn_GOOG_10
+760,2023-01-31 14:40:09.847673-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+761,2023-01-31 14:40:16.561455-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+762,2023-01-31 14:40:22.612900-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+763,2023-01-31 14:46:10.473066-05:00,ASC,BUY,model_t-dqn_GOOG_10
+764,2023-01-31 14:46:21.267641-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+765,2023-01-31 14:46:35.914491-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+766,2023-01-31 14:46:50.117271-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+767,2023-01-31 14:52:14.153424-05:00,ASC,BUY,model_t-dqn_GOOG_10
+768,2023-01-31 14:52:22.819478-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+769,2023-01-31 14:52:32.003486-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+770,2023-01-31 14:52:37.752548-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+771,2023-01-31 14:58:09.599030-05:00,ASC,BUY,model_t-dqn_GOOG_10
+772,2023-01-31 14:58:18.173086-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+773,2023-01-31 14:58:27.232581-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+774,2023-01-31 14:58:35.981986-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+775,2023-01-31 15:04:03.247197-05:00,ASC,BUY,model_t-dqn_GOOG_10
+776,2023-01-31 15:04:09.984838-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+777,2023-01-31 15:04:15.913492-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+778,2023-01-31 15:04:21.332610-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+779,2023-01-31 15:09:41.392995-05:00,ASC,BUY,model_t-dqn_GOOG_10
+780,2023-01-31 15:09:50.680480-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+781,2023-01-31 15:09:56.715465-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+782,2023-01-31 15:10:02.721325-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+783,2023-01-31 15:15:38.467438-05:00,ASC,BUY,model_t-dqn_GOOG_10
+784,2023-01-31 15:15:51.945412-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+785,2023-01-31 15:16:09.972321-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+786,2023-01-31 15:16:20.073777-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+787,2023-01-31 15:21:50.761335-05:00,ASC,BUY,model_t-dqn_GOOG_10
+788,2023-01-31 15:21:56.044164-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+789,2023-01-31 15:22:02.437065-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+790,2023-01-31 15:22:09.863625-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+791,2023-01-31 15:27:43.038160-05:00,ASC,BUY,model_t-dqn_GOOG_10
+792,2023-01-31 15:27:50.976821-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+793,2023-01-31 15:27:59.328759-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+794,2023-01-31 15:28:10.110986-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+795,2023-01-31 15:33:28.288722-05:00,ASC,BUY,model_t-dqn_GOOG_10
+796,2023-01-31 15:33:33.576742-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+797,2023-01-31 15:33:40.565759-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+798,2023-01-31 15:33:49.255902-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+799,2023-01-31 15:39:18.376749-05:00,ASC,BUY,model_t-dqn_GOOG_10
+800,2023-01-31 15:39:23.899794-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+801,2023-01-31 15:39:29.716735-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+802,2023-01-31 15:39:35.480766-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+803,2023-01-31 15:44:57.281982-05:00,ASC,BUY,model_t-dqn_GOOG_10
+804,2023-01-31 15:45:03.963429-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+805,2023-01-31 15:45:10.994430-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+806,2023-01-31 15:45:22.237325-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+807,2023-01-31 15:50:48.307957-05:00,ASC,BUY,model_t-dqn_GOOG_10
+808,2023-01-31 15:50:56.668555-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+809,2023-01-31 15:51:04.465275-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+810,2023-01-31 15:51:17.631398-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+811,2023-01-31 15:56:57.689956-05:00,ASC,BUY,model_t-dqn_GOOG_10
+812,2023-01-31 15:57:04.273244-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+813,2023-01-31 15:57:15.704904-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+814,2023-01-31 15:57:24.619264-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+815,2023-02-01 09:32:36.139227-05:00,ASC,BUY,model_t-dqn_GOOG_10
+816,2023-02-01 09:32:42.597160-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+817,2023-02-01 09:32:49.253400-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+818,2023-02-01 09:32:55.112782-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+819,2023-02-01 09:33:24.428559-05:00,ASC,BUY,model_t-dqn_GOOG_10
+820,2023-02-01 09:33:31.963378-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+821,2023-02-01 09:33:38.563718-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+822,2023-02-01 09:33:44.135951-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+823,2023-02-01 09:34:37.891814-05:00,ASC,BUY,model_t-dqn_GOOG_10
+824,2023-02-01 09:34:44.474943-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+825,2023-02-01 09:34:52.759249-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+826,2023-02-01 09:34:59.183084-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+827,2023-02-01 09:36:10.736875-05:00,ASC,BUY,model_t-dqn_GOOG_10
+828,2023-02-01 09:36:16.630556-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+829,2023-02-01 09:36:23.456000-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+830,2023-02-01 09:36:30.490910-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+831,2023-02-01 09:38:14.788830-05:00,ASC,BUY,model_t-dqn_GOOG_10
+832,2023-02-01 09:38:22.901392-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+833,2023-02-01 09:38:33.282503-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+834,2023-02-01 09:38:40.179486-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+835,2023-02-01 09:41:45.631104-05:00,ASC,BUY,model_t-dqn_GOOG_10
+836,2023-02-01 09:41:53.000731-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+837,2023-02-01 09:41:59.276873-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+838,2023-02-01 09:42:07.639384-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+839,2023-02-01 09:47:40.457677-05:00,ASC,BUY,model_t-dqn_GOOG_10
+840,2023-02-01 09:47:47.802741-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+841,2023-02-01 09:47:57.861472-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+842,2023-02-01 09:48:09.983369-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+843,2023-02-01 09:53:39.336747-05:00,ASC,BUY,model_t-dqn_GOOG_10
+844,2023-02-01 09:53:45.043275-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+845,2023-02-01 09:53:50.836707-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+846,2023-02-01 09:54:01.771711-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+847,2023-02-01 09:59:35.149287-05:00,ASC,BUY,model_t-dqn_GOOG_10
+848,2023-02-01 09:59:40.761616-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+849,2023-02-01 09:59:47.004749-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+850,2023-02-01 09:59:55.547201-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+851,2023-02-01 10:05:21.419331-05:00,ASC,BUY,model_t-dqn_GOOG_10
+852,2023-02-01 10:05:30.128796-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+853,2023-02-01 10:05:38.532273-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+854,2023-02-01 10:05:45.347669-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+855,2023-02-01 10:11:03.664618-05:00,ASC,BUY,model_t-dqn_GOOG_10
+856,2023-02-01 10:11:19.057335-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+857,2023-02-01 10:11:25.165938-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+858,2023-02-01 10:11:31.422930-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+859,2023-02-01 10:17:02.174626-05:00,ASC,BUY,model_t-dqn_GOOG_10
+860,2023-02-01 10:17:10.578940-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+861,2023-02-01 10:17:20.003797-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+862,2023-02-01 10:17:28.204709-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+863,2023-02-01 10:22:57.405375-05:00,ASC,BUY,model_t-dqn_GOOG_10
+864,2023-02-01 10:23:03.732932-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+865,2023-02-01 10:23:10.289636-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+866,2023-02-01 10:23:15.885747-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+867,2023-02-01 10:28:37.689942-05:00,ASC,BUY,model_t-dqn_GOOG_10
+868,2023-02-01 10:28:50.922150-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+869,2023-02-01 10:28:57.997154-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+870,2023-02-01 10:29:05.972543-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+871,2023-02-01 10:34:37.104567-05:00,ASC,BUY,model_t-dqn_GOOG_10
+872,2023-02-01 10:34:45.084773-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+873,2023-02-01 10:34:52.461870-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+874,2023-02-01 10:34:58.440552-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+875,2023-02-01 10:40:22.802620-05:00,ASC,BUY,model_t-dqn_GOOG_10
+876,2023-02-01 10:40:29.115210-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+877,2023-02-01 10:40:34.963739-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+878,2023-02-01 10:40:42.002314-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+879,2023-02-01 10:46:08.962078-05:00,ASC,BUY,model_t-dqn_GOOG_10
+880,2023-02-01 10:46:20.623880-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+881,2023-02-01 10:46:27.508763-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+882,2023-02-01 10:46:33.491032-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+883,2023-02-01 10:51:58.935836-05:00,ASC,BUY,model_t-dqn_GOOG_10
+884,2023-02-01 10:52:06.368385-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+885,2023-02-01 10:52:12.980777-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+886,2023-02-01 10:52:18.369227-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+887,2023-02-01 10:57:42.805088-05:00,ASC,BUY,model_t-dqn_GOOG_10
+888,2023-02-01 10:57:50.292846-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+889,2023-02-01 10:58:02.457774-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+890,2023-02-01 10:58:11.061743-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+891,2023-02-01 11:03:36.931874-05:00,ASC,BUY,model_t-dqn_GOOG_10
+892,2023-02-01 11:03:43.272579-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+893,2023-02-01 11:03:51.182962-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+894,2023-02-01 11:03:56.955991-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+895,2023-02-01 11:09:34.108050-05:00,ASC,BUY,model_t-dqn_GOOG_10
+896,2023-02-01 11:09:41.612905-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+897,2023-02-01 11:09:51.290447-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+898,2023-02-01 11:09:57.179239-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+899,2023-02-01 11:15:27.642507-05:00,ASC,BUY,model_t-dqn_GOOG_10
+900,2023-02-01 11:15:33.677250-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+901,2023-02-01 11:15:39.856052-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+902,2023-02-01 11:15:46.114089-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+903,2023-02-01 11:21:21.368562-05:00,ASC,BUY,model_t-dqn_GOOG_10
+904,2023-02-01 11:21:27.699275-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+905,2023-02-01 11:21:38.354074-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+906,2023-02-01 11:21:44.245555-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+907,2023-02-01 11:27:16.307739-05:00,ASC,BUY,model_t-dqn_GOOG_10
+908,2023-02-01 11:27:21.843851-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+909,2023-02-01 11:27:31.540731-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+910,2023-02-01 11:27:39.460752-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+911,2023-02-01 11:33:09.700306-05:00,ASC,BUY,model_t-dqn_GOOG_10
+912,2023-02-01 11:33:15.799190-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+913,2023-02-01 11:33:22.525161-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+914,2023-02-01 11:33:28.916913-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+915,2023-02-01 11:38:56.541665-05:00,ASC,BUY,model_t-dqn_GOOG_10
+916,2023-02-01 11:39:04.671513-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+917,2023-02-01 11:39:19.124791-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+918,2023-02-01 11:39:26.395378-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+919,2023-02-01 11:45:03.003590-05:00,ASC,BUY,model_t-dqn_GOOG_10
+920,2023-02-01 11:45:09.912165-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+921,2023-02-01 11:45:17.732769-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+922,2023-02-01 11:45:23.541432-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+923,2023-02-01 11:50:48.705168-05:00,ASC,BUY,model_t-dqn_GOOG_10
+924,2023-02-01 11:50:56.699474-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+925,2023-02-01 11:51:03.811035-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+926,2023-02-01 11:51:12.775387-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+927,2023-02-01 11:56:41.788367-05:00,ASC,BUY,model_t-dqn_GOOG_10
+928,2023-02-01 11:56:50.483762-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+929,2023-02-01 11:56:59.823286-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+930,2023-02-01 11:57:11.008923-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+931,2023-02-01 12:02:40.011769-05:00,ASC,BUY,model_t-dqn_GOOG_10
+932,2023-02-01 12:02:46.786705-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+933,2023-02-01 12:02:53.885392-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+934,2023-02-01 12:03:02.263797-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+935,2023-02-01 12:08:27.169688-05:00,ASC,BUY,model_t-dqn_GOOG_10
+936,2023-02-01 12:08:38.616773-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+937,2023-02-01 12:08:45.991034-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+938,2023-02-01 12:08:54.146535-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+939,2023-02-01 12:14:23.583906-05:00,ASC,BUY,model_t-dqn_GOOG_10
+940,2023-02-01 12:14:29.845280-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+941,2023-02-01 12:14:36.472369-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+942,2023-02-01 12:14:42.466759-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+943,2023-02-01 12:20:11.406967-05:00,ASC,BUY,model_t-dqn_GOOG_10
+944,2023-02-01 12:20:17.274982-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+945,2023-02-01 12:20:23.080468-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+946,2023-02-01 12:20:28.745158-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+947,2023-02-01 12:25:54.492251-05:00,ASC,BUY,model_t-dqn_GOOG_10
+948,2023-02-01 12:26:02.068750-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+949,2023-02-01 12:26:10.403877-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+950,2023-02-01 12:26:16.290554-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+951,2023-02-01 12:31:39.027824-05:00,ASC,BUY,model_t-dqn_GOOG_10
+952,2023-02-01 12:31:45.310894-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+953,2023-02-01 12:31:54.493577-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+954,2023-02-01 12:32:09.267316-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+955,2023-02-01 12:37:41.676585-05:00,ASC,BUY,model_t-dqn_GOOG_10
+956,2023-02-01 12:37:49.454297-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+957,2023-02-01 12:37:58.032906-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+958,2023-02-01 12:38:13.313032-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+959,2023-02-01 12:43:38.872763-05:00,ASC,BUY,model_t-dqn_GOOG_10
+960,2023-02-01 12:43:45.188886-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+961,2023-02-01 12:43:51.171160-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+962,2023-02-01 12:43:57.064130-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+963,2023-02-01 12:49:28.646027-05:00,ASC,BUY,model_t-dqn_GOOG_10
+964,2023-02-01 12:49:40.547533-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+965,2023-02-01 12:49:46.926318-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+966,2023-02-01 12:49:55.890185-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+967,2023-02-01 12:55:27.705888-05:00,ASC,BUY,model_t-dqn_GOOG_10
+968,2023-02-01 12:55:33.528832-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+969,2023-02-01 12:55:40.055920-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+970,2023-02-01 12:55:45.707184-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+971,2023-02-01 13:01:18.140559-05:00,ASC,BUY,model_t-dqn_GOOG_10
+972,2023-02-01 13:01:24.634703-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+973,2023-02-01 13:01:31.297434-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+974,2023-02-01 13:01:37.502546-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+975,2023-02-01 13:07:01.093188-05:00,ASC,BUY,model_t-dqn_GOOG_10
+976,2023-02-01 13:07:13.862792-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+977,2023-02-01 13:07:22.680086-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+978,2023-02-01 13:07:36.177416-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+979,2023-02-01 13:12:58.740460-05:00,ASC,BUY,model_t-dqn_GOOG_10
+980,2023-02-01 13:13:10.089351-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+981,2023-02-01 13:13:17.269987-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+982,2023-02-01 13:13:25.451279-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+983,2023-02-01 13:18:55.421979-05:00,ASC,BUY,model_t-dqn_GOOG_10
+984,2023-02-01 13:19:03.299551-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+985,2023-02-01 13:19:15.902481-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+986,2023-02-01 13:19:25.253413-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+987,2023-02-01 13:24:56.348428-05:00,ASC,BUY,model_t-dqn_GOOG_10
+988,2023-02-01 13:25:11.279275-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+989,2023-02-01 13:25:17.419133-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+990,2023-02-01 13:25:31.241447-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+991,2023-02-01 13:30:56.539076-05:00,ASC,BUY,model_t-dqn_GOOG_10
+992,2023-02-01 13:31:03.447540-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+993,2023-02-01 13:31:13.441455-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+994,2023-02-01 13:31:26.509472-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+995,2023-02-01 13:36:47.947117-05:00,ASC,BUY,model_t-dqn_GOOG_10
+996,2023-02-01 13:36:57.797230-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+997,2023-02-01 13:37:05.858796-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+998,2023-02-01 13:37:19.160771-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+999,2023-02-01 13:42:51.979152-05:00,ASC,BUY,model_t-dqn_GOOG_10
+1000,2023-02-01 13:42:58.774134-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1001,2023-02-01 13:43:07.320777-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1002,2023-02-01 13:43:14.757547-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1003,2023-02-01 13:48:49.458739-05:00,ASC,BUY,model_t-dqn_GOOG_10
+1004,2023-02-01 13:49:05.323473-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1005,2023-02-01 13:49:17.131493-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1006,2023-02-01 13:49:22.946243-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1007,2023-02-01 13:54:43.605309-05:00,ASC,BUY,model_t-dqn_GOOG_10
+1008,2023-02-01 13:54:49.417428-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1009,2023-02-01 13:54:55.213993-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1010,2023-02-01 13:55:00.991772-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1011,2023-02-01 14:00:25.132757-05:00,ASC,BUY,model_t-dqn_GOOG_10
+1012,2023-02-01 14:00:32.435908-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1013,2023-02-01 14:00:38.616799-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1014,2023-02-01 14:00:47.241561-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1015,2023-02-01 14:06:22.686557-05:00,ASC,BUY,model_t-dqn_GOOG_10
+1016,2023-02-01 14:06:29.027825-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1017,2023-02-01 14:06:36.943342-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1018,2023-02-01 14:06:42.719088-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1019,2023-02-01 14:12:04.629723-05:00,ASC,BUY,model_t-dqn_GOOG_10
+1020,2023-02-01 14:12:14.042157-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1021,2023-02-01 14:12:33.269577-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1022,2023-02-01 14:12:40.231664-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1023,2023-02-01 14:18:12.240911-05:00,ASC,BUY,model_t-dqn_GOOG_10
+1024,2023-02-01 14:18:22.059159-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1025,2023-02-01 14:18:29.952868-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1026,2023-02-01 14:18:37.594535-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1027,2023-02-01 14:24:08.521584-05:00,ASC,BUY,model_t-dqn_GOOG_10
+1028,2023-02-01 14:24:14.631181-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1029,2023-02-01 14:24:22.212745-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1030,2023-02-01 14:24:28.041019-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1031,2023-02-01 14:29:52.772757-05:00,ASC,BUY,model_t-dqn_GOOG_10
+1032,2023-02-01 14:29:59.196893-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1033,2023-02-01 14:30:09.746726-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1034,2023-02-01 14:30:18.805497-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1035,2023-02-01 14:35:49.664327-05:00,ASC,BUY,model_t-dqn_GOOG_10
+1036,2023-02-01 14:35:56.777504-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1037,2023-02-01 14:36:05.135056-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1038,2023-02-01 14:36:12.396267-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1039,2023-02-01 14:41:41.203465-05:00,ASC,BUY,model_t-dqn_GOOG_10
+1040,2023-02-01 14:41:48.180132-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1041,2023-02-01 14:41:54.992713-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1042,2023-02-01 14:42:00.779558-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1043,2023-02-01 14:47:33.765562-05:00,ASC,BUY,model_t-dqn_GOOG_10
+1044,2023-02-01 14:47:42.807718-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1045,2023-02-01 14:47:54.143957-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1046,2023-02-01 14:48:03.367253-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1047,2023-02-01 14:53:22.252383-05:00,ASC,BUY,model_t-dqn_GOOG_10
+1048,2023-02-01 14:53:32.238427-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1049,2023-02-01 14:53:38.585374-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1050,2023-02-01 14:53:44.804096-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1051,2023-02-01 14:59:14.042576-05:00,ASC,BUY,model_t-dqn_GOOG_10
+1052,2023-02-01 14:59:20.897552-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1053,2023-02-01 14:59:30.436462-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1054,2023-02-01 14:59:41.527097-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1055,2023-02-01 15:05:13.418857-05:00,ASC,BUY,model_t-dqn_GOOG_10
+1056,2023-02-01 15:05:19.796610-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1057,2023-02-01 15:05:27.508364-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1058,2023-02-01 15:05:33.337141-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1059,2023-02-01 15:11:07.673431-05:00,ASC,BUY,model_t-dqn_GOOG_10
+1060,2023-02-01 15:11:14.671471-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1061,2023-02-01 15:11:21.342618-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1062,2023-02-01 15:11:29.340794-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1063,2023-02-01 15:16:59.145147-05:00,ASC,BUY,model_t-dqn_GOOG_10
+1064,2023-02-01 15:17:07.448984-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1065,2023-02-01 15:17:14.404068-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1066,2023-02-01 15:17:27.928922-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1067,2023-02-01 15:22:51.666039-05:00,ASC,BUY,model_t-dqn_GOOG_10
+1068,2023-02-01 15:23:02.606761-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1069,2023-02-01 15:23:13.622977-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1070,2023-02-01 15:23:20.920737-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1071,2023-02-01 15:29:08.432190-05:00,ASC,BUY,model_t-dqn_GOOG_10
+1072,2023-02-01 15:29:19.278680-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1073,2023-02-01 15:29:38.498347-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1074,2023-02-01 15:29:52.943895-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1075,2023-02-01 15:35:36.351063-05:00,ASC,BUY,model_t-dqn_GOOG_10
+1076,2023-02-01 15:35:47.580809-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1077,2023-02-01 15:35:54.806484-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1078,2023-02-01 15:36:00.830080-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1079,2023-02-01 15:41:41.668918-05:00,ASC,BUY,model_t-dqn_GOOG_10
+1080,2023-02-01 15:41:48.977464-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1081,2023-02-01 15:41:55.365722-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1082,2023-02-01 15:42:02.191552-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1083,2023-02-01 15:47:43.180752-05:00,ASC,BUY,model_t-dqn_GOOG_10
+1084,2023-02-01 15:47:51.502232-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1085,2023-02-01 15:47:59.442305-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1086,2023-02-01 15:48:09.411700-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1087,2023-02-01 15:53:36.790240-05:00,ASC,BUY,model_t-dqn_GOOG_10
+1088,2023-02-01 15:53:42.931862-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1089,2023-02-01 15:53:50.976327-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1090,2023-02-01 15:53:57.415862-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1091,2023-02-01 15:59:25.970847-05:00,ASC,BUY,model_t-dqn_GOOG_10
+1092,2023-02-01 15:59:32.525406-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1093,2023-02-01 15:59:43.684749-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1094,2023-02-01 15:59:51.431235-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1095,2023-02-02 09:33:37.172477-05:00,ASC,SELL,model_t-dqn_GOOG_10
+1096,2023-02-02 09:33:43.786569-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1097,2023-02-02 09:33:51.270870-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1098,2023-02-02 09:34:00.003313-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1099,2023-02-02 09:34:37.820187-05:00,ASC,SELL,model_t-dqn_GOOG_10
+1100,2023-02-02 09:34:43.890139-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1101,2023-02-02 09:34:51.874842-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1102,2023-02-02 09:34:58.124977-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1103,2023-02-02 09:35:43.818553-05:00,ASC,SELL,model_t-dqn_GOOG_10
+1104,2023-02-02 09:35:49.205013-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1105,2023-02-02 09:35:55.380498-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1106,2023-02-02 09:36:01.082427-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1107,2023-02-02 09:37:13.674959-05:00,ASC,SELL,model_t-dqn_GOOG_10
+1108,2023-02-02 09:37:21.348749-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1109,2023-02-02 09:37:28.897778-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1110,2023-02-02 09:37:35.848139-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1111,2023-02-02 09:39:30.167986-05:00,ASC,SELL,model_t-dqn_GOOG_10
+1112,2023-02-02 09:39:36.244337-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1113,2023-02-02 09:39:43.247325-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1114,2023-02-02 09:39:49.488327-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1115,2023-02-02 09:42:53.453908-05:00,ASC,SELL,model_t-dqn_GOOG_10
+1116,2023-02-02 09:42:59.783455-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1117,2023-02-02 09:43:10.661682-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1118,2023-02-02 09:43:17.953943-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1119,2023-02-02 09:48:43.857262-05:00,ASC,SELL,model_t-dqn_GOOG_10
+1120,2023-02-02 09:48:55.894605-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1121,2023-02-02 09:49:03.837027-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1122,2023-02-02 09:49:15.189714-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1123,2023-02-02 09:54:35.742452-05:00,ASC,SELL,model_t-dqn_GOOG_10
+1124,2023-02-02 09:54:41.103812-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1125,2023-02-02 09:54:47.495378-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1126,2023-02-02 09:54:53.333419-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1127,2023-02-02 10:00:26.569951-05:00,ASC,SELL,model_t-dqn_GOOG_10
+1128,2023-02-02 10:00:42.483699-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1129,2023-02-02 10:00:49.469257-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1130,2023-02-02 10:00:55.620518-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1131,2023-02-02 10:06:31.268436-05:00,ASC,SELL,model_t-dqn_GOOG_10
+1132,2023-02-02 10:06:36.983317-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1133,2023-02-02 10:06:43.914746-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1134,2023-02-02 10:06:51.395856-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1135,2023-02-02 10:12:13.071676-05:00,ASC,SELL,model_t-dqn_GOOG_10
+1136,2023-02-02 10:12:20.114433-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1137,2023-02-02 10:12:25.995595-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1138,2023-02-02 10:12:35.597904-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1139,2023-02-02 10:18:01.059585-05:00,ASC,SELL,model_t-dqn_GOOG_10
+1140,2023-02-02 10:18:13.086961-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1141,2023-02-02 10:18:20.270790-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1142,2023-02-02 10:18:27.342567-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1143,2023-02-02 10:23:46.100201-05:00,ASC,SELL,model_t-dqn_GOOG_10
+1144,2023-02-02 10:23:51.464834-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1145,2023-02-02 10:23:57.491821-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1146,2023-02-02 10:24:05.097514-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1147,2023-02-02 10:29:30.995888-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1148,2023-02-02 10:29:38.812036-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1149,2023-02-02 10:35:12.552583-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1150,2023-02-02 10:35:21.696170-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1151,2023-02-02 10:40:52.729080-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1152,2023-02-02 10:40:58.842947-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1153,2023-02-02 10:46:25.896852-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1154,2023-02-02 10:46:32.141004-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1155,2023-02-02 10:52:05.835256-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1156,2023-02-02 10:52:14.381922-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1157,2023-02-02 10:57:48.773538-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1158,2023-02-02 10:57:59.123926-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1159,2023-02-02 11:03:28.719897-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1160,2023-02-02 11:03:34.657326-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1161,2023-02-02 11:09:02.502216-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1162,2023-02-02 11:09:13.208511-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1163,2023-02-02 11:14:37.762073-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1164,2023-02-02 11:14:43.823303-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1165,2023-02-02 11:20:14.529808-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1166,2023-02-02 11:20:26.424879-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1167,2023-02-02 11:25:53.231444-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1168,2023-02-02 11:25:59.561395-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1169,2023-02-02 11:31:21.555980-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1170,2023-02-02 11:31:30.879900-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1171,2023-02-02 11:36:49.377216-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1172,2023-02-02 11:36:55.505837-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1173,2023-02-02 11:42:24.616778-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1174,2023-02-02 11:42:35.301088-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1175,2023-02-02 11:48:26.970320-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1176,2023-02-02 11:48:41.885281-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1177,2023-02-02 11:54:11.672859-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1178,2023-02-02 11:54:17.894425-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1179,2023-02-02 11:59:47.354414-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1180,2023-02-02 11:59:54.219711-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1181,2023-02-02 12:05:26.333244-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1182,2023-02-02 12:05:33.890704-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1183,2023-02-02 12:11:03.350598-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1184,2023-02-02 12:11:10.843918-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1185,2023-02-02 12:16:43.150998-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1186,2023-02-02 12:16:49.784743-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1187,2023-02-02 12:22:18.567401-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1188,2023-02-02 12:22:25.237125-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1189,2023-02-02 12:27:58.378696-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1190,2023-02-02 12:28:08.440853-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1191,2023-02-02 12:34:15.679933-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1192,2023-02-02 12:34:34.792430-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1193,2023-02-02 12:40:54.482914-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1194,2023-02-02 12:41:17.324094-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1195,2023-02-02 12:47:22.419397-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1196,2023-02-02 12:47:44.941061-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1197,2023-02-02 12:53:49.914765-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1198,2023-02-02 12:54:10.614997-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1199,2023-02-02 13:00:24.300797-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1200,2023-02-02 13:00:56.939977-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1201,2023-02-02 13:06:20.182917-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1202,2023-02-02 13:06:25.433157-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1203,2023-02-02 13:12:22.429370-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1204,2023-02-02 13:12:44.090447-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1205,2023-02-02 13:18:57.992718-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1206,2023-02-02 13:19:11.424825-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1207,2023-02-02 13:25:01.495238-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1208,2023-02-02 13:25:09.304789-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1209,2023-02-02 13:30:42.059691-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1210,2023-02-02 13:30:50.550856-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1211,2023-02-02 13:36:19.181774-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1212,2023-02-02 13:36:31.721413-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1213,2023-02-02 13:41:58.771274-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1214,2023-02-02 13:42:06.384041-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1215,2023-02-02 13:48:15.943464-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1216,2023-02-02 13:48:38.136437-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1217,2023-02-02 13:54:33.333802-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1218,2023-02-02 13:54:52.102483-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1219,2023-02-02 14:00:25.044142-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1220,2023-02-02 14:00:36.549490-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1221,2023-02-02 14:06:10.439950-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1222,2023-02-02 14:06:18.582707-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1223,2023-02-02 14:11:56.268528-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1224,2023-02-02 14:12:06.879593-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1225,2023-02-02 14:18:15.935605-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1226,2023-02-02 14:18:33.561848-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1227,2023-02-02 14:24:28.648541-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1228,2023-02-02 14:24:47.358594-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1229,2023-02-02 14:30:15.748774-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1230,2023-02-02 14:30:25.993028-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1231,2023-02-02 14:36:18.172803-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1232,2023-02-02 14:36:39.600243-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1233,2023-02-02 14:42:14.580501-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1234,2023-02-02 14:42:23.458405-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1235,2023-02-02 14:48:17.403165-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1236,2023-02-02 14:48:40.404173-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1237,2023-02-02 14:54:12.262014-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1238,2023-02-02 14:54:18.454382-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1239,2023-02-02 15:00:04.836662-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1240,2023-02-02 15:00:18.104080-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1241,2023-02-02 15:06:27.244778-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1242,2023-02-02 15:06:49.264850-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1243,2023-02-02 15:12:21.099065-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1244,2023-02-02 15:12:27.192730-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1245,2023-02-02 15:17:54.139988-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1246,2023-02-02 15:18:05.068827-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1247,2023-02-02 15:24:03.095339-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1248,2023-02-02 15:24:30.309608-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1249,2023-02-02 15:29:57.452899-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1250,2023-02-02 15:30:11.239691-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1251,2023-02-02 15:35:44.572889-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1252,2023-02-02 15:35:50.063893-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1253,2023-02-02 15:41:40.091177-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1254,2023-02-02 15:42:02.785237-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1255,2023-02-02 15:48:17.376808-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1256,2023-02-02 15:48:51.648812-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1257,2023-02-02 15:54:33.592791-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1258,2023-02-02 15:54:39.417107-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1259,2023-02-03 09:32:41.067889-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1260,2023-02-03 09:32:47.462666-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1261,2023-02-03 09:33:19.862232-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1262,2023-02-03 09:33:28.844743-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1263,2023-02-03 09:34:18.470028-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1264,2023-02-03 09:34:24.818968-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1265,2023-02-03 09:35:25.206853-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1266,2023-02-03 09:35:39.824426-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1267,2023-02-03 09:37:23.706640-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1268,2023-02-03 09:37:36.629642-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1269,2023-02-03 09:40:50.437258-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1270,2023-02-03 09:40:56.070622-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1271,2023-02-03 09:46:25.457791-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1272,2023-02-03 09:46:31.677493-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1273,2023-02-03 09:51:55.163381-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1274,2023-02-03 09:52:01.141185-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1275,2023-02-03 09:57:42.983514-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1276,2023-02-03 09:57:51.359157-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1277,2023-02-03 10:03:31.240558-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1278,2023-02-03 10:03:44.492300-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1279,2023-02-03 10:09:12.236255-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1280,2023-02-03 10:09:20.098011-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1281,2023-02-03 10:14:55.053382-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1282,2023-02-03 10:15:01.077429-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1283,2023-02-03 10:20:27.073566-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1284,2023-02-03 10:20:33.043104-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1285,2023-02-03 10:25:56.316531-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1286,2023-02-03 10:26:03.379711-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1287,2023-02-03 10:31:31.306108-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1288,2023-02-03 10:31:37.872006-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1289,2023-02-03 10:37:05.315925-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1290,2023-02-03 10:37:13.797038-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1291,2023-02-03 10:42:43.772956-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1292,2023-02-03 10:42:52.306451-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1293,2023-02-03 10:48:29.745345-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1294,2023-02-03 10:48:39.135255-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1295,2023-02-03 10:54:01.749955-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1296,2023-02-03 10:54:09.586993-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1297,2023-02-03 10:59:32.444613-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1298,2023-02-03 10:59:38.183539-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1299,2023-02-03 11:05:14.417112-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1300,2023-02-03 11:05:20.607026-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1301,2023-02-03 11:10:46.549349-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1302,2023-02-03 11:10:55.585814-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1303,2023-02-03 11:16:25.607198-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1304,2023-02-03 11:16:33.779713-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1305,2023-02-03 11:22:08.274660-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1306,2023-02-03 11:22:15.248050-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1307,2023-02-03 11:27:50.148739-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1308,2023-02-03 11:28:02.202747-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1309,2023-02-03 11:33:27.365058-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1310,2023-02-03 11:33:35.390600-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1311,2023-02-03 11:39:04.526829-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1312,2023-02-03 11:39:15.792363-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1313,2023-02-03 11:44:41.255253-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1314,2023-02-03 11:44:57.576805-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1315,2023-02-03 11:45:14.185053-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1316,2023-02-03 11:51:03.196003-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1317,2023-02-03 11:51:11.180781-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1318,2023-02-03 11:51:18.420717-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1319,2023-02-03 11:56:45.150381-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1320,2023-02-03 11:56:53.244754-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1321,2023-02-03 11:57:05.105258-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1322,2023-02-03 12:02:30.064765-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1323,2023-02-03 12:02:39.351501-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1324,2023-02-03 12:02:46.836208-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1325,2023-02-03 12:08:23.220188-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1326,2023-02-03 12:08:32.082339-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1327,2023-02-03 12:08:41.300092-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1328,2023-02-03 12:14:18.002700-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1329,2023-02-03 12:14:26.682314-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1330,2023-02-03 12:14:33.337427-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1331,2023-02-03 12:20:11.583245-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1332,2023-02-03 12:20:21.236753-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1333,2023-02-03 12:20:27.704445-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1334,2023-02-03 12:25:50.816907-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1335,2023-02-03 12:25:57.593457-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1336,2023-02-03 12:26:10.258118-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1337,2023-02-03 12:31:30.996769-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1338,2023-02-03 12:31:41.270602-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1339,2023-02-03 12:31:48.196846-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1340,2023-02-03 12:37:16.657308-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1341,2023-02-03 12:37:23.778490-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1342,2023-02-03 12:37:35.191914-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1343,2023-02-03 12:43:11.442685-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1344,2023-02-03 12:43:17.658274-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1345,2023-02-03 12:43:24.336770-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1346,2023-02-03 12:48:51.600691-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1347,2023-02-03 12:48:59.802945-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1348,2023-02-03 12:49:17.721626-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1349,2023-02-03 12:54:48.483525-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1350,2023-02-03 12:54:54.707741-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1351,2023-02-03 12:55:02.160059-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1352,2023-02-03 13:00:39.500895-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1353,2023-02-03 13:00:52.363106-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1354,2023-02-03 13:01:04.553173-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1355,2023-02-03 13:06:29.880301-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1356,2023-02-03 13:06:37.859457-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1357,2023-02-03 13:06:49.657405-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1358,2023-02-03 13:12:19.913470-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1359,2023-02-03 13:12:26.307016-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1360,2023-02-03 13:12:32.472821-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1361,2023-02-03 13:18:04.164037-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1362,2023-02-03 13:18:20.638954-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1363,2023-02-03 13:18:29.068672-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1364,2023-02-03 13:23:54.646277-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1365,2023-02-03 13:24:02.154388-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1366,2023-02-03 13:24:12.013256-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1367,2023-02-03 13:29:51.751317-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1368,2023-02-03 13:29:59.796114-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1369,2023-02-03 13:30:09.870849-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1370,2023-02-03 13:35:47.776831-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1371,2023-02-03 13:35:58.289567-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1372,2023-02-03 13:36:08.181044-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1373,2023-02-03 13:41:35.714422-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1374,2023-02-03 13:41:42.342693-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1375,2023-02-03 13:41:48.736991-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1376,2023-02-03 13:47:26.457505-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1377,2023-02-03 13:47:39.412771-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1378,2023-02-03 13:47:49.187938-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1379,2023-02-03 13:53:16.134903-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1380,2023-02-03 13:53:23.829165-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1381,2023-02-03 13:53:30.255965-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1382,2023-02-03 13:58:55.260024-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1383,2023-02-03 13:59:02.240980-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1384,2023-02-03 13:59:12.667630-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1385,2023-02-03 14:04:40.056243-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1386,2023-02-03 14:04:46.797241-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1387,2023-02-03 14:04:53.190723-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1388,2023-02-03 14:10:18.577642-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1389,2023-02-03 14:10:29.460159-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1390,2023-02-03 14:10:35.869464-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1391,2023-02-03 14:16:07.305882-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1392,2023-02-03 14:16:14.729825-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1393,2023-02-03 14:16:25.299240-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1394,2023-02-03 14:21:44.297682-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1395,2023-02-03 14:21:53.272154-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1396,2023-02-03 14:22:00.563092-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1397,2023-02-03 14:27:43.683089-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1398,2023-02-03 14:27:52.991405-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1399,2023-02-03 14:28:02.278256-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1400,2023-02-03 14:33:31.236801-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1401,2023-02-03 14:33:38.637130-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1402,2023-02-03 14:33:45.229683-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1403,2023-02-03 14:39:18.694685-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1404,2023-02-03 14:39:39.196838-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1405,2023-02-03 14:39:46.472125-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1406,2023-02-03 14:45:19.366674-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1407,2023-02-03 14:45:29.754990-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1408,2023-02-03 14:45:37.756436-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1409,2023-02-03 14:50:59.029342-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1410,2023-02-03 14:51:07.333014-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1411,2023-02-03 14:51:15.966174-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1412,2023-02-03 14:56:49.671695-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1413,2023-02-03 14:56:59.488460-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1414,2023-02-03 14:57:09.068312-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1415,2023-02-03 15:02:40.928747-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1416,2023-02-03 15:02:46.521353-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1417,2023-02-03 15:02:52.614391-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1418,2023-02-03 15:08:27.182029-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1419,2023-02-03 15:08:39.599660-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1420,2023-02-03 15:08:47.531306-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1421,2023-02-03 15:14:21.893895-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1422,2023-02-03 15:14:28.599414-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1423,2023-02-03 15:14:39.388043-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1424,2023-02-03 15:20:08.395300-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1425,2023-02-03 15:20:16.712713-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1426,2023-02-03 15:20:23.979429-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1427,2023-02-03 15:25:48.096162-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1428,2023-02-03 15:25:54.408763-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1429,2023-02-03 15:26:06.432990-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1430,2023-02-03 15:31:44.299010-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1431,2023-02-03 15:31:51.124751-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1432,2023-02-03 15:31:58.358847-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1433,2023-02-03 15:37:28.598270-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1434,2023-02-03 15:37:43.442649-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1435,2023-02-03 15:37:51.759244-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1436,2023-02-03 15:43:19.670102-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1437,2023-02-03 15:43:25.757797-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1438,2023-02-03 15:43:32.634064-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1439,2023-02-03 15:43:41.364351-05:00,CAH,BUY,model_t-dqn_GOOG_10
+1440,2023-02-03 15:49:03.339222-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1441,2023-02-03 15:49:12.040128-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1442,2023-02-03 15:49:19.175321-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1443,2023-02-03 15:49:26.834683-05:00,CAH,BUY,model_t-dqn_GOOG_10
+1444,2023-02-03 15:54:57.343021-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+1445,2023-02-03 15:55:04.619222-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1446,2023-02-03 15:55:10.863437-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1447,2023-02-03 15:55:16.368341-05:00,CAH,BUY,model_t-dqn_GOOG_10
+1448,2023-02-06 09:33:30.400613-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1449,2023-02-06 09:33:38.903850-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1450,2023-02-06 09:33:46.135509-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1451,2023-02-06 09:33:52.824860-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1452,2023-02-06 09:34:32.116315-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1453,2023-02-06 09:34:38.336700-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1454,2023-02-06 09:34:44.431165-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1455,2023-02-06 09:34:52.293991-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1456,2023-02-06 09:35:38.821868-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1457,2023-02-06 09:35:44.952239-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1458,2023-02-06 09:35:51.008984-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1459,2023-02-06 09:35:56.882939-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1460,2023-02-06 09:37:17.024255-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1461,2023-02-06 09:37:27.817012-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1462,2023-02-06 09:37:35.269573-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1463,2023-02-06 09:37:44.138477-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1464,2023-02-06 09:39:33.648727-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1465,2023-02-06 09:39:41.745955-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1466,2023-02-06 09:39:51.599116-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1467,2023-02-06 09:40:08.782988-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1468,2023-02-06 09:43:21.510413-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1469,2023-02-06 09:43:28.429513-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1470,2023-02-06 09:43:35.078250-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1471,2023-02-06 09:43:46.904141-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1472,2023-02-06 09:49:36.983550-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1473,2023-02-06 09:49:46.051016-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1474,2023-02-06 09:49:57.433602-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1475,2023-02-06 09:50:11.959025-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1476,2023-02-06 09:55:43.157521-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1477,2023-02-06 09:55:49.885653-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1478,2023-02-06 09:55:59.815521-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1479,2023-02-06 09:56:07.407357-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1480,2023-02-06 10:01:38.119890-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1481,2023-02-06 10:01:44.655540-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1482,2023-02-06 10:01:51.080250-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1483,2023-02-06 10:02:00.231725-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1484,2023-02-06 10:07:40.555728-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1485,2023-02-06 10:07:47.866396-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1486,2023-02-06 10:07:56.688815-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1487,2023-02-06 10:08:04.831774-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1488,2023-02-06 10:13:36.796795-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1489,2023-02-06 10:13:42.872438-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1490,2023-02-06 10:13:49.838157-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1491,2023-02-06 10:13:55.910247-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1492,2023-02-06 10:19:37.418941-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1493,2023-02-06 10:19:43.652869-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1494,2023-02-06 10:19:55.225590-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1495,2023-02-06 10:20:01.167370-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1496,2023-02-06 10:25:31.228447-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1497,2023-02-06 10:25:37.915194-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1498,2023-02-06 10:25:45.176616-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1499,2023-02-06 10:25:54.999979-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1500,2023-02-06 10:31:24.232825-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1501,2023-02-06 10:31:32.683943-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1502,2023-02-06 10:31:38.663744-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1503,2023-02-06 10:31:44.304664-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1504,2023-02-06 10:37:14.266615-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1505,2023-02-06 10:37:30.268761-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1506,2023-02-06 10:37:39.444111-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1507,2023-02-06 10:37:51.512193-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1508,2023-02-06 10:43:32.387343-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1509,2023-02-06 10:43:42.139839-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1510,2023-02-06 10:43:49.895600-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1511,2023-02-06 10:43:55.958480-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1512,2023-02-06 10:49:37.228771-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1513,2023-02-06 10:49:43.531167-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1514,2023-02-06 10:49:49.811903-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1515,2023-02-06 10:49:56.259514-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1516,2023-02-06 10:55:24.153986-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1517,2023-02-06 10:55:37.080705-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1518,2023-02-06 10:55:43.636276-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1519,2023-02-06 10:55:49.505374-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1520,2023-02-06 11:01:17.367179-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1521,2023-02-06 11:01:32.114415-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1522,2023-02-06 11:01:38.292275-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1523,2023-02-06 11:01:44.291151-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1524,2023-02-06 11:07:11.230766-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1525,2023-02-06 11:07:21.484227-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1526,2023-02-06 11:07:33.193138-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1527,2023-02-06 11:07:42.590929-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1528,2023-02-06 11:13:09.572894-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1529,2023-02-06 11:13:17.824755-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1530,2023-02-06 11:13:31.572572-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1531,2023-02-06 11:13:38.307195-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1532,2023-02-06 11:19:15.517316-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1533,2023-02-06 11:19:27.832759-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1534,2023-02-06 11:19:38.256586-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1535,2023-02-06 11:19:46.074008-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1536,2023-02-06 11:25:07.911037-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1537,2023-02-06 11:25:16.639113-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1538,2023-02-06 11:25:25.531727-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1539,2023-02-06 11:25:37.679772-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1540,2023-02-06 11:31:04.067890-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1541,2023-02-06 11:31:12.379722-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1542,2023-02-06 11:31:19.206956-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1543,2023-02-06 11:31:32.249586-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1544,2023-02-06 11:37:08.082210-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1545,2023-02-06 11:37:22.470219-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1546,2023-02-06 11:37:40.524869-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1547,2023-02-06 11:37:51.136228-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1548,2023-02-06 11:43:26.895990-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1549,2023-02-06 11:43:36.840152-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1550,2023-02-06 11:43:43.384748-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1551,2023-02-06 11:43:49.488152-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1552,2023-02-06 11:49:23.337656-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1553,2023-02-06 11:49:38.156156-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1554,2023-02-06 11:49:46.631234-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1555,2023-02-06 11:49:53.071553-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1556,2023-02-06 11:55:16.351066-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1557,2023-02-06 11:55:23.007344-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1558,2023-02-06 11:55:32.269408-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1559,2023-02-06 11:55:42.433461-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1560,2023-02-06 12:01:17.466579-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1561,2023-02-06 12:01:24.692922-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1562,2023-02-06 12:01:36.262286-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1563,2023-02-06 12:01:42.779414-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1564,2023-02-06 12:07:07.285553-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1565,2023-02-06 12:07:15.982725-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1566,2023-02-06 12:07:22.989256-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1567,2023-02-06 12:07:42.471965-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1568,2023-02-06 12:13:14.307295-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1569,2023-02-06 12:13:23.527875-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1570,2023-02-06 12:13:32.681743-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1571,2023-02-06 12:13:40.730006-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1572,2023-02-06 12:19:07.291724-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1573,2023-02-06 12:19:19.087518-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1574,2023-02-06 12:19:26.948766-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1575,2023-02-06 12:19:40.192791-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1576,2023-02-06 12:25:16.924154-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1577,2023-02-06 12:25:22.677115-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1578,2023-02-06 12:25:29.489007-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1579,2023-02-06 12:25:45.167283-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1580,2023-02-06 12:31:13.847071-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1581,2023-02-06 12:31:23.038226-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1582,2023-02-06 12:31:33.652752-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1583,2023-02-06 12:31:43.480909-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1584,2023-02-06 12:37:17.532150-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1585,2023-02-06 12:37:24.873983-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1586,2023-02-06 12:37:37.091914-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1587,2023-02-06 12:37:46.211931-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1588,2023-02-06 12:43:16.260953-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1589,2023-02-06 12:43:27.443246-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1590,2023-02-06 12:43:41.504812-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1591,2023-02-06 12:43:48.546121-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1592,2023-02-06 12:49:23.468902-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1593,2023-02-06 12:49:33.988554-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1594,2023-02-06 12:49:49.863814-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1595,2023-02-06 12:49:55.709195-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1596,2023-02-06 12:55:31.370765-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1597,2023-02-06 12:55:44.903638-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1598,2023-02-06 12:55:51.325383-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1599,2023-02-06 12:55:58.615431-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1600,2023-02-06 13:01:25.137156-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1601,2023-02-06 13:01:33.411029-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1602,2023-02-06 13:01:43.328772-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1603,2023-02-06 13:01:49.750473-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1604,2023-02-06 13:07:23.053117-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1605,2023-02-06 13:07:29.812748-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1606,2023-02-06 13:07:46.783901-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1607,2023-02-06 13:07:56.220688-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1608,2023-02-06 13:13:35.688759-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1609,2023-02-06 13:13:45.795537-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1610,2023-02-06 13:13:53.669236-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1611,2023-02-06 13:14:00.464950-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1612,2023-02-06 13:19:31.752756-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1613,2023-02-06 13:19:43.328899-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1614,2023-02-06 13:19:51.042841-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1615,2023-02-06 13:19:57.117608-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1616,2023-02-06 13:25:25.578074-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1617,2023-02-06 13:25:34.137030-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1618,2023-02-06 13:25:49.295742-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1619,2023-02-06 13:25:57.484830-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1620,2023-02-06 13:31:27.148718-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1621,2023-02-06 13:31:35.948926-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1622,2023-02-06 13:31:45.338804-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1623,2023-02-06 13:31:54.578722-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1624,2023-02-06 13:37:36.136759-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1625,2023-02-06 13:37:47.973032-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1626,2023-02-06 13:37:56.137377-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1627,2023-02-06 13:38:06.623141-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1628,2023-02-06 13:43:58.116119-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1629,2023-02-06 13:44:15.480695-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1630,2023-02-06 13:44:29.444143-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1631,2023-02-06 13:44:43.921103-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1632,2023-02-06 13:50:08.513781-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1633,2023-02-06 13:50:16.284121-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1634,2023-02-06 13:50:23.215149-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1635,2023-02-06 13:50:33.382397-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1636,2023-02-06 13:56:09.821256-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1637,2023-02-06 13:56:17.304791-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1638,2023-02-06 13:56:24.156595-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1639,2023-02-06 13:56:30.902069-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1640,2023-02-06 14:02:11.373162-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1641,2023-02-06 14:02:25.324102-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1642,2023-02-06 14:02:36.935517-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1643,2023-02-06 14:02:46.654808-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1644,2023-02-06 14:08:30.049604-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1645,2023-02-06 14:08:43.749485-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1646,2023-02-06 14:08:55.625234-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1647,2023-02-06 14:09:12.488787-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1648,2023-02-06 14:14:50.558362-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1649,2023-02-06 14:14:58.694973-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1650,2023-02-06 14:15:08.172863-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1651,2023-02-06 14:15:14.884931-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1652,2023-02-06 14:20:48.727358-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1653,2023-02-06 14:21:01.570743-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1654,2023-02-06 14:21:16.968680-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1655,2023-02-06 14:21:24.059254-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1656,2023-02-06 14:26:54.679788-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1657,2023-02-06 14:27:09.275718-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1658,2023-02-06 14:27:16.318270-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1659,2023-02-06 14:27:25.011034-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1660,2023-02-06 14:32:58.595489-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1661,2023-02-06 14:33:08.254256-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1662,2023-02-06 14:33:14.967157-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1663,2023-02-06 14:33:21.424757-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1664,2023-02-06 14:39:00.223135-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1665,2023-02-06 14:39:11.130022-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1666,2023-02-06 14:39:17.988820-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1667,2023-02-06 14:39:29.132888-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1668,2023-02-06 14:45:06.445170-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1669,2023-02-06 14:45:17.791937-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1670,2023-02-06 14:45:24.719968-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1671,2023-02-06 14:45:31.303954-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1672,2023-02-06 14:51:15.506794-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1673,2023-02-06 14:51:30.244034-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1674,2023-02-06 14:51:41.666464-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1675,2023-02-06 14:51:51.879113-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1676,2023-02-06 14:57:19.354031-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1677,2023-02-06 14:57:30.192465-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1678,2023-02-06 14:57:45.024286-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1679,2023-02-06 14:57:58.265935-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1680,2023-02-06 15:03:26.480167-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1681,2023-02-06 15:03:34.462577-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1682,2023-02-06 15:03:48.113834-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1683,2023-02-06 15:03:55.311357-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1684,2023-02-06 15:09:25.391706-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1685,2023-02-06 15:09:33.511256-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1686,2023-02-06 15:09:46.534380-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1687,2023-02-06 15:09:54.185028-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1688,2023-02-06 15:15:26.823541-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1689,2023-02-06 15:15:35.308796-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1690,2023-02-06 15:15:51.802935-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1691,2023-02-06 15:16:00.466194-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1692,2023-02-06 15:21:24.581489-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1693,2023-02-06 15:21:40.885935-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1694,2023-02-06 15:21:55.111556-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1695,2023-02-06 15:22:01.712930-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1696,2023-02-06 15:27:32.290382-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1697,2023-02-06 15:27:56.075781-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1698,2023-02-06 15:28:18.001707-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1699,2023-02-06 15:28:31.311282-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1700,2023-02-06 15:34:12.652146-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1701,2023-02-06 15:34:19.120417-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1702,2023-02-06 15:34:27.085565-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1703,2023-02-06 15:34:35.164101-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1704,2023-02-06 15:40:03.565964-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1705,2023-02-06 15:40:14.199007-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1706,2023-02-06 15:40:23.560964-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1707,2023-02-06 15:40:33.652689-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1708,2023-02-06 15:46:14.174752-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1709,2023-02-06 15:46:21.258526-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1710,2023-02-06 15:46:30.019863-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1711,2023-02-06 15:46:40.645146-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1712,2023-02-06 15:52:16.405094-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1713,2023-02-06 15:52:25.536833-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1714,2023-02-06 15:52:33.920314-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1715,2023-02-06 15:52:43.748814-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1716,2023-02-06 15:58:27.712053-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1717,2023-02-06 15:58:40.894537-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+1718,2023-02-06 15:58:55.636794-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1719,2023-02-06 15:59:06.500911-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1720,2023-02-07 09:30:58.702186-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1721,2023-02-07 09:31:07.821413-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1722,2023-02-07 09:31:15.397113-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1723,2023-02-07 09:31:21.080134-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1724,2023-02-07 09:31:27.443667-05:00,ELF,SELL,model_t-dqn_GOOG_10
+1725,2023-02-07 09:31:38.298384-05:00,FRGE,BUY,model_t-dqn_GOOG_10
+1726,2023-02-07 09:32:15.493905-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1727,2023-02-07 09:32:21.702953-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1728,2023-02-07 09:32:27.744688-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1729,2023-02-07 09:32:33.981519-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1730,2023-02-07 09:32:40.102721-05:00,ELF,SELL,model_t-dqn_GOOG_10
+1731,2023-02-07 09:32:48.855973-05:00,FRGE,BUY,model_t-dqn_GOOG_10
+1732,2023-02-07 09:33:34.368793-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1733,2023-02-07 09:33:39.826517-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1734,2023-02-07 09:33:46.142410-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1735,2023-02-07 09:33:51.901056-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1736,2023-02-07 09:33:57.989139-05:00,ELF,SELL,model_t-dqn_GOOG_10
+1737,2023-02-07 09:34:05.088116-05:00,FRGE,BUY,model_t-dqn_GOOG_10
+1738,2023-02-07 09:35:05.555031-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1739,2023-02-07 09:35:12.814346-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1740,2023-02-07 09:35:18.938460-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1741,2023-02-07 09:35:25.361239-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1742,2023-02-07 09:35:31.636358-05:00,ELF,SELL,model_t-dqn_GOOG_10
+1743,2023-02-07 09:35:38.907000-05:00,FRGE,BUY,model_t-dqn_GOOG_10
+1744,2023-02-07 09:37:29.371702-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1745,2023-02-07 09:37:38.017920-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1746,2023-02-07 09:37:45.736797-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1747,2023-02-07 09:37:53.772506-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1748,2023-02-07 09:38:02.499632-05:00,ELF,SELL,model_t-dqn_GOOG_10
+1749,2023-02-07 09:38:26.700329-05:00,FRGE,BUY,model_t-dqn_GOOG_10
+1750,2023-02-07 09:41:33.998096-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1751,2023-02-07 09:41:41.075093-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1752,2023-02-07 09:41:51.045212-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1753,2023-02-07 09:41:59.041303-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1754,2023-02-07 09:42:06.714726-05:00,ELF,SELL,model_t-dqn_GOOG_10
+1755,2023-02-07 09:42:15.707001-05:00,FRGE,BUY,model_t-dqn_GOOG_10
+1756,2023-02-07 09:47:47.372783-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1757,2023-02-07 09:47:55.654061-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1758,2023-02-07 09:48:05.041700-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1759,2023-02-07 09:48:19.081606-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1760,2023-02-07 09:48:25.616760-05:00,ELF,SELL,model_t-dqn_GOOG_10
+1761,2023-02-07 09:48:33.199443-05:00,FRGE,BUY,model_t-dqn_GOOG_10
+1762,2023-02-07 09:54:00.338100-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1763,2023-02-07 09:54:10.959372-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1764,2023-02-07 09:54:20.779086-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1765,2023-02-07 09:54:28.268255-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1766,2023-02-07 09:54:35.504549-05:00,ELF,SELL,model_t-dqn_GOOG_10
+1767,2023-02-07 09:54:42.653689-05:00,FRGE,BUY,model_t-dqn_GOOG_10
+1768,2023-02-07 10:00:30.348605-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1769,2023-02-07 10:00:48.208173-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1770,2023-02-07 10:00:59.409536-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1771,2023-02-07 10:01:12.876594-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1772,2023-02-07 10:01:21.539298-05:00,ELF,SELL,model_t-dqn_GOOG_10
+1773,2023-02-07 10:01:28.010668-05:00,FRGE,BUY,model_t-dqn_GOOG_10
+1774,2023-02-07 10:06:53.610786-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1775,2023-02-07 10:06:59.239991-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1776,2023-02-07 10:07:07.200755-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1777,2023-02-07 10:07:16.899992-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1778,2023-02-07 10:07:24.589888-05:00,ELF,SELL,model_t-dqn_GOOG_10
+1779,2023-02-07 10:07:33.186022-05:00,FRGE,BUY,model_t-dqn_GOOG_10
+1780,2023-02-07 10:12:55.174892-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1781,2023-02-07 10:13:03.713438-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1782,2023-02-07 10:13:15.226349-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1783,2023-02-07 10:13:21.364294-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1784,2023-02-07 10:13:27.991976-05:00,ELF,SELL,model_t-dqn_GOOG_10
+1785,2023-02-07 10:13:33.851846-05:00,FRGE,BUY,model_t-dqn_GOOG_10
+1786,2023-02-07 10:19:00.911982-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1787,2023-02-07 10:19:12.253986-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1788,2023-02-07 10:19:24.180221-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1789,2023-02-07 10:19:31.908239-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1790,2023-02-07 10:19:37.374291-05:00,ELF,SELL,model_t-dqn_GOOG_10
+1791,2023-02-07 10:19:43.160627-05:00,FRGE,BUY,model_t-dqn_GOOG_10
+1792,2023-02-07 10:25:09.287162-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1793,2023-02-07 10:25:16.850036-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1794,2023-02-07 10:25:23.955562-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1795,2023-02-07 10:25:29.725062-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1796,2023-02-07 10:25:39.292794-05:00,ELF,SELL,model_t-dqn_GOOG_10
+1797,2023-02-07 10:25:45.724039-05:00,FRGE,BUY,model_t-dqn_GOOG_10
+1798,2023-02-07 10:31:12.147163-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1799,2023-02-07 10:31:18.486779-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1800,2023-02-07 10:31:25.609422-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1801,2023-02-07 10:31:33.044259-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1802,2023-02-07 10:31:38.852834-05:00,ELF,SELL,model_t-dqn_GOOG_10
+1803,2023-02-07 10:31:45.182024-05:00,FRGE,BUY,model_t-dqn_GOOG_10
+1804,2023-02-07 10:37:20.972501-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1805,2023-02-07 10:37:28.726198-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1806,2023-02-07 10:37:36.908500-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1807,2023-02-07 10:37:44.116960-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1808,2023-02-07 10:37:50.210951-05:00,ELF,SELL,model_t-dqn_GOOG_10
+1809,2023-02-07 10:37:58.556621-05:00,FRGE,BUY,model_t-dqn_GOOG_10
+1810,2023-02-07 10:43:22.788766-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1811,2023-02-07 10:43:28.668391-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1812,2023-02-07 10:43:34.504810-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1813,2023-02-07 10:43:40.659292-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1814,2023-02-07 10:43:48.693599-05:00,ELF,SELL,model_t-dqn_GOOG_10
+1815,2023-02-07 10:49:24.705562-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1816,2023-02-07 10:49:33.891259-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1817,2023-02-07 10:49:40.829196-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1818,2023-02-07 10:49:47.400792-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1819,2023-02-07 10:49:56.036304-05:00,ELF,SELL,model_t-dqn_GOOG_10
+1820,2023-02-07 10:55:28.814672-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1821,2023-02-07 10:55:34.824858-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1822,2023-02-07 10:55:42.200296-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1823,2023-02-07 10:55:48.165937-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1824,2023-02-07 10:55:53.910250-05:00,ELF,SELL,model_t-dqn_GOOG_10
+1825,2023-02-07 11:01:20.479516-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1826,2023-02-07 11:01:26.754123-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1827,2023-02-07 11:01:32.985224-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1828,2023-02-07 11:01:38.530732-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1829,2023-02-07 11:01:44.026771-05:00,ELF,SELL,model_t-dqn_GOOG_10
+1830,2023-02-07 11:07:09.071313-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1831,2023-02-07 11:07:18.030581-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1832,2023-02-07 11:07:31.047754-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1833,2023-02-07 11:07:39.306641-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1834,2023-02-07 11:07:45.532949-05:00,ELF,SELL,model_t-dqn_GOOG_10
+1835,2023-02-07 11:13:07.497638-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1836,2023-02-07 11:13:14.217676-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1837,2023-02-07 11:13:24.852893-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1838,2023-02-07 11:13:32.993247-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1839,2023-02-07 11:13:39.236147-05:00,ELF,SELL,model_t-dqn_GOOG_10
+1840,2023-02-07 11:19:04.589042-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1841,2023-02-07 11:19:13.892322-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1842,2023-02-07 11:19:24.607939-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1843,2023-02-07 11:19:31.241064-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1844,2023-02-07 11:19:38.453877-05:00,ELF,SELL,model_t-dqn_GOOG_10
+1845,2023-02-07 11:25:03.399616-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1846,2023-02-07 11:25:12.214937-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1847,2023-02-07 11:25:25.926267-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1848,2023-02-07 11:25:38.777032-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1849,2023-02-07 11:25:46.665724-05:00,ELF,SELL,model_t-dqn_GOOG_10
+1850,2023-02-07 11:31:11.737942-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1851,2023-02-07 11:31:18.287308-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1852,2023-02-07 11:31:28.550853-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1853,2023-02-07 11:31:33.886084-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1854,2023-02-07 11:31:39.454133-05:00,ELF,SELL,model_t-dqn_GOOG_10
+1855,2023-02-07 11:37:01.637025-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1856,2023-02-07 11:37:09.877786-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1857,2023-02-07 11:37:15.630552-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1858,2023-02-07 11:37:29.048459-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1859,2023-02-07 11:37:38.487527-05:00,ELF,SELL,model_t-dqn_GOOG_10
+1860,2023-02-07 11:43:07.284322-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1861,2023-02-07 11:43:13.960115-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1862,2023-02-07 11:43:23.125098-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1863,2023-02-07 11:43:30.384989-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1864,2023-02-07 11:43:36.600142-05:00,ELF,SELL,model_t-dqn_GOOG_10
+1865,2023-02-07 11:43:42.540405-05:00,ESE,HOLD,model_t-dqn_GOOG_10
+1866,2023-02-07 11:49:10.536360-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1867,2023-02-07 11:49:16.688424-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1868,2023-02-07 11:49:27.704793-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1869,2023-02-07 11:49:38.773260-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1870,2023-02-07 11:49:44.961027-05:00,ELF,SELL,model_t-dqn_GOOG_10
+1871,2023-02-07 11:49:51.419321-05:00,ESE,HOLD,model_t-dqn_GOOG_10
+1872,2023-02-07 11:55:23.147229-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1873,2023-02-07 11:55:28.892307-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1874,2023-02-07 11:55:35.205199-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1875,2023-02-07 11:55:40.933477-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1876,2023-02-07 11:55:46.767389-05:00,ELF,SELL,model_t-dqn_GOOG_10
+1877,2023-02-07 11:55:53.993913-05:00,ESE,HOLD,model_t-dqn_GOOG_10
+1878,2023-02-07 12:01:16.281722-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1879,2023-02-07 12:01:24.629209-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1880,2023-02-07 12:01:31.208530-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1881,2023-02-07 12:01:37.186700-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1882,2023-02-07 12:01:44.481333-05:00,ELF,SELL,model_t-dqn_GOOG_10
+1883,2023-02-07 12:01:50.822891-05:00,ESE,HOLD,model_t-dqn_GOOG_10
+1884,2023-02-07 12:07:31.550253-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1885,2023-02-07 12:07:56.590958-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1886,2023-02-07 12:08:09.191027-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1887,2023-02-07 12:08:20.358236-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1888,2023-02-07 12:08:38.012043-05:00,ELF,SELL,model_t-dqn_GOOG_10
+1889,2023-02-07 12:08:47.511226-05:00,ESE,HOLD,model_t-dqn_GOOG_10
+1890,2023-02-07 12:14:05.641218-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1891,2023-02-07 12:14:11.581949-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1892,2023-02-07 12:14:18.308466-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1893,2023-02-07 12:14:25.354427-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1894,2023-02-07 12:14:30.196202-05:00,ELF,SELL,model_t-dqn_GOOG_10
+1895,2023-02-07 12:14:35.732595-05:00,ESE,HOLD,model_t-dqn_GOOG_10
+1896,2023-02-07 12:19:57.488764-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1897,2023-02-07 12:20:06.763615-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1898,2023-02-07 12:20:16.009392-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1899,2023-02-07 12:20:22.258142-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1900,2023-02-07 12:20:29.215429-05:00,ELF,SELL,model_t-dqn_GOOG_10
+1901,2023-02-07 12:20:40.265159-05:00,ESE,HOLD,model_t-dqn_GOOG_10
+1902,2023-02-07 12:26:00.453950-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1903,2023-02-07 12:26:14.788616-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1904,2023-02-07 12:26:22.093420-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1905,2023-02-07 12:26:30.571100-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1906,2023-02-07 12:26:36.710368-05:00,ELF,SELL,model_t-dqn_GOOG_10
+1907,2023-02-07 12:26:43.134868-05:00,ESE,HOLD,model_t-dqn_GOOG_10
+1908,2023-02-07 12:32:03.724423-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1909,2023-02-07 12:32:11.544978-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1910,2023-02-07 12:32:18.496972-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1911,2023-02-07 12:32:25.544726-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1912,2023-02-07 12:32:31.755927-05:00,ELF,SELL,model_t-dqn_GOOG_10
+1913,2023-02-07 12:32:37.654002-05:00,ESE,HOLD,model_t-dqn_GOOG_10
+1914,2023-02-07 12:38:07.915278-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1915,2023-02-07 12:38:14.749514-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1916,2023-02-07 12:38:22.520546-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1917,2023-02-07 12:38:39.429032-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1918,2023-02-07 12:38:49.976358-05:00,ELF,SELL,model_t-dqn_GOOG_10
+1919,2023-02-07 12:38:59.350245-05:00,ESE,HOLD,model_t-dqn_GOOG_10
+1920,2023-02-07 12:44:19.496340-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1921,2023-02-07 12:44:28.880287-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1922,2023-02-07 12:44:34.630572-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1923,2023-02-07 12:44:40.013594-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1924,2023-02-07 12:44:46.494131-05:00,ELF,SELL,model_t-dqn_GOOG_10
+1925,2023-02-07 12:44:52.049459-05:00,ESE,HOLD,model_t-dqn_GOOG_10
+1926,2023-02-07 12:50:23.044104-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1927,2023-02-07 12:50:30.269232-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1928,2023-02-07 12:50:36.160612-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1929,2023-02-07 12:50:41.859202-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1930,2023-02-07 12:50:48.081233-05:00,ELF,SELL,model_t-dqn_GOOG_10
+1931,2023-02-07 12:50:57.242464-05:00,ESE,HOLD,model_t-dqn_GOOG_10
+1932,2023-02-07 12:56:21.779650-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1933,2023-02-07 12:56:32.767746-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1934,2023-02-07 12:56:40.208790-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1935,2023-02-07 12:56:45.885008-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1936,2023-02-07 12:56:53.535192-05:00,ELF,SELL,model_t-dqn_GOOG_10
+1937,2023-02-07 12:56:59.298900-05:00,ESE,HOLD,model_t-dqn_GOOG_10
+1938,2023-02-07 13:02:26.395107-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1939,2023-02-07 13:02:32.801197-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1940,2023-02-07 13:02:38.477635-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1941,2023-02-07 13:02:47.850089-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1942,2023-02-07 13:02:54.876988-05:00,ELF,SELL,model_t-dqn_GOOG_10
+1943,2023-02-07 13:03:00.733789-05:00,ESE,HOLD,model_t-dqn_GOOG_10
+1944,2023-02-07 13:08:38.322819-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1945,2023-02-07 13:08:47.194508-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1946,2023-02-07 13:08:56.519541-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1947,2023-02-07 13:09:06.099370-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1948,2023-02-07 13:09:15.391785-05:00,ELF,SELL,model_t-dqn_GOOG_10
+1949,2023-02-07 13:09:22.853518-05:00,ESE,HOLD,model_t-dqn_GOOG_10
+1950,2023-02-07 13:14:45.027020-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1951,2023-02-07 13:14:51.886197-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1952,2023-02-07 13:14:59.176627-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1953,2023-02-07 13:15:09.754874-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1954,2023-02-07 13:15:16.423760-05:00,ELF,SELL,model_t-dqn_GOOG_10
+1955,2023-02-07 13:15:31.957961-05:00,ESE,HOLD,model_t-dqn_GOOG_10
+1956,2023-02-07 13:21:02.344283-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1957,2023-02-07 13:21:10.392455-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1958,2023-02-07 13:21:18.972530-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1959,2023-02-07 13:21:26.186411-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1960,2023-02-07 13:21:36.095763-05:00,ELF,SELL,model_t-dqn_GOOG_10
+1961,2023-02-07 13:21:41.975710-05:00,ESE,HOLD,model_t-dqn_GOOG_10
+1962,2023-02-07 13:27:10.739895-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1963,2023-02-07 13:27:19.529930-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1964,2023-02-07 13:27:28.393282-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1965,2023-02-07 13:27:37.295052-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1966,2023-02-07 13:27:45.546023-05:00,ELF,SELL,model_t-dqn_GOOG_10
+1967,2023-02-07 13:27:53.464758-05:00,ESE,HOLD,model_t-dqn_GOOG_10
+1968,2023-02-07 13:33:14.708468-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1969,2023-02-07 13:33:20.444770-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1970,2023-02-07 13:33:37.919231-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1971,2023-02-07 13:33:47.841538-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1972,2023-02-07 13:33:54.673916-05:00,ELF,SELL,model_t-dqn_GOOG_10
+1973,2023-02-07 13:34:11.546410-05:00,ESE,HOLD,model_t-dqn_GOOG_10
+1974,2023-02-07 13:39:42.411239-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1975,2023-02-07 13:39:50.067956-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1976,2023-02-07 13:39:55.963994-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1977,2023-02-07 13:40:03.647719-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1978,2023-02-07 13:40:15.247755-05:00,ELF,SELL,model_t-dqn_GOOG_10
+1979,2023-02-07 13:40:22.914468-05:00,ESE,HOLD,model_t-dqn_GOOG_10
+1980,2023-02-07 13:45:54.000509-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1981,2023-02-07 13:46:06.355352-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1982,2023-02-07 13:46:16.884587-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1983,2023-02-07 13:46:24.724901-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1984,2023-02-07 13:46:36.953664-05:00,ELF,SELL,model_t-dqn_GOOG_10
+1985,2023-02-07 13:46:46.488779-05:00,ESE,HOLD,model_t-dqn_GOOG_10
+1986,2023-02-07 13:52:14.521158-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1987,2023-02-07 13:52:21.408718-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1988,2023-02-07 13:52:30.524818-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1989,2023-02-07 13:52:37.060839-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1990,2023-02-07 13:52:43.286701-05:00,ELF,SELL,model_t-dqn_GOOG_10
+1991,2023-02-07 13:52:49.472308-05:00,ESE,HOLD,model_t-dqn_GOOG_10
+1992,2023-02-07 13:58:21.045061-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1993,2023-02-07 13:58:35.320182-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+1994,2023-02-07 13:58:45.619402-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+1995,2023-02-07 13:58:51.696417-05:00,CAH,SELL,model_t-dqn_GOOG_10
+1996,2023-02-07 13:58:57.131498-05:00,ELF,SELL,model_t-dqn_GOOG_10
+1997,2023-02-07 13:59:10.985133-05:00,ESE,HOLD,model_t-dqn_GOOG_10
+1998,2023-02-07 14:04:36.984230-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+1999,2023-02-07 14:04:44.740079-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+2000,2023-02-07 14:04:51.214046-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2001,2023-02-07 14:05:00.139629-05:00,CAH,SELL,model_t-dqn_GOOG_10
+2002,2023-02-07 14:05:08.471818-05:00,ELF,SELL,model_t-dqn_GOOG_10
+2003,2023-02-07 14:05:14.394362-05:00,ESE,HOLD,model_t-dqn_GOOG_10
+2004,2023-02-07 14:10:45.740421-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+2005,2023-02-07 14:10:52.805347-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+2006,2023-02-07 14:10:59.955393-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2007,2023-02-07 14:11:07.736512-05:00,CAH,SELL,model_t-dqn_GOOG_10
+2008,2023-02-07 14:11:17.447361-05:00,ELF,SELL,model_t-dqn_GOOG_10
+2009,2023-02-07 14:11:24.422638-05:00,ESE,HOLD,model_t-dqn_GOOG_10
+2010,2023-02-07 14:16:51.677387-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+2011,2023-02-07 14:16:59.594462-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+2012,2023-02-07 14:17:09.581581-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2013,2023-02-07 14:17:21.231424-05:00,CAH,SELL,model_t-dqn_GOOG_10
+2014,2023-02-07 14:17:27.700050-05:00,ELF,SELL,model_t-dqn_GOOG_10
+2015,2023-02-07 14:17:38.943675-05:00,ESE,HOLD,model_t-dqn_GOOG_10
+2016,2023-02-07 14:23:04.603370-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+2017,2023-02-07 14:23:15.471449-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+2018,2023-02-07 14:23:21.933813-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2019,2023-02-07 14:23:28.558403-05:00,CAH,SELL,model_t-dqn_GOOG_10
+2020,2023-02-07 14:23:36.948953-05:00,ELF,SELL,model_t-dqn_GOOG_10
+2021,2023-02-07 14:23:42.924564-05:00,ESE,HOLD,model_t-dqn_GOOG_10
+2022,2023-02-07 14:29:19.285450-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+2023,2023-02-07 14:29:27.988973-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+2024,2023-02-07 14:29:36.633042-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2025,2023-02-07 14:29:43.243799-05:00,CAH,SELL,model_t-dqn_GOOG_10
+2026,2023-02-07 14:29:49.303356-05:00,ELF,SELL,model_t-dqn_GOOG_10
+2027,2023-02-07 14:29:55.304186-05:00,ESE,HOLD,model_t-dqn_GOOG_10
+2028,2023-02-07 14:35:13.955451-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+2029,2023-02-07 14:35:22.731067-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+2030,2023-02-07 14:35:30.316773-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2031,2023-02-07 14:35:36.488133-05:00,CAH,SELL,model_t-dqn_GOOG_10
+2032,2023-02-07 14:35:42.052365-05:00,ELF,SELL,model_t-dqn_GOOG_10
+2033,2023-02-07 14:35:47.798851-05:00,ESE,HOLD,model_t-dqn_GOOG_10
+2034,2023-02-07 14:41:12.002363-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+2035,2023-02-07 14:41:18.216840-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+2036,2023-02-07 14:41:24.650111-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2037,2023-02-07 14:41:31.486169-05:00,CAH,SELL,model_t-dqn_GOOG_10
+2038,2023-02-07 14:41:43.338155-05:00,ELF,SELL,model_t-dqn_GOOG_10
+2039,2023-02-07 14:41:48.749918-05:00,ESE,HOLD,model_t-dqn_GOOG_10
+2040,2023-02-07 14:47:10.801676-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+2041,2023-02-07 14:47:21.269617-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+2042,2023-02-07 14:47:28.117253-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2043,2023-02-07 14:47:40.329325-05:00,CAH,SELL,model_t-dqn_GOOG_10
+2044,2023-02-07 14:47:49.554925-05:00,ELF,SELL,model_t-dqn_GOOG_10
+2045,2023-02-07 14:47:57.895724-05:00,ESE,HOLD,model_t-dqn_GOOG_10
+2046,2023-02-07 14:53:21.267260-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+2047,2023-02-07 14:53:29.025198-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+2048,2023-02-07 14:53:39.326668-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2049,2023-02-07 14:53:45.467202-05:00,CAH,SELL,model_t-dqn_GOOG_10
+2050,2023-02-07 14:53:57.884961-05:00,ELF,SELL,model_t-dqn_GOOG_10
+2051,2023-02-07 14:54:07.852324-05:00,ESE,HOLD,model_t-dqn_GOOG_10
+2052,2023-02-07 14:59:41.502778-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+2053,2023-02-07 14:59:46.951382-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+2054,2023-02-07 14:59:53.502462-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2055,2023-02-07 14:59:58.921251-05:00,CAH,SELL,model_t-dqn_GOOG_10
+2056,2023-02-07 15:00:07.248926-05:00,ELF,SELL,model_t-dqn_GOOG_10
+2057,2023-02-07 15:00:20.487017-05:00,ESE,HOLD,model_t-dqn_GOOG_10
+2058,2023-02-07 15:05:51.233746-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+2059,2023-02-07 15:05:57.495107-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+2060,2023-02-07 15:06:05.506019-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2061,2023-02-07 15:06:16.999949-05:00,CAH,SELL,model_t-dqn_GOOG_10
+2062,2023-02-07 15:06:23.740063-05:00,ELF,SELL,model_t-dqn_GOOG_10
+2063,2023-02-07 15:06:29.780527-05:00,ESE,HOLD,model_t-dqn_GOOG_10
+2064,2023-02-07 15:11:50.973133-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+2065,2023-02-07 15:11:56.516779-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+2066,2023-02-07 15:12:03.724351-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2067,2023-02-07 15:12:10.595875-05:00,CAH,SELL,model_t-dqn_GOOG_10
+2068,2023-02-07 15:12:16.310491-05:00,ELF,SELL,model_t-dqn_GOOG_10
+2069,2023-02-07 15:12:23.675430-05:00,ESE,HOLD,model_t-dqn_GOOG_10
+2070,2023-02-07 15:17:50.985864-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+2071,2023-02-07 15:17:56.812686-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+2072,2023-02-07 15:18:09.326647-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2073,2023-02-07 15:18:16.694742-05:00,CAH,SELL,model_t-dqn_GOOG_10
+2074,2023-02-07 15:18:24.408956-05:00,ELF,SELL,model_t-dqn_GOOG_10
+2075,2023-02-07 15:18:34.908043-05:00,ESE,HOLD,model_t-dqn_GOOG_10
+2076,2023-02-07 15:24:08.567331-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+2077,2023-02-07 15:24:14.317696-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+2078,2023-02-07 15:24:20.261872-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2079,2023-02-07 15:24:26.218199-05:00,CAH,SELL,model_t-dqn_GOOG_10
+2080,2023-02-07 15:24:37.230405-05:00,ELF,SELL,model_t-dqn_GOOG_10
+2081,2023-02-07 15:24:43.495596-05:00,ESE,HOLD,model_t-dqn_GOOG_10
+2082,2023-02-07 15:30:18.155845-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+2083,2023-02-07 15:30:28.990372-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+2084,2023-02-07 15:30:44.934200-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2085,2023-02-07 15:30:51.571621-05:00,CAH,SELL,model_t-dqn_GOOG_10
+2086,2023-02-07 15:30:58.056979-05:00,ELF,SELL,model_t-dqn_GOOG_10
+2087,2023-02-07 15:31:06.136116-05:00,ESE,HOLD,model_t-dqn_GOOG_10
+2088,2023-02-07 15:36:36.610557-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+2089,2023-02-07 15:36:43.301897-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+2090,2023-02-07 15:36:50.921442-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2091,2023-02-07 15:36:58.510870-05:00,CAH,SELL,model_t-dqn_GOOG_10
+2092,2023-02-07 15:37:07.271408-05:00,ELF,SELL,model_t-dqn_GOOG_10
+2093,2023-02-07 15:37:14.654950-05:00,ESE,HOLD,model_t-dqn_GOOG_10
+2094,2023-02-07 15:42:39.957304-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+2095,2023-02-07 15:42:45.986594-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+2096,2023-02-07 15:42:52.438925-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2097,2023-02-07 15:43:04.508929-05:00,CAH,SELL,model_t-dqn_GOOG_10
+2098,2023-02-07 15:43:13.839887-05:00,ELF,SELL,model_t-dqn_GOOG_10
+2099,2023-02-07 15:43:20.004348-05:00,ESE,HOLD,model_t-dqn_GOOG_10
+2100,2023-02-07 15:49:01.957381-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+2101,2023-02-07 15:49:14.253952-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+2102,2023-02-07 15:49:33.363224-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2103,2023-02-07 15:49:42.086604-05:00,CAH,SELL,model_t-dqn_GOOG_10
+2104,2023-02-07 15:49:49.552045-05:00,ELF,SELL,model_t-dqn_GOOG_10
+2105,2023-02-07 15:50:04.176300-05:00,ESE,HOLD,model_t-dqn_GOOG_10
+2106,2023-02-07 15:55:27.361038-05:00,SMCI,SELL,model_t-dqn_GOOG_10
+2107,2023-02-07 15:55:36.235820-05:00,AGYS,SELL,model_t-dqn_GOOG_10
+2108,2023-02-07 15:55:41.684951-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2109,2023-02-07 15:55:46.867593-05:00,CAH,SELL,model_t-dqn_GOOG_10
+2110,2023-02-07 15:55:54.542851-05:00,ELF,SELL,model_t-dqn_GOOG_10
+2111,2023-02-07 15:56:00.368672-05:00,ESE,HOLD,model_t-dqn_GOOG_10
+2112,2023-02-08 09:31:16.158652-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+2113,2023-02-08 09:31:24.545621-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2114,2023-02-08 09:31:31.163180-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2115,2023-02-08 09:31:36.706107-05:00,CAH,BUY,model_t-dqn_GOOG_10
+2116,2023-02-08 09:31:43.560734-05:00,ELF,HOLD,model_t-dqn_GOOG_10
+2117,2023-02-08 09:31:58.685543-05:00,ESE,BUY,model_t-dqn_GOOG_10
+2118,2023-02-08 09:32:31.246750-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+2119,2023-02-08 09:32:37.244742-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2120,2023-02-08 09:32:45.695631-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2121,2023-02-08 09:32:54.311266-05:00,CAH,BUY,model_t-dqn_GOOG_10
+2122,2023-02-08 09:32:59.885786-05:00,ELF,HOLD,model_t-dqn_GOOG_10
+2123,2023-02-08 09:33:06.852478-05:00,ESE,BUY,model_t-dqn_GOOG_10
+2124,2023-02-08 09:33:51.464754-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+2125,2023-02-08 09:33:57.497791-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2126,2023-02-08 09:34:05.260762-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2127,2023-02-08 09:34:11.326970-05:00,CAH,BUY,model_t-dqn_GOOG_10
+2128,2023-02-08 09:34:17.090825-05:00,ELF,HOLD,model_t-dqn_GOOG_10
+2129,2023-02-08 09:34:22.236154-05:00,ESE,BUY,model_t-dqn_GOOG_10
+2130,2023-02-08 09:35:20.197485-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+2131,2023-02-08 09:35:31.188920-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2132,2023-02-08 09:35:37.291990-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2133,2023-02-08 09:35:42.702548-05:00,CAH,BUY,model_t-dqn_GOOG_10
+2134,2023-02-08 09:35:49.988781-05:00,ELF,HOLD,model_t-dqn_GOOG_10
+2135,2023-02-08 09:35:57.072392-05:00,ESE,BUY,model_t-dqn_GOOG_10
+2136,2023-02-08 09:38:00.298023-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+2137,2023-02-08 09:38:14.177214-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2138,2023-02-08 09:38:22.676091-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2139,2023-02-08 09:38:33.144831-05:00,CAH,BUY,model_t-dqn_GOOG_10
+2140,2023-02-08 09:38:40.470384-05:00,ELF,HOLD,model_t-dqn_GOOG_10
+2141,2023-02-08 09:38:48.513495-05:00,ESE,BUY,model_t-dqn_GOOG_10
+2142,2023-02-08 09:42:00.432397-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+2143,2023-02-08 09:42:09.345690-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2144,2023-02-08 09:42:15.497769-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2145,2023-02-08 09:42:20.862928-05:00,CAH,BUY,model_t-dqn_GOOG_10
+2146,2023-02-08 09:42:26.237677-05:00,ELF,HOLD,model_t-dqn_GOOG_10
+2147,2023-02-08 09:42:32.228956-05:00,ESE,BUY,model_t-dqn_GOOG_10
+2148,2023-02-08 09:48:08.895404-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+2149,2023-02-08 09:48:15.664392-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2150,2023-02-08 09:48:26.744744-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2151,2023-02-08 09:48:41.741928-05:00,CAH,BUY,model_t-dqn_GOOG_10
+2152,2023-02-08 09:48:50.193376-05:00,ELF,HOLD,model_t-dqn_GOOG_10
+2153,2023-02-08 09:48:56.647981-05:00,ESE,BUY,model_t-dqn_GOOG_10
+2154,2023-02-08 09:54:25.441715-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+2155,2023-02-08 09:54:31.360356-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2156,2023-02-08 09:54:38.005539-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2157,2023-02-08 09:54:49.491673-05:00,CAH,BUY,model_t-dqn_GOOG_10
+2158,2023-02-08 09:55:00.229300-05:00,ELF,HOLD,model_t-dqn_GOOG_10
+2159,2023-02-08 09:55:08.855095-05:00,ESE,BUY,model_t-dqn_GOOG_10
+2160,2023-02-08 10:00:35.798680-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+2161,2023-02-08 10:00:41.651538-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2162,2023-02-08 10:00:47.902736-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2163,2023-02-08 10:00:55.832106-05:00,CAH,BUY,model_t-dqn_GOOG_10
+2164,2023-02-08 10:01:02.117267-05:00,ELF,HOLD,model_t-dqn_GOOG_10
+2165,2023-02-08 10:01:10.860206-05:00,ESE,BUY,model_t-dqn_GOOG_10
+2166,2023-02-08 10:06:44.763798-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+2167,2023-02-08 10:06:51.261807-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2168,2023-02-08 10:07:01.004067-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2169,2023-02-08 10:07:13.649903-05:00,CAH,BUY,model_t-dqn_GOOG_10
+2170,2023-02-08 10:07:22.898830-05:00,ELF,HOLD,model_t-dqn_GOOG_10
+2171,2023-02-08 10:07:32.452608-05:00,ESE,BUY,model_t-dqn_GOOG_10
+2172,2023-02-08 10:12:57.220129-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+2173,2023-02-08 10:13:07.412914-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2174,2023-02-08 10:13:13.222380-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2175,2023-02-08 10:13:18.908001-05:00,CAH,BUY,model_t-dqn_GOOG_10
+2176,2023-02-08 10:13:26.532173-05:00,ELF,HOLD,model_t-dqn_GOOG_10
+2177,2023-02-08 10:13:31.847370-05:00,ESE,BUY,model_t-dqn_GOOG_10
+2178,2023-02-08 10:19:15.725368-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+2179,2023-02-08 10:19:24.312278-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2180,2023-02-08 10:19:30.520553-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2181,2023-02-08 10:19:35.776381-05:00,CAH,BUY,model_t-dqn_GOOG_10
+2182,2023-02-08 10:19:43.759532-05:00,ELF,HOLD,model_t-dqn_GOOG_10
+2183,2023-02-08 10:19:54.740776-05:00,ESE,BUY,model_t-dqn_GOOG_10
+2184,2023-02-08 10:25:28.570960-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+2185,2023-02-08 10:25:34.220843-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2186,2023-02-08 10:25:39.942908-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2187,2023-02-08 10:25:46.708444-05:00,CAH,BUY,model_t-dqn_GOOG_10
+2188,2023-02-08 10:25:55.995066-05:00,ELF,HOLD,model_t-dqn_GOOG_10
+2189,2023-02-08 10:26:02.871291-05:00,ESE,BUY,model_t-dqn_GOOG_10
+2190,2023-02-08 10:31:23.171182-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+2191,2023-02-08 10:31:35.015420-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2192,2023-02-08 10:31:41.484762-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2193,2023-02-08 10:31:46.668801-05:00,CAH,BUY,model_t-dqn_GOOG_10
+2194,2023-02-08 10:31:53.194424-05:00,ELF,HOLD,model_t-dqn_GOOG_10
+2195,2023-02-08 10:32:01.109038-05:00,ESE,BUY,model_t-dqn_GOOG_10
+2196,2023-02-08 10:37:29.611136-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+2197,2023-02-08 10:37:37.597106-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2198,2023-02-08 10:37:47.496501-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2199,2023-02-08 10:37:59.154069-05:00,CAH,BUY,model_t-dqn_GOOG_10
+2200,2023-02-08 10:38:10.484835-05:00,ELF,HOLD,model_t-dqn_GOOG_10
+2201,2023-02-08 10:38:17.446070-05:00,ESE,BUY,model_t-dqn_GOOG_10
+2202,2023-02-08 10:43:40.848550-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+2203,2023-02-08 10:43:51.276141-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2204,2023-02-08 10:44:00.781939-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2205,2023-02-08 10:44:08.119802-05:00,CAH,BUY,model_t-dqn_GOOG_10
+2206,2023-02-08 10:44:13.444869-05:00,ELF,HOLD,model_t-dqn_GOOG_10
+2207,2023-02-08 10:44:18.913460-05:00,ESE,BUY,model_t-dqn_GOOG_10
+2208,2023-02-08 10:49:42.168104-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+2209,2023-02-08 10:49:51.304430-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2210,2023-02-08 10:49:58.964826-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2211,2023-02-08 10:50:09.604891-05:00,CAH,BUY,model_t-dqn_GOOG_10
+2212,2023-02-08 10:50:15.911080-05:00,ELF,HOLD,model_t-dqn_GOOG_10
+2213,2023-02-08 10:50:21.872771-05:00,ESE,BUY,model_t-dqn_GOOG_10
+2214,2023-02-08 10:55:45.098267-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+2215,2023-02-08 10:55:52.100757-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2216,2023-02-08 10:56:00.347811-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2217,2023-02-08 10:56:08.788357-05:00,CAH,BUY,model_t-dqn_GOOG_10
+2218,2023-02-08 10:56:16.303512-05:00,ELF,HOLD,model_t-dqn_GOOG_10
+2219,2023-02-08 10:56:21.726498-05:00,ESE,BUY,model_t-dqn_GOOG_10
+2220,2023-02-08 11:02:10.977335-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+2221,2023-02-08 11:02:21.927220-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2222,2023-02-08 11:02:31.848019-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2223,2023-02-08 11:02:42.449196-05:00,CAH,BUY,model_t-dqn_GOOG_10
+2224,2023-02-08 11:02:53.722691-05:00,ELF,HOLD,model_t-dqn_GOOG_10
+2225,2023-02-08 11:03:08.952752-05:00,ESE,BUY,model_t-dqn_GOOG_10
+2226,2023-02-08 11:09:03.860120-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+2227,2023-02-08 11:09:19.563961-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2228,2023-02-08 11:09:35.190028-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2229,2023-02-08 11:09:49.196898-05:00,CAH,BUY,model_t-dqn_GOOG_10
+2230,2023-02-08 11:10:08.185082-05:00,ELF,HOLD,model_t-dqn_GOOG_10
+2231,2023-02-08 11:10:24.356861-05:00,ESE,BUY,model_t-dqn_GOOG_10
+2232,2023-02-08 11:16:13.533382-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+2233,2023-02-08 11:16:22.532048-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2234,2023-02-08 11:16:31.388165-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2235,2023-02-08 11:16:40.741242-05:00,CAH,BUY,model_t-dqn_GOOG_10
+2236,2023-02-08 11:16:52.026856-05:00,ELF,HOLD,model_t-dqn_GOOG_10
+2237,2023-02-08 11:17:08.932015-05:00,ESE,BUY,model_t-dqn_GOOG_10
+2238,2023-02-08 11:22:45.427486-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+2239,2023-02-08 11:23:09.234622-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2240,2023-02-08 11:23:20.719060-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2241,2023-02-08 11:23:30.393766-05:00,CAH,BUY,model_t-dqn_GOOG_10
+2242,2023-02-08 11:23:40.398856-05:00,ELF,HOLD,model_t-dqn_GOOG_10
+2243,2023-02-08 11:23:50.463281-05:00,ESE,BUY,model_t-dqn_GOOG_10
+2244,2023-02-08 11:29:28.359643-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+2245,2023-02-08 11:29:36.916798-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2246,2023-02-08 11:29:52.582515-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2247,2023-02-08 11:30:06.935124-05:00,CAH,BUY,model_t-dqn_GOOG_10
+2248,2023-02-08 11:30:29.679698-05:00,ELF,HOLD,model_t-dqn_GOOG_10
+2249,2023-02-08 11:30:38.458213-05:00,ESE,BUY,model_t-dqn_GOOG_10
+2250,2023-02-08 11:36:28.164854-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+2251,2023-02-08 11:36:36.703043-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2252,2023-02-08 11:36:46.939411-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2253,2023-02-08 11:36:57.954521-05:00,CAH,BUY,model_t-dqn_GOOG_10
+2254,2023-02-08 11:37:13.336950-05:00,ELF,HOLD,model_t-dqn_GOOG_10
+2255,2023-02-08 11:37:23.408742-05:00,ESE,BUY,model_t-dqn_GOOG_10
+2256,2023-02-08 11:43:06.286493-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+2257,2023-02-08 11:43:18.736921-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2258,2023-02-08 11:43:33.554309-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2259,2023-02-08 11:43:43.228737-05:00,CAH,BUY,model_t-dqn_GOOG_10
+2260,2023-02-08 11:43:53.066042-05:00,ELF,HOLD,model_t-dqn_GOOG_10
+2261,2023-02-08 11:44:10.064394-05:00,ESE,BUY,model_t-dqn_GOOG_10
+2262,2023-02-08 11:49:53.052161-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+2263,2023-02-08 11:50:11.520313-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2264,2023-02-08 11:50:30.468865-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2265,2023-02-08 11:50:41.128502-05:00,CAH,BUY,model_t-dqn_GOOG_10
+2266,2023-02-08 11:50:56.208062-05:00,ELF,HOLD,model_t-dqn_GOOG_10
+2267,2023-02-08 11:51:15.469452-05:00,ESE,BUY,model_t-dqn_GOOG_10
+2268,2023-02-08 11:57:02.306537-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+2269,2023-02-08 11:57:24.380781-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2270,2023-02-08 11:57:37.434507-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2271,2023-02-08 11:57:51.480823-05:00,CAH,BUY,model_t-dqn_GOOG_10
+2272,2023-02-08 11:58:01.872768-05:00,ELF,HOLD,model_t-dqn_GOOG_10
+2273,2023-02-08 11:58:20.992934-05:00,ESE,BUY,model_t-dqn_GOOG_10
+2274,2023-02-08 12:04:13.092571-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+2275,2023-02-08 12:04:28.128228-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2276,2023-02-08 12:04:37.873726-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2277,2023-02-08 12:04:50.156865-05:00,CAH,BUY,model_t-dqn_GOOG_10
+2278,2023-02-08 12:05:02.136410-05:00,ELF,HOLD,model_t-dqn_GOOG_10
+2279,2023-02-08 12:05:23.513479-05:00,ESE,BUY,model_t-dqn_GOOG_10
+2280,2023-02-08 12:11:26.953880-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+2281,2023-02-08 12:11:38.233343-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2282,2023-02-08 12:11:50.843585-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2283,2023-02-08 12:12:06.273856-05:00,CAH,BUY,model_t-dqn_GOOG_10
+2284,2023-02-08 12:12:23.821579-05:00,ELF,HOLD,model_t-dqn_GOOG_10
+2285,2023-02-08 12:12:34.837142-05:00,ESE,BUY,model_t-dqn_GOOG_10
+2286,2023-02-08 12:18:31.018393-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+2287,2023-02-08 12:18:44.705919-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2288,2023-02-08 12:18:59.007554-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2289,2023-02-08 12:19:17.999763-05:00,CAH,BUY,model_t-dqn_GOOG_10
+2290,2023-02-08 12:19:37.201856-05:00,ELF,HOLD,model_t-dqn_GOOG_10
+2291,2023-02-08 12:19:50.788938-05:00,ESE,BUY,model_t-dqn_GOOG_10
+2292,2023-02-08 12:25:32.315023-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+2293,2023-02-08 12:25:42.980773-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2294,2023-02-08 12:26:06.797864-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2295,2023-02-08 12:26:28.462417-05:00,CAH,BUY,model_t-dqn_GOOG_10
+2296,2023-02-08 12:26:44.681797-05:00,ELF,HOLD,model_t-dqn_GOOG_10
+2297,2023-02-08 12:27:00.236790-05:00,ESE,BUY,model_t-dqn_GOOG_10
+2298,2023-02-08 12:32:45.763689-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+2299,2023-02-08 12:32:55.597954-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2300,2023-02-08 12:33:06.158065-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2301,2023-02-08 12:33:22.742764-05:00,CAH,BUY,model_t-dqn_GOOG_10
+2302,2023-02-08 12:33:36.223309-05:00,ELF,HOLD,model_t-dqn_GOOG_10
+2303,2023-02-08 12:33:50.967639-05:00,ESE,BUY,model_t-dqn_GOOG_10
+2304,2023-02-08 12:39:38.893771-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+2305,2023-02-08 12:39:50.693311-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2306,2023-02-08 12:40:06.793932-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2307,2023-02-08 12:40:31.247503-05:00,CAH,BUY,model_t-dqn_GOOG_10
+2308,2023-02-08 12:40:43.836154-05:00,ELF,HOLD,model_t-dqn_GOOG_10
+2309,2023-02-08 12:40:53.655601-05:00,ESE,BUY,model_t-dqn_GOOG_10
+2310,2023-02-08 12:46:21.857019-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+2311,2023-02-08 12:46:29.635635-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2312,2023-02-08 12:46:36.022332-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2313,2023-02-08 12:46:41.572095-05:00,CAH,BUY,model_t-dqn_GOOG_10
+2314,2023-02-08 12:46:46.928543-05:00,ELF,HOLD,model_t-dqn_GOOG_10
+2315,2023-02-08 12:46:51.861903-05:00,ESE,BUY,model_t-dqn_GOOG_10
+2316,2023-02-08 12:52:11.004527-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+2317,2023-02-08 12:52:17.767751-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2318,2023-02-08 12:52:23.723460-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2319,2023-02-08 12:52:29.642746-05:00,CAH,BUY,model_t-dqn_GOOG_10
+2320,2023-02-08 12:52:35.731243-05:00,ELF,HOLD,model_t-dqn_GOOG_10
+2321,2023-02-08 12:52:40.750175-05:00,ESE,BUY,model_t-dqn_GOOG_10
+2322,2023-02-08 12:58:01.968108-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+2323,2023-02-08 12:58:17.028454-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2324,2023-02-08 12:58:24.989294-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2325,2023-02-08 12:58:31.260628-05:00,CAH,BUY,model_t-dqn_GOOG_10
+2326,2023-02-08 12:58:40.084367-05:00,ELF,HOLD,model_t-dqn_GOOG_10
+2327,2023-02-08 12:58:46.207304-05:00,ESE,BUY,model_t-dqn_GOOG_10
+2328,2023-02-08 13:04:11.986015-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+2329,2023-02-08 13:04:19.952748-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2330,2023-02-08 13:04:26.327952-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2331,2023-02-08 13:09:56.968767-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+2332,2023-02-08 13:10:12.699836-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2333,2023-02-08 13:10:26.863067-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2334,2023-02-08 13:15:55.478060-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+2335,2023-02-08 13:16:02.496164-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2336,2023-02-08 13:16:10.714314-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2337,2023-02-08 13:21:43.886703-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+2338,2023-02-08 13:21:50.637194-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2339,2023-02-08 13:21:57.732153-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2340,2023-02-08 13:27:41.075862-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+2341,2023-02-08 13:27:56.253596-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2342,2023-02-08 13:28:12.690479-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2343,2023-02-08 13:33:39.958673-05:00,SMCI,BUY,model_t-dqn_GOOG_10
+2344,2023-02-08 13:33:46.326679-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2345,2023-02-08 13:33:54.758360-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2346,2023-02-08 13:39:27.292197-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2347,2023-02-08 13:39:35.426692-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2348,2023-02-08 13:45:04.148930-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2349,2023-02-08 13:45:13.784745-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2350,2023-02-08 13:50:44.113822-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2351,2023-02-08 13:50:50.053722-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2352,2023-02-08 13:56:26.663709-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2353,2023-02-08 13:56:32.576684-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2354,2023-02-08 14:02:03.176068-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2355,2023-02-08 14:02:09.821933-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2356,2023-02-08 14:07:51.942689-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2357,2023-02-08 14:08:00.154455-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2358,2023-02-08 14:13:34.605060-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2359,2023-02-08 14:13:41.849978-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2360,2023-02-08 14:19:27.701244-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2361,2023-02-08 14:19:37.667772-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2362,2023-02-08 14:25:05.240516-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2363,2023-02-08 14:25:14.932748-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2364,2023-02-08 14:30:51.932720-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2365,2023-02-08 14:30:58.906475-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2366,2023-02-08 14:36:26.139156-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2367,2023-02-08 14:36:32.656556-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2368,2023-02-08 14:41:59.047668-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2369,2023-02-08 14:42:09.591454-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2370,2023-02-08 14:47:38.350950-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2371,2023-02-08 14:47:46.909576-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2372,2023-02-08 14:53:09.610643-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2373,2023-02-08 14:53:15.631806-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2374,2023-02-08 14:58:47.900654-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2375,2023-02-08 14:58:54.104366-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2376,2023-02-08 15:04:21.915758-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2377,2023-02-08 15:04:28.214935-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2378,2023-02-08 15:10:02.155251-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2379,2023-02-08 15:10:14.561412-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2380,2023-02-08 15:15:47.306955-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2381,2023-02-08 15:15:53.930555-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2382,2023-02-08 15:21:23.329480-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2383,2023-02-08 15:21:29.414756-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2384,2023-02-08 15:26:59.367957-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2385,2023-02-08 15:27:12.443709-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2386,2023-02-08 15:32:32.263861-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2387,2023-02-08 15:32:41.133022-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2388,2023-02-08 15:38:10.253084-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2389,2023-02-08 15:38:16.320752-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2390,2023-02-08 15:43:46.254267-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2391,2023-02-08 15:43:52.068220-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2392,2023-02-08 15:49:16.249682-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2393,2023-02-08 15:49:23.066059-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2394,2023-02-08 15:54:50.109957-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2395,2023-02-08 15:54:58.574402-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2396,2023-02-09 09:32:38.504791-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2397,2023-02-09 09:32:44.900023-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2398,2023-02-09 09:33:18.391416-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2399,2023-02-09 09:33:24.631889-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2400,2023-02-09 09:34:08.062938-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2401,2023-02-09 09:34:19.862873-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2402,2023-02-09 09:35:34.260623-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2403,2023-02-09 09:35:40.125176-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2404,2023-02-09 09:37:31.766451-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2405,2023-02-09 09:37:38.667363-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2406,2023-02-09 09:40:40.326441-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2407,2023-02-09 09:40:47.632769-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2408,2023-02-09 09:46:34.470137-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2409,2023-02-09 09:46:45.431479-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2410,2023-02-09 09:52:11.099127-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2411,2023-02-09 09:52:19.600603-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2412,2023-02-09 09:57:48.604363-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2413,2023-02-09 09:57:56.299301-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2414,2023-02-09 10:03:25.839843-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2415,2023-02-09 10:03:31.842417-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2416,2023-02-09 10:09:03.702728-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2417,2023-02-09 10:09:14.036263-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2418,2023-02-09 10:14:33.910818-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2419,2023-02-09 10:14:39.373471-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2420,2023-02-09 10:20:15.451381-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2421,2023-02-09 10:20:26.591782-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2422,2023-02-09 10:25:51.959200-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2423,2023-02-09 10:25:57.734680-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2424,2023-02-09 10:31:28.177724-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2425,2023-02-09 10:31:38.180788-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2426,2023-02-09 10:36:57.087571-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2427,2023-02-09 10:37:04.216094-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2428,2023-02-09 10:42:33.587613-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2429,2023-02-09 10:42:39.872979-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2430,2023-02-09 10:48:14.646756-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2431,2023-02-09 10:48:30.516182-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2432,2023-02-09 10:54:03.826539-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2433,2023-02-09 10:54:10.445452-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2434,2023-02-09 10:59:42.392754-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2435,2023-02-09 10:59:50.334488-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2436,2023-02-09 11:05:15.206092-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2437,2023-02-09 11:05:23.904763-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2438,2023-02-09 11:10:48.721035-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2439,2023-02-09 11:11:00.571008-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2440,2023-02-09 11:16:27.919404-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2441,2023-02-09 11:16:33.843934-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2442,2023-02-09 11:22:10.968745-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2443,2023-02-09 11:22:24.736259-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2444,2023-02-09 11:27:49.704758-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2445,2023-02-09 11:28:07.896962-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2446,2023-02-09 11:33:38.739124-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2447,2023-02-09 11:33:44.072758-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2448,2023-02-09 11:39:13.495718-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2449,2023-02-09 11:39:20.245442-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2450,2023-02-09 11:44:50.147377-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2451,2023-02-09 11:44:56.819783-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2452,2023-02-09 11:50:30.237750-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2453,2023-02-09 11:50:38.332493-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2454,2023-02-09 11:55:55.902501-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2455,2023-02-09 11:56:05.421402-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2456,2023-02-09 12:01:48.672773-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2457,2023-02-09 12:02:03.820267-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2458,2023-02-09 12:07:36.307297-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2459,2023-02-09 12:07:43.651189-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2460,2023-02-09 12:13:16.099092-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2461,2023-02-09 12:13:21.279628-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2462,2023-02-09 12:18:53.079940-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2463,2023-02-09 12:19:00.068288-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2464,2023-02-09 12:24:23.977114-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2465,2023-02-09 12:24:33.576584-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2466,2023-02-09 12:30:05.141379-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2467,2023-02-09 12:30:13.423344-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2468,2023-02-09 12:35:47.030795-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2469,2023-02-09 12:35:52.942932-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2470,2023-02-09 12:41:15.099431-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2471,2023-02-09 12:41:20.616131-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2472,2023-02-09 12:46:56.997935-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2473,2023-02-09 12:47:03.504222-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2474,2023-02-09 12:52:26.673106-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2475,2023-02-09 12:52:38.532466-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2476,2023-02-09 12:58:12.471922-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2477,2023-02-09 12:58:21.215127-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2478,2023-02-09 13:03:47.842975-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2479,2023-02-09 13:03:53.476969-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2480,2023-02-09 13:09:39.992362-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2481,2023-02-09 13:09:50.364366-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2482,2023-02-09 13:15:19.175396-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2483,2023-02-09 13:15:25.936829-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2484,2023-02-09 13:20:56.957308-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2485,2023-02-09 13:21:04.642861-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2486,2023-02-09 13:26:21.208239-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2487,2023-02-09 13:26:26.993320-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2488,2023-02-09 13:31:54.416843-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2489,2023-02-09 13:32:00.388724-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2490,2023-02-09 13:37:25.947059-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2491,2023-02-09 13:37:33.411779-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2492,2023-02-09 13:43:01.200969-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2493,2023-02-09 13:43:08.361782-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2494,2023-02-09 13:48:31.381717-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2495,2023-02-09 13:48:41.900462-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2496,2023-02-09 13:54:02.088529-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2497,2023-02-09 13:54:09.759787-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2498,2023-02-09 13:59:42.949815-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2499,2023-02-09 13:59:48.488827-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2500,2023-02-09 14:05:18.044866-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2501,2023-02-09 14:05:28.062869-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2502,2023-02-09 14:10:56.022631-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2503,2023-02-09 14:11:05.301426-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2504,2023-02-09 14:16:28.359674-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2505,2023-02-09 14:16:35.806777-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2506,2023-02-09 14:22:02.855724-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2507,2023-02-09 14:22:09.458828-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2508,2023-02-09 14:27:39.059264-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2509,2023-02-09 14:27:46.590524-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2510,2023-02-09 14:33:12.268470-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2511,2023-02-09 14:33:18.264421-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2512,2023-02-09 14:38:58.028835-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2513,2023-02-09 14:39:14.746688-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2514,2023-02-09 14:44:47.458181-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2515,2023-02-09 14:44:53.140016-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2516,2023-02-09 14:50:28.564501-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2517,2023-02-09 14:50:35.688608-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2518,2023-02-09 14:55:59.219147-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2519,2023-02-09 14:56:07.160390-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2520,2023-02-09 15:01:31.764474-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2521,2023-02-09 15:01:37.502618-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2522,2023-02-09 15:07:25.164839-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2523,2023-02-09 15:07:44.644788-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2524,2023-02-09 15:13:10.564151-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2525,2023-02-09 15:13:16.491115-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2526,2023-02-09 15:18:41.710372-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2527,2023-02-09 15:18:52.474380-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2528,2023-02-09 15:24:22.041665-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2529,2023-02-09 15:24:28.091893-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2530,2023-02-09 15:29:54.969262-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2531,2023-02-09 15:30:02.636802-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2532,2023-02-09 15:35:24.599006-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2533,2023-02-09 15:35:30.265469-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2534,2023-02-09 15:41:06.498920-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2535,2023-02-09 15:41:12.583176-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2536,2023-02-09 15:46:33.973564-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2537,2023-02-09 15:46:45.839824-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2538,2023-02-09 15:52:07.677977-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2539,2023-02-09 15:52:12.942289-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2540,2023-02-09 15:57:54.616470-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2541,2023-02-09 15:58:07.081718-05:00,TMDX,HOLD,model_t-dqn_GOOG_10
+2542,2023-02-10 09:31:34.175064-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2543,2023-02-10 09:31:45.152263-05:00,TMDX,BUY,model_t-dqn_GOOG_10
+2544,2023-02-10 09:32:41.910189-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2545,2023-02-10 09:32:53.903764-05:00,TMDX,BUY,model_t-dqn_GOOG_10
+2546,2023-02-10 09:33:54.726431-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2547,2023-02-10 09:34:03.362736-05:00,TMDX,BUY,model_t-dqn_GOOG_10
+2548,2023-02-10 09:35:23.474370-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2549,2023-02-10 09:35:33.436024-05:00,TMDX,BUY,model_t-dqn_GOOG_10
+2550,2023-02-10 09:37:36.104736-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2551,2023-02-10 09:37:54.553368-05:00,TMDX,BUY,model_t-dqn_GOOG_10
+2552,2023-02-10 09:40:59.164442-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2553,2023-02-10 09:41:08.077376-05:00,TMDX,BUY,model_t-dqn_GOOG_10
+2554,2023-02-10 09:47:14.098156-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2555,2023-02-10 09:47:39.970300-05:00,TMDX,BUY,model_t-dqn_GOOG_10
+2556,2023-02-10 09:53:29.888147-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2557,2023-02-10 09:53:42.802809-05:00,TMDX,BUY,model_t-dqn_GOOG_10
+2558,2023-02-10 09:59:06.087565-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2559,2023-02-10 09:59:18.726928-05:00,TMDX,BUY,model_t-dqn_GOOG_10
+2560,2023-02-10 10:04:40.760834-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2561,2023-02-10 10:04:46.636997-05:00,TMDX,BUY,model_t-dqn_GOOG_10
+2562,2023-02-10 10:10:26.760508-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2563,2023-02-10 10:10:44.270297-05:00,TMDX,BUY,model_t-dqn_GOOG_10
+2564,2023-02-10 10:16:07.456748-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2565,2023-02-10 10:16:21.225016-05:00,TMDX,BUY,model_t-dqn_GOOG_10
+2566,2023-02-10 10:22:09.166144-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2567,2023-02-10 10:22:16.840772-05:00,TMDX,BUY,model_t-dqn_GOOG_10
+2568,2023-02-10 10:27:54.564040-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2569,2023-02-10 10:28:02.072967-05:00,TMDX,BUY,model_t-dqn_GOOG_10
+2570,2023-02-10 10:33:33.145735-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2571,2023-02-10 10:33:40.988832-05:00,TMDX,BUY,model_t-dqn_GOOG_10
+2572,2023-02-10 10:39:22.546769-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2573,2023-02-10 10:39:29.922313-05:00,TMDX,BUY,model_t-dqn_GOOG_10
+2574,2023-02-10 10:45:13.556782-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2575,2023-02-10 10:45:24.348463-05:00,TMDX,BUY,model_t-dqn_GOOG_10
+2576,2023-02-10 10:50:57.654252-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2577,2023-02-10 10:51:04.556198-05:00,TMDX,BUY,model_t-dqn_GOOG_10
+2578,2023-02-10 10:56:58.482885-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2579,2023-02-10 10:57:16.081902-05:00,TMDX,BUY,model_t-dqn_GOOG_10
+2580,2023-02-10 11:02:56.604707-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2581,2023-02-10 11:03:13.269087-05:00,TMDX,BUY,model_t-dqn_GOOG_10
+2582,2023-02-10 11:08:47.812473-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2583,2023-02-10 11:08:58.759246-05:00,TMDX,BUY,model_t-dqn_GOOG_10
+2584,2023-02-10 11:14:29.971819-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2585,2023-02-10 11:14:35.328042-05:00,TMDX,BUY,model_t-dqn_GOOG_10
+2586,2023-02-10 11:20:31.891044-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2587,2023-02-10 11:20:50.128583-05:00,TMDX,BUY,model_t-dqn_GOOG_10
+2588,2023-02-10 11:26:19.063639-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2589,2023-02-10 11:26:24.600828-05:00,TMDX,BUY,model_t-dqn_GOOG_10
+2590,2023-02-10 11:32:05.753703-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2591,2023-02-10 11:32:21.595409-05:00,TMDX,BUY,model_t-dqn_GOOG_10
+2592,2023-02-10 11:38:22.575964-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2593,2023-02-10 11:38:32.309780-05:00,TMDX,BUY,model_t-dqn_GOOG_10
+2594,2023-02-10 11:44:07.226286-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2595,2023-02-10 11:44:17.860333-05:00,TMDX,BUY,model_t-dqn_GOOG_10
+2596,2023-02-10 11:50:00.960774-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2597,2023-02-10 11:50:10.272356-05:00,TMDX,BUY,model_t-dqn_GOOG_10
+2598,2023-02-10 11:55:39.456941-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2599,2023-02-10 11:55:47.682367-05:00,TMDX,BUY,model_t-dqn_GOOG_10
+2600,2023-02-10 12:01:29.846229-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2601,2023-02-10 12:01:38.776789-05:00,TMDX,BUY,model_t-dqn_GOOG_10
+2602,2023-02-10 12:07:10.512185-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2603,2023-02-10 12:07:22.370621-05:00,TMDX,BUY,model_t-dqn_GOOG_10
+2604,2023-02-10 12:12:49.400067-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2605,2023-02-10 12:12:55.661929-05:00,TMDX,BUY,model_t-dqn_GOOG_10
+2606,2023-02-10 12:18:33.637667-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2607,2023-02-10 12:18:53.630050-05:00,TMDX,BUY,model_t-dqn_GOOG_10
+2608,2023-02-10 12:24:20.147825-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2609,2023-02-10 12:24:26.343983-05:00,TMDX,BUY,model_t-dqn_GOOG_10
+2610,2023-02-10 12:30:17.700995-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2611,2023-02-10 12:30:33.221097-05:00,TMDX,BUY,model_t-dqn_GOOG_10
+2612,2023-02-10 12:36:01.618141-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2613,2023-02-10 12:36:11.030716-05:00,TMDX,BUY,model_t-dqn_GOOG_10
+2614,2023-02-10 12:42:06.686137-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2615,2023-02-10 12:42:22.276843-05:00,TMDX,BUY,model_t-dqn_GOOG_10
+2616,2023-02-10 12:48:31.965646-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2617,2023-02-10 12:48:42.016775-05:00,TMDX,BUY,model_t-dqn_GOOG_10
+2618,2023-02-10 12:54:21.831214-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2619,2023-02-10 12:54:33.204400-05:00,TMDX,BUY,model_t-dqn_GOOG_10
+2620,2023-02-10 13:00:02.785262-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2621,2023-02-10 13:00:26.234723-05:00,TMDX,BUY,model_t-dqn_GOOG_10
+2622,2023-02-10 13:06:09.266493-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2623,2023-02-10 13:06:15.220684-05:00,TMDX,BUY,model_t-dqn_GOOG_10
+2624,2023-02-10 13:11:40.851290-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2625,2023-02-10 13:11:59.549737-05:00,TMDX,BUY,model_t-dqn_GOOG_10
+2626,2023-02-10 13:18:10.188848-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2627,2023-02-10 13:18:24.788762-05:00,TMDX,BUY,model_t-dqn_GOOG_10
+2628,2023-02-10 13:23:52.007014-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2629,2023-02-10 13:23:57.543399-05:00,TMDX,BUY,model_t-dqn_GOOG_10
+2630,2023-02-10 13:29:39.583269-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2631,2023-02-10 13:29:45.796113-05:00,TMDX,BUY,model_t-dqn_GOOG_10
+2632,2023-02-10 13:35:20.693362-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2633,2023-02-10 13:35:30.945608-05:00,TMDX,BUY,model_t-dqn_GOOG_10
+2634,2023-02-10 13:40:55.156574-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2635,2023-02-10 13:41:00.730334-05:00,TMDX,BUY,model_t-dqn_GOOG_10
+2636,2023-02-10 13:47:02.016838-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2637,2023-02-10 13:47:23.156760-05:00,TMDX,BUY,model_t-dqn_GOOG_10
+2638,2023-02-10 13:52:58.473727-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2639,2023-02-10 13:53:06.221974-05:00,TMDX,BUY,model_t-dqn_GOOG_10
+2640,2023-02-10 13:58:38.404890-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2641,2023-02-10 13:58:46.194903-05:00,TMDX,BUY,model_t-dqn_GOOG_10
+2642,2023-02-10 14:04:17.561116-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2643,2023-02-10 14:04:28.111833-05:00,TMDX,BUY,model_t-dqn_GOOG_10
+2644,2023-02-10 14:10:03.482779-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2645,2023-02-10 14:10:12.352237-05:00,TMDX,BUY,model_t-dqn_GOOG_10
+2646,2023-02-10 14:15:54.876067-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2647,2023-02-10 14:16:03.989007-05:00,TMDX,BUY,model_t-dqn_GOOG_10
+2648,2023-02-10 14:21:28.272766-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2649,2023-02-10 14:21:39.768044-05:00,TMDX,BUY,model_t-dqn_GOOG_10
+2650,2023-02-10 14:27:31.924599-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2651,2023-02-10 14:27:43.108372-05:00,TMDX,BUY,model_t-dqn_GOOG_10
+2652,2023-02-10 14:33:14.361849-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2653,2023-02-10 14:33:19.903990-05:00,TMDX,BUY,model_t-dqn_GOOG_10
+2654,2023-02-10 14:38:51.668770-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2655,2023-02-10 14:39:00.095519-05:00,TMDX,BUY,model_t-dqn_GOOG_10
+2656,2023-02-10 14:44:41.113606-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2657,2023-02-10 14:44:50.925597-05:00,TMDX,BUY,model_t-dqn_GOOG_10
+2658,2023-02-10 14:50:27.087251-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2659,2023-02-10 14:50:35.039536-05:00,TMDX,BUY,model_t-dqn_GOOG_10
+2660,2023-02-10 14:56:06.627198-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2661,2023-02-10 14:56:14.659619-05:00,TMDX,BUY,model_t-dqn_GOOG_10
+2662,2023-02-10 15:02:12.139544-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2663,2023-02-10 15:02:24.883307-05:00,TMDX,BUY,model_t-dqn_GOOG_10
+2664,2023-02-10 15:08:16.744768-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2665,2023-02-10 15:08:26.680760-05:00,TMDX,BUY,model_t-dqn_GOOG_10
+2666,2023-02-10 15:13:56.343013-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2667,2023-02-10 15:14:01.432874-05:00,TMDX,BUY,model_t-dqn_GOOG_10
+2668,2023-02-10 15:19:40.260123-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2669,2023-02-10 15:19:46.136907-05:00,TMDX,BUY,model_t-dqn_GOOG_10
+2670,2023-02-10 15:25:15.138230-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2671,2023-02-10 15:25:23.090357-05:00,TMDX,BUY,model_t-dqn_GOOG_10
+2672,2023-02-10 15:30:59.378773-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2673,2023-02-10 15:31:06.966350-05:00,TMDX,BUY,model_t-dqn_GOOG_10
+2674,2023-02-10 15:36:38.669510-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2675,2023-02-10 15:36:48.489102-05:00,TMDX,BUY,model_t-dqn_GOOG_10
+2676,2023-02-10 15:42:16.971895-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2677,2023-02-10 15:42:22.654981-05:00,TMDX,BUY,model_t-dqn_GOOG_10
+2678,2023-02-10 15:48:11.610551-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2679,2023-02-10 15:48:28.769457-05:00,TMDX,BUY,model_t-dqn_GOOG_10
+2680,2023-02-10 15:54:08.619087-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2681,2023-02-10 15:54:22.249720-05:00,TMDX,BUY,model_t-dqn_GOOG_10
+2682,2023-02-10 15:59:50.021997-05:00,AGYS,BUY,model_t-dqn_GOOG_10
+2683,2023-02-10 15:59:55.424114-05:00,TMDX,BUY,model_t-dqn_GOOG_10
